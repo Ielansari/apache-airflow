@@ -1,0 +1,46 @@
+,numero_compte,nom_client,prenom_client,ville,solde,transaction_mensuelle,statut
+0,10258974563214578963,El Kadiri,Sanaa,Casablanca,5789.54,145,Non verifie
+1,20136547895632478965,Ben Abdeslam,Mohamed,Rabat,2300.0,78,En cours de verification
+2,30125478596321459863,Bouhali,Fatima,Tanger,987.25,32,Verifie
+3,40136987452147896523,Zerrouki,Mehdi,Marrakech,6500.0,210,Verifie
+4,50123698524785236985,Chahbouni,Fatiha,Agadir,1200.75,45,Non verifie
+5,60136985214785236952,Rahoui,Adil,Fes,4300.3,132,Verifie
+6,70147896521479563214,Tazi,Nadia,Ouarzazate,875.45,29,Non verifie
+7,80123698524785236987,Hamidi,Youssef,Kenitra,3600.25,105,En cours de verification
+8,90147896521478523698,Ouazzani,Salma,Essaouira,2500.7,88,Verifie
+9,10014789652147896325,Laaroussi,Hassan,Tetouan,1590.85,55,Verifie
+10,11023698521478523698,Baddou,Fatima Zahra,El Jadida,410.0,12,Non verifie
+11,12014789652147896325,Ech-Charqaoui,Othman,Meknes,775.3,23,Verifie
+12,13023698521478523698,Haloui,Nawal,Taroudant,3310.5,97,Non verifie
+13,14014789652147896325,El Fegoun,Reda,Oujda,520.2,19,En cours de verification
+14,15036985214785236985,Mounir,Lamia,El-Aioun,1900.65,62,Verifie
+15,16014789652147896325,Sebbar,Mehdi,Taza,980.4,35,Verifie
+16,17036985214785236985,Messaoudi,Amina,Safi,2740.7,81,Non verifie
+17,18014789652147896325,El Hajjaji,Ahmed,Berrechid,625.1,28,En cours de verification
+18,19036985214785236985,Bouazza,Zineb,Khouribga,4015.9,123,Verifie
+19,20014789652147896325,Chkili,Samir,Tiznit,780.05,26,Verifie
+20,21036985214785236985,Abbasi,Houda,Guelmim,1050.3,41,Non verifie
+21,22014789652147896325,Blaoui,Ayoub,Dakhla,1960.2,67,En cours de verification
+22,23036985214785236985,Fassi-Fihri,Rania,Errachidia,6244.85,198,Verifie
+23,24014789652147896325,El Kaddouri,Adam,Beni Mellal,420.03,14,Non verifie
+24,25036985214785236985,Ezziani,Imane,Oued Zem,3055.1,112,Verifie
+25,26014789652147896325,Hannach,Khalid,Larache,888.88,33,Non verifie
+26,27036985214785236985,Ikken,Hajar,Sidi Kacem,1780.4,69,En cours de verification
+27,28014789652147896325,Kadiri,Mouhsine,Tinghir,2597.2,93,Verifie
+28,29036985214785236985,Lamsrengi,Hafsa,Assa-Zag,935.6,37,Verifie
+29,30014789652147896325,Mekouar,Saad,Sefrou,6130.7,201,Non verifie
+30,31036985214785236985,Najem,Ibtissam,Gueliz,430.15,16,En cours de verification
+31,32014789652147896325,Oubaha,Noureddine,Saidia,1175.9,42,Verifie
+32,33036985214785236985,Plum,Selma,Ouarzazate,2950.3,108,Non verifie
+33,34014789652147896325,Raissi,Hicham,Dakhla,550.3,21,Verifie
+34,35036985214785236985,Sahraoui,Salima,Errachidia,4789.7,176,Verifie
+35,36014789652147896325,Tabit,Yassin,Ben Guerir,625.8,24,Non verifie
+36,37036985214785236985,Vandamme,Lina,Khouribga,2100.25,72,En cours de verification
+37,38014789652147896325,Zaoui,Anas,Nador,3905.4,117,Verifie
+38,39036985214785236985,Abdelmoula,Ines,Oujda,889.1,36,Verifie
+39,40014789652147896325,Beldi,Imran,Kenitra,688.55,25,Non verifie
+40,41036985214785236985,Chabat,Najwa,Marrakech,3050.2,103,En cours de verification
+41,42014789652147896325,Dinari,Ilyas,Casablanca,1360.45,47,Verifie
+42,43036985214785236985,Essoufi,Kaoutar,Tangier,2545.75,94,Non verifie
+43,44014789652147896325,Fettah,Sara,Agadir,720.1,32,En cours de verification
+44,45036985214785236985,Goua,Khalil,Fes,1967.85,75,Verifie

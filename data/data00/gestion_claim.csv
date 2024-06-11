@@ -1,0 +1,46 @@
+num_claim,nom_client,nom_agence,date_ouverture,statut
+1001,Ahmed Benali,Agence Casablanca Centre,2021-05-10,En attente
+1002,Najia El Mansour,Agence Rabat Hassan,2021-06-02,En cours
+1003,Mounir El Haddad,Agence Marrakech Menara,2021-04-15,Clôturée
+1004,Leila Chaoui,Agence Fès Centre,2021-03-20,En attente
+1005,Karim Berrada,Agence Tanger Ville,2021-05-30,En cours
+1006,Houda Ait El Cadi,Agence Rabat Agdal,2021-06-20,En attente
+1007,Yassine Oulad,Agence Agadir Centre,2021-05-05,Clôturée
+1008,Sara El Hadi,Agence Ouarzazate,2021-03-25,En cours
+1009,Anas El Maghri,Agence Kenitra Centre,2021-04-10,En attente
+1010,Fatima Zahra Bouhadda,Agence Safi,2021-06-15,En cours
+1011,Younes Bouziani,Agence El Jadida,2021-03-10,Clôturée
+1012,Amina Berrich,Agence Mohammedia,2021-02-07,En attente
+1013,Hamza El Khamari,Agence Nador,2021-07-02,En cours
+1014,Leila Zouzou,Agence Beni Mellal,2021-04-20,En attente
+1015,Mehdi El Yamani,Agence Taroudant,2021-03-17,Clôturée
+1016,Nawal Zouhairi,Agence Berkane,2021-06-25,En attente
+1017,Omar Belhaj,Agence Tétouan Centre,2021-05-13,En cours
+1018,Sofia Harrouchi,Agence Essaouira,2021-03-23,Clôturée
+1019,Adil Mernissi,Agence Casablanca Maarif,2021-04-30,En attente
+1020,Nadia Benjelloun,Agence Rabat Hay Riad,2021-07-15,En cours
+1021,Yassin El Amrani,Agence Agadir Dakhla,2021-06-10,Clôturée
+1022,Khadija Bensaid,Agence Meknès Centre,2021-05-07,En attente
+1023,Youssef El Kadiri,Agence Tanger Médina,2021-03-27,En cours
+1024,Kawtar El Abbassi,Agence Oujda Centre,2021-08-05,En attente
+1025,Khalid Lahlou,Agence Marrakech Guéliz,2021-04-03,Clôturée
+1026,Fatima Ezzahra El Haddadi,Agence Fkih Ben Salah,2021-06-21,En attente
+1027,Othmane El Aouad,Agence Kénitra Médina,2021-05-01,En cours
+1028,Houda Ziani,Agence El Jadida Port,2021-02-13,Clôturée
+1029,Brahim El Meskini,Agence Guelmim,2021-08-10,En attente
+1030,Yasmine El Filali,Agence Tiznit,2021-04-25,En cours
+1031,Mehdi Chakiri,Agence Settat Centre,2021-07-20,Clôturée
+1032,Leila El Hamdaoui,Agence Errachidia,2021-06-15,En attente
+1033,Amine Akkal,Agence Larache,2021-05-08,En cours
+1034,Sara El Andaloussi,Agence Sidi Kacem,2021-03-30,Clôturée
+1035,Nabil El Fassi,Agence Casablanca Californie,2021-08-08,En attente
+1036,Siham Bennis,Agence Rabat Souissi,2021-04-02,En cours
+1037,Aymane El Khattabi,Agence Agadir Dakhla,2021-07-25,Clôturée
+1038,Hajar Ait Moussa,Agence Meknès Ismailia,2021-06-05,En attente
+1039,Reda Bakkali,Agence Tanger Malabata,2021-05-16,En cours
+1040,Imane El Azaoui,Agence Ouarzazate,2021-04-05,Clôturée
+1041,Abdellah El Azzouzi,Agence Casablanca Oasis,2021-08-15,En attente
+1042,Salma Ouhadi,Agence Rabat Hay Riad,2021-04-07,En cours
+1043,Anas Ait Lhaj,Agence Laâyoune,2021-07-30,Clôturée
+1044,Fatima El Harraqi,Agence Mohammedia,2021-06-20,En attente
+1045,Youssef Oulad,Agence El Jadida,2021-05-23,En cours

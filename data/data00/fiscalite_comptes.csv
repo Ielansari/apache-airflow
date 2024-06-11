@@ -1,0 +1,11 @@
+id,type_avantage,taux_imposition,date_application,description
+1,Exonération des frais de tenue de compte,0.0,2020-01-01,Les frais de tenue de compte sont exemptés pour les comptes inactifs
+2,Réduction des frais de virement,0.0,2019-05-15,Les frais de virement sont réduits pour les virements vers des comptes du même titulaire
+3,Exonération de TVA sur les intérêts,0.0,2021-03-10,Les intérêts générés sur le compte d'épargne sont exonérés de TVA
+4,Réduction des frais de retrait,0.0,2018-11-20,Les frais de retrait aux distributeurs sont réduits pour les clients premium
+5,Déduction des intérêts d'emprunt,0.0,2017-09-03,Les intérêts d'emprunt pour l'acquisition de la résidence principale sont déductibles d'impôt
+6,Avantage fidélité,0.0,2019-08-12,Une récompense est offerte aux clients fidèles qui domicilient leurs revenus chez la banque
+7,Exonération de frais de découvert,0.0,2020-06-30,Les frais liés au découvert autorisé sont exonérés pour les comptes avec des revenus réguliers
+8,Réduction des frais de tenue de compte,0.0,2018-02-25,Les frais de tenue de compte sont réduits pour les étudiants
+9,Exemption des frais de cotisation,0.0,2021-01-15,Les frais de cotisation à la carte bancaire sont exemptés pour les clients premium
+10,Taux privilégié sur les prêts immobiliers,0.0,2017-07-18,Des conditions spéciales sont accordées aux clients de la banque pour les prêts immobiliers

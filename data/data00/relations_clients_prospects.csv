@@ -1,0 +1,31 @@
+client_id,nom,prenom,profession,ville,age,situation_familiale,revenu_annuel,prospect
+CL1001,El Amrani,Fatima,Enseignante,Casablanca,45,Marié(e),100000,False
+CL1002,Laaroussi,Mohamed,Ingénieur,Rabat,38,Célibataire,150000,True
+CL1003,Bouchraoui,Sanaa,Médecin,Fès,41,Divorcé(e),120000,False
+CL1004,Kabbaj,Ali,Avocat,Tanger,50,Marié(e),180000,True
+CL1005,Mezouar,Nadia,Commerçante,Marrakech,35,Célibataire,90000,False
+CL1006,Belhaj,Youssef,Architecte,Agadir,42,Marié(e),130000,True
+CL1007,Hammani,Samira,Journaliste,Essaouira,37,Célibataire,95000,False
+CL1008,Qadiri,Hassan,Agent immobilier,Tétouan,48,Divorcé(e),160000,True
+CL1009,Fassi,Mouna,Consultante RH,Ouarzazate,40,Marié(e),140000,False
+CL1010,Berrada,Karim,Pilote de ligne,Meknès,44,Célibataire,110000,True
+CL1011,Chraïbi,Ibtissam,Pharmacienne,El Jadida,39,Marié(e),125000,False
+CL1012,El Malki,Khalid,Chef d'entreprise,Tanger,47,Veuf(ve),170000,True
+CL1013,Sbai,Noura,Styliste,Marrakech,36,Célibataire,92000,False
+CL1014,Harraq,Omar,Informaticien,Agadir,43,Marié(e),135000,True
+CL1015,Raji,Meryem,Traductrice,Rabat,34,Célibataire,89000,False
+CL1016,El Kassimi,Said,Électricien,Casablanca,49,Divorcé(e),155000,True
+CL1017,El Alaoui,Faiza,Avocate,Fès,33,Célibataire,91000,False
+CL1018,Bennis,Amine,Artisan,Marrakech,45,Marié(e),130000,True
+CL1019,El Hachimi,Salma,Archéologue,Essaouira,39,Célibataire,94000,False
+CL1020,Chakir,Yassin,Géologue,Tétouan,48,Marié(e),140000,True
+CL1021,Maalouf,Rania,Graphiste,Ouarzazate,41,Divorcé(e),120000,False
+CL1022,Sahraoui,Fouad,Écrivain,Meknès,44,Célibataire,105000,True
+CL1023,Khamlichi,Raja,Consultante marketing,El Jadida,38,Marié(e),125000,False
+CL1024,Tazi,Aziz,Pompier,Agadir,42,Veuf(ve),160000,True
+CL1025,Lahlou,Nora,Psychologue,Marrakech,35,Célibataire,92000,False
+CL1026,Idrissi,Khalil,Pharmacien,Rabat,43,Marié(e),138000,True
+CL1027,Maslout,Imane,Enseignante,Casablanca,36,Célibataire,93000,False
+CL1028,Zerouali,Khalid,Géomètre,Tanger,49,Divorcé(e),145000,True
+CL1029,El Amine,Houda,Psychiatre,Agadir,34,Marié(e),125000,False
+CL1030,Laaraj,Sami,Pilote de ligne,Marrakech,37,Célibataire,95000,True

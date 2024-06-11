@@ -1,0 +1,46 @@
+,date,heure,montant,beneficiaire,type,categorie,etat
+0,2021-06-01,2024-04-23,569.75,Magasin Bab Doukkala,Achat en ligne,Commerce,Acceptee
+1,2021-06-02,2024-04-23,1250.0,Societe delectricite de Casablanca,Paiement de facture,Services publics,Acceptee
+2,2021-06-03,2024-04-23,3000.0,Salim El Amrani,Virement interne,Finance,Acceptee
+3,2021-06-04,2024-04-23,480.0,Restaurant Le Ryad,Paiement par carte,Restauration,Acceptee
+4,2021-06-05,2024-04-23,800.0,SAH Laayoune,Paiement de facture,Services publics,Acceptee
+5,2021-06-06,2024-04-23,650.0,Amal Rahmouni,Virement interne,Finance,Acceptee
+6,2021-06-07,2024-04-23,630.25,Station Essence Shell,Paiement par carte,Carburant,Acceptee
+7,2021-06-08,2024-04-23,1450.3,Amine El Hadi,Virement interne,Finance,Acceptee
+8,2021-06-09,2024-04-23,990.0,Internet Haut Debit,Paiement de facture,Abonnement,Acceptee
+9,2021-06-10,2024-04-23,700.0,Magasin Eden,Paiement par carte,Shopping,Acceptee
+10,2021-06-11,2024-04-23,1200.0,Societe des Eaux de Rabat,Paiement de facture,Services publics,Acceptee
+11,2021-06-12,2024-04-23,760.0,Lina Benjelloun,Virement interne,Finance,Acceptee
+12,2021-06-13,2024-04-23,345.8,Pizzeria Di Napoli,Paiement par carte,Restauration,Acceptee
+13,2021-06-14,2024-04-23,329.0,Adil Haddouchi,Virement interne,Finance,Acceptee
+14,2021-06-15,2024-04-23,2400.0,Blue Taxi,Paiement de facture,Services publics,Acceptee
+15,2021-06-16,2024-04-23,480.5,Cafe Le Sphinx,Paiement par carte,Restauration,Acceptee
+16,2021-06-17,2024-04-23,1850.0,Mohamed Amine Ait Ali,Virement interne,Finance,Acceptee
+17,2021-06-18,2024-04-23,670.0,Station Essence Afriquia,Paiement par carte,Carburant,Acceptee
+18,2021-06-19,2024-04-23,890.0,Eau Minerale Duran,Achat en ligne,Alimentation,Acceptee
+19,2021-06-20,2024-04-23,870.0,Cinema Megarama,Paiement par carte,Loisirs,Acceptee
+20,2021-06-21,2024-04-23,420.75,Dounia Najib,Virement interne,Finance,Acceptee
+21,2021-06-22,2024-04-23,765.0,Restaurant du Port,Paiement par carte,Restauration,Acceptee
+22,2021-06-23,2024-04-23,950.0,Optique Vision Plus,Achat en ligne,Sante,Acceptee
+23,2021-06-24,2024-04-23,2730.0,Ecole francaise de Casablanca,Paiement de frais de scolarite,Education,Acceptee
+24,2021-06-25,2024-04-23,250.0,Omar Zerouali,Virement interne,Finance,Acceptee
+25,2021-06-26,2024-04-23,135.2,Cafe La Finca,Paiement par carte,Restauration,Acceptee
+26,2021-06-27,2024-04-23,880.0,Hakim Mechri,Virement interne,Finance,Acceptee
+27,2021-06-28,2024-04-23,620.0,Maison de la Presse,Achat en ligne,Librairie,Acceptee
+28,2021-06-29,2024-04-23,1500.0,CNSS Maroc,Paiement de cotisations,Securite sociale,Acceptee
+29,2021-06-30,2024-04-23,430.0,Clinique Al Afia,Paiement en ligne,Sante,Acceptee
+30,2021-07-01,2024-04-23,720.0,Toufik Berrada,Virement interne,Finance,Acceptee
+31,2021-07-02,2024-04-23,380.0,Station Essence Total,Paiement par carte,Carburant,Acceptee
+32,2021-07-03,2024-04-23,1490.0,Institut de beaute Zahra,Paiement de services,Beaute,Acceptee
+33,2021-07-04,2024-04-23,770.0,Marouane Adnani,Virement interne,Finance,Acceptee
+34,2021-07-05,2024-04-23,560.75,Pharmacie AlHouda,Paiement en ligne,Sante,Acceptee
+35,2021-07-06,2024-04-23,990.0,Noury Salimi,Virement interne,Finance,Acceptee
+36,2021-07-07,2024-04-23,380.0,Restaurant Chez Ali,Paiement par carte,Restauration,Acceptee
+37,2021-07-08,2024-04-23,680.0,Magasin Le Comptoir,Achat en ligne,Commerce,Acceptee
+38,2021-07-09,2024-04-23,930.0,Stade Mohammed V,Paiement en ligne,Sport,Acceptee
+39,2021-07-10,2024-04-23,270.0,Khalid Hajji,Virement interne,Finance,Acceptee
+40,2021-07-11,2024-04-23,1450.25,Centre Commercial Morroccan Mall,Paiement par carte,Shopping,Acceptee
+41,2021-07-12,2024-04-23,470.0,Meryem El Harraq,Virement interne,Finance,Acceptee
+42,2021-07-13,2024-04-23,690.5,Boulangerie Patisserie Amal,Paiement par carte,Alimentation,Acceptee
+43,2021-07-14,2024-04-23,1290.0,Societe de Telecommunications Maroc Telecom,Paiement de facture,Services publics,Acceptee
+44,2021-07-15,2024-04-23,630.75,Salon de Coiffure La Creativite,Paiement en ligne,Beaute,Acceptee

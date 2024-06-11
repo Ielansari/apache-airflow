@@ -1,0 +1,41 @@
+client,profession,salaire_mensuel,montant_pret,taux_interet,duree_mois
+Fatima Zahra Ali,Enseignante,12000,150000,8.0,48
+Hicham Moussaoui,Ingénieur,20000,250000,7.5,60
+Amina Benjelloun,Médecin,35000,400000,6.0,72
+Yassin El Mardi,Avocat,28000,300000,7.0,60
+Khadija Amrani,Journaliste,15000,200000,8.5,48
+Adnan Chakir,Architecte,18000,220000,7.75,60
+Nawal Tazi,Pharmacienne,25000,280000,6.5,72
+Omar Sebbar,Pilote,40000,500000,6.0,84
+Mariam Oulhaj,Ingénieure Agronome,22000,270000,7.25,60
+Ahmed Ridaoui,Dentiste,30000,350000,7.0,72
+Sanaa Jabali,Consultante,27000,320000,7.5,72
+Khalid Lahlou,Directeur Marketing,40000,450000,6.5,84
+Loubna Ait Baamrane,Notaire,32000,380000,6.75,72
+Mehdi Agourram,Comptable,18000,210000,8.0,60
+Hakima El Amrani,Phytothérapeute,24000,300000,7.25,72
+Tarik Jabiri,Infirmier,15000,180000,8.5,48
+Hind Slaoui,Avocate,23000,260000,7.75,60
+Anas El Khattabi,Graphiste,16000,190000,8.0,48
+Rachida Fikri,Gérante de Spa,28000,320000,6.75,72
+Wassim Harmach,Ingénieur Civil,25000,290000,7.25,60
+Chaimae Benaicha,Consultante RH,30000,350000,7.0,72
+Youssef El Kanouni,Pilote de Chasse,45000,500000,6.0,84
+Imane Louzani,Archéologue,20000,240000,7.75,60
+Saad Benchellal,Nutritionniste,21000,250000,7.5,72
+Leila Boulkaid,Traductrice,18000,210000,8.0,60
+Abdelkrim Fassi,Chef Cuisinier,30000,350000,6.5,72
+Rania El Khaoulani,Styliste,25000,290000,7.25,60
+Mouad Raissi,Acteur,35000,400000,6.0,84
+Soukaina Ramzi,Psychologue,22000,260000,8.0,60
+Karim Bounaim,Web Développeur,18000,220000,7.75,60
+Sara El Hamidi,Cheffe Projet,28000,320000,6.75,72
+Khalil Bouabid,CEO,45000,500000,6.0,84
+Nadia El Ghaouti,Développeuse Mobile,25000,290000,7.25,60
+Hicham Bouchentouf,Scénariste,21000,250000,7.5,72
+Samira El Idrissi,Chef de Projet IT,30000,350000,7.0,72
+Hamza Lahlou,Architecte d'Intérieur,23000,270000,7.25,60
+Imane Harb,Designer,20000,240000,7.75,60
+Oussama Ben Malek,Consultant Financier,32000,370000,6.5,72
+Hiba Berrada,Rédactrice en Chef,26000,300000,7.0,72
+Brahim El Khamlichi,Directeur Ressources Humaines,38000,440000,6.5,84

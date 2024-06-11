@@ -1,0 +1,51 @@
+,id,date,beneficiaire,montant,motif
+0,1,2021-08-15,Sarah Yacoubi,1500,Frais de scolarite
+1,2,2021-08-16,Khalid Amrani,3000,Facture delectricite
+2,3,2021-08-17,Leila Ouazzani,500,Achat de provisions
+3,4,2021-08-18,Yassine Meziani,2000,Renovation de la maison
+4,5,2021-08-19,Nora Belkadi,700,Soin veterinaire pour animal de compagnie
+5,6,2021-08-20,Amir Bensouda,1250,Achat de vetements
+6,7,2021-08-21,Zineb El Mazari,1800,Frais medicaux
+7,8,2021-08-22,Mehdi El Farsi,2100,Paiement fournisseur
+8,9,2021-08-23,Sara Bouchra,950,Cadeau danniversaire
+9,10,2021-08-24,Karim Boujemaa,1800,Achat de meubles
+10,11,2021-08-25,Hiba Lahlou,1200,Frais de transport
+11,12,2021-08-26,Rachid Ait Kamar,1600,Paiement loyer
+12,13,2021-08-27,Fatima Oulad,800,Depenses alimentaires
+13,14,2021-08-28,Mohammed Sadiq,2400,Frais dhopital
+14,15,2021-08-29,Salma El Bakkali,1750,Cours de musique
+15,16,2021-08-30,Fouad El Baroudi,950,Achat de livres
+16,17,2021-08-31,Chaimaa Benabdeljelil,2000,Frais de mariage
+17,18,2021-09-01,Youssef Choukri,3000,Voyage a letranger
+18,19,2021-09-02,Rania Jaafari,1100,Soin dentaire
+19,20,2021-09-03,Kamal El Alaoui,1350,Frais de telephone
+20,21,2021-09-04,Nawal Mernissi,850,Achat de jouets
+21,22,2021-09-05,Ahmed Ouhaddou,1200,Abonnement sportif
+22,23,2021-09-06,Amina Harrou,950,Frais de cours
+23,24,2021-09-07,Samia Qasmi,2000,Achat materiel informatique
+24,25,2021-09-08,Walid Essakalli,1800,Frais de jardinage
+25,26,2021-09-09,Loubna Bouhaddi,1500,Paiement garde denfants
+26,27,2021-09-10,Omar Bouchaib,950,Achat de decoration
+27,28,2021-09-11,Soukaina Bouazza,1200,Frais de sante
+28,29,2021-09-12,Adil Chafik,1000,Donation a une association
+29,30,2021-09-13,Fatima Zahra Belarbi,2200,Achat de materiel sportif
+30,31,2021-09-14,Anas Othmani,1300,Frais de formation
+31,32,2021-09-15,Laila Benjelloun,1850,Cadeau de mariage
+32,33,2021-09-16,Othmane El Kandil,950,Achat de chaussures
+33,34,2021-09-17,Rita Hafdi,2100,Frais de formation
+34,35,2021-09-18,Yassin El Yousfi,1750,Facture deau et dassainissement
+35,36,2021-09-19,Sofia Hajji,1550,Achat de materiel de cuisine
+36,37,2021-09-20,Mustapha El Banani,2000,Frais de transport
+37,38,2021-09-21,Aicha Zerouali,2300,Achat de bijoux
+38,39,2021-09-22,Tarik El Ghazali,1200,Paiement loyer
+39,40,2021-09-23,Leila Hamidi,1000,Cadeau de naissance
+40,41,2021-09-24,Ali Bouzid,2400,Frais de sante
+41,42,2021-09-25,Nadia Jazouli,1850,Assurance habitation
+42,43,2021-09-26,Youssef El Ksiri,800,Abonnement presse
+43,44,2021-09-27,Amina Benjelloun,2100,Frais de garde denfants
+44,45,2021-09-28,Karima Berrada,1750,Frais de communication
+45,46,2021-09-29,Othmane Benali,1550,Achat de cadeaux
+46,47,2021-09-30,Sara El Harraq,2000,Frais de rentree scolaire
+47,48,2021-10-01,Hicham Laaroussi,2300,Frais notaries
+48,49,2021-10-02,Nisrine Oulad,1200,Achat de cosmetiques
+49,50,2021-10-03,Reda Chiadmi,1000,Depenses diverses

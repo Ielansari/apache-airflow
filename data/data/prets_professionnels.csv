@@ -1,0 +1,41 @@
+,client,montant,taux_interet,duree_mois,garantie,date_accord
+0,Entreprise A,150000,5.25,36,Hypotheque,2022-01-12
+1,Startup XYZ,75000,6.0,24,Fonds en caution,2022-02-05
+2,TPE ABC,60000,4.75,12,Caution personnelle,2021-11-20
+3,Societe XYZ,200000,5.75,48,Garantie bancaire,2022-03-15
+4,Startup ABC,100000,6.5,18,Nantissement de stock,2021-09-30
+5,Societe PQR,180000,6.25,36,Creation privilege,2021-10-25
+6,TPE 123,45000,5.0,12,Nantissement materiel,2022-02-10
+7,SARL ABCD,120000,5.75,24,Caution bancaire,2021-12-30
+8,Societe MNO,250000,6.75,60,Nantissement de creance,2021-11-10
+9,Societe RST,300000,5.5,72,Nantissement du fonds de commerce,2022-04-25
+10,Startup WXY,80000,6.25,18,Nantissement de brevet,2022-01-05
+11,TPE EFG,60000,5.25,24,Nantissement de materiel professionnel,2021-09-15
+12,Societe GHI,150000,4.95,36,Hypotheque sur un bien immobilier,2022-03-05
+13,Startup LMN,70000,6.5,24,Nantissement de fonds de commerce,2021-12-15
+14,Entreprise XYZ,175000,5.75,48,Caution solidaire,2022-02-20
+15,SARL MNO,190000,6.75,36,Nantissement de parts sociales,2021-10-10
+16,Startup PQR,95000,6.0,18,Nantissement de materiel informatique,2022-01-30
+17,TPE DEF,50000,5.25,24,Nantissement de vehicule professionnel,2021-11-05
+18,Societe RST,220000,5.95,48,Hypotheque sur terrain,2021-12-20
+19,Startup JKL,82000,6.25,24,Nantissement de materiel de bureau,2021-09-10
+20,TPE OPQ,48000,5.0,12,Caution personnelle du dirigeant,2022-01-15
+21,SARL STU,125000,5.75,24,Nantissement de marchandises,2022-02-02
+22,Societe VWX,280000,6.75,36,Nantissement de droits sociaux,2021-11-22
+23,Societe UVW,350000,5.5,60,Nantissement de portefeuille-titres,2022-03-10
+24,Startup YZA,85000,6.25,18,Nantissement de brevet et marques,2021-10-30
+25,TPE BCD,65000,5.25,24,Nantissement de materiel de restauration,2022-02-12
+26,Societe EFG,160000,4.95,36,Hypotheque sur batiment industriel,2021-12-05
+27,Startup MNO,73000,6.5,24,Nantissement de logiciel,2022-01-10
+28,Entreprise XYZ,185000,5.75,48,Caution solidaire du dirigeant,2022-02-22
+29,SARL MNO,195000,6.75,36,Nantissement de brevets et licences,2021-10-12
+30,Startup PQR,96000,6.0,18,Nantissement de materiel audiovisuel,2022-01-31
+31,TPE DEF,51000,5.25,24,Nantissement doutillage professionnel,2021-11-07
+32,Societe RST,225000,5.95,48,Hypotheque sur local commercial,2021-12-25
+33,Startup JKL,83000,6.25,24,Nantissement de materiel de production,2021-09-15
+34,TPE OPQ,49000,5.0,12,Caution personnelle des associes,2022-01-17
+35,SARL STU,130000,5.75,24,Nantissement de materiel de transport,2022-02-03
+36,Societe VWX,285000,6.75,36,Nantissement de vehicules de societe,2021-11-25
+37,Societe UVW,355000,5.5,60,Nantissement de valeurs mobilieres,2022-03-13
+38,Startup YZA,86000,6.25,18,Nantissement de logiciels,2021-10-31
+39,TPE BCD,66000,5.25,24,Nantissement de materiel informatique,2022-02-14

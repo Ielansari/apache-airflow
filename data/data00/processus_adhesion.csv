@@ -1,0 +1,11 @@
+num_dossier,nom_client,date_naissance,profession,ville,telephone,email,etat_civil,adresse
+ADH123456,Ahmed Benali,15/05/1980,Enseignant,Casablanca,+212612345678,ahmed.benali@email.com,Célibataire,"25 Rue des Roses, Quartier des Fleurs"
+ADH789012,Fatima Raja,22/11/1992,Ingénieur,Rabat,+212633322211,fatima.raja@email.com,Marié(e),"17 Avenue des Oliviers, Quartier des Princes"
+ADH345678,Hassan Amrani,03/04/1975,Commerçant,Marrakech,+212655544433,hassan.amrani@email.com,Divorcé(e),"10 Rue des Palmiers, Quartier des Artistes"
+ADH901234,Nawal Alaoui,19/08/1988,Avocat,Tanger,+212677766655,nawal.alaoui@email.com,Célibataire,"33 Boulevard des Combattants, Quartier des Héros"
+ADH567890,Karim Berrada,07/12/1985,Médecin,Fès,+212688877766,karim.berrada@email.com,Marié(e),"5 Avenue des Médecins, Quartier des Savants"
+ADH112233,Nadia Chkiri,28/06/1990,Architecte,Agadir,+212633344455,nadia.chkiri@email.com,Célibataire,"8 Rue des Architectes, Quartier des Bâtisseurs"
+ADH445566,Youssef El Mansouri,11/09/1979,Artisan,Oujda,+212644433322,youssef.mansouri@email.com,Divorcé(e),"12 Avenue des Artistes, Quartier des Créateurs"
+ADH778899,Leila Ait Addi,14/03/1993,Banquière,Meknès,+212611223344,leila.addi@email.com,Marié(e),"21 Rue des Banquiers, Quartier des Financiers"
+ADH990011,Khalid Boulahia,29/01/1982,Entrepreneur,Tétouan,+212699988877,khalid.boulahia@email.com,Célibataire,"14 Boulevard des Entrepreneurs, Quartier des Innovateurs"
+ADH223344,Loubna Douiri,03/08/1987,Directrice des Ressources Humaines,Essaouira,+212633322211,loubna.douiri@email.com,Divorcé(e),"16 Avenue des Cadres, Quartier des Managers"

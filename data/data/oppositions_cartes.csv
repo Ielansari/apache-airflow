@@ -1,0 +1,51 @@
+,id,numero_carte,date_opposition,raison_opposition,statut
+0,1,1234567890123456,2021-04-21,Vol de la carte,En attente
+1,2,9876543210987654,2021-05-13,Utilisation frauduleuse,En cours
+2,3,4567890123456789,2021-06-05,Perte de la carte,Resolu
+3,4,7890123456789012,2021-07-19,Carte expiree,En attente
+4,5,2345678901234567,2021-08-25,Erreur de transaction,En cours
+5,6,5678901234567890,2021-09-30,Carte endommagee,En attente
+6,7,8901234567890123,2021-10-03,Suspicion de fraude,En cours
+7,8,3456789012345678,2021-11-17,Vol de la carte,En cours
+8,9,6789012345678901,2021-12-22,Perte de la carte,Resolu
+9,10,9012345678901234,2022-01-09,Utilisation frauduleuse,En attente
+10,11,4321098765432109,2022-02-14,Carte expiree,En cours
+11,12,7654321098765432,2022-03-28,Erreur de transaction,En cours
+12,13,909090909090909,2022-04-05,Suspicion de fraude,Resolu
+13,14,1919191919191919,2022-05-13,Carte endommagee,En cours
+14,15,2929292929292929,2022-06-20,Vol de la carte,Resolu
+15,16,3939393939393939,2022-07-29,Utilisation frauduleuse,En attente
+16,17,4949494949494949,2022-08-08,Perte de la carte,En cours
+17,18,5959595959595959,2022-09-11,Carte expiree,En attente
+18,19,6969696969696969,2022-10-15,Erreur de transaction,Resolu
+19,20,7979797979797979,2022-11-24,Suspicion de fraude,En cours
+20,21,0,2022-12-25,Carte endommagee,En cours
+21,22,1111111111111111,2023-01-07,Vol de la carte,En attente
+22,23,2222222222222222,2023-02-17,Utilisation frauduleuse,En cours
+23,24,3333333333333333,2023-03-30,Perte de la carte,Resolu
+24,25,4444444444444444,2023-04-03,Carte expiree,En cours
+25,26,5555555555555555,2023-05-14,Erreur de transaction,En attente
+26,27,6666666666666666,2023-06-21,Suspicion de fraude,En cours
+27,28,7777777777777777,2023-07-30,Carte endommagee,Resolu
+28,29,8888888888888888,2023-08-09,Vol de la carte,En cours
+29,30,9999999999999999,2023-09-12,Utilisation frauduleuse,Resolu
+30,31,123456789123456,2023-10-16,Perte de la carte,En attente
+31,32,1234567891234567,2023-11-25,Carte expiree,Resolu
+32,33,2345678902345678,2024-01-01,Erreur de transaction,En cours
+33,34,3456789013456789,2024-02-08,Suspicion de fraude,En attente
+34,35,4567890124567890,2024-03-16,Vol de la carte,En cours
+35,36,5678901235678901,2024-04-29,Utilisation frauduleuse,Resolu
+36,37,6789012346789012,2024-05-03,Perte de la carte,En attente
+37,38,7890123457890123,2024-06-07,Carte expiree,En cours
+38,39,8901234568901234,2024-07-17,Erreur de transaction,En cours
+39,40,9012345679012345,2024-08-26,Suspicion de fraude,Resolu
+40,41,1234567890123450,2024-09-01,Carte endommagee,En cours
+41,42,5432109876543210,2024-10-03,Vol de la carte,En attente
+42,43,987654321098765,2024-11-14,Utilisation frauduleuse,En cours
+43,44,7654321098765432,2024-12-26,Perte de la carte,Resolu
+44,45,6666666000000000,2025-01-01,Carte expiree,En cours
+45,46,7777777000000000,2025-02-13,Erreur de transaction,Resolu
+46,47,8888888000000000,2025-03-20,Suspicion de fraude,En attente
+47,48,9999999000000000,2025-04-28,Carte endommagee,En cours
+48,49,1010101000000000,2025-05-30,Vol de la carte,Resolu
+49,50,2020202000000000,2025-06-09,Utilisation frauduleuse,En cours

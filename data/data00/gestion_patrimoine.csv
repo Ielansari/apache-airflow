@@ -1,0 +1,45 @@
+client,numéro_compte,type_compte,solde,actifs,ville
+Mohammed Haddad,123456789,épargne,50000,immobilier,Casablanca
+Leila Toumi,987654321,épargne,75000,actions,Marrakech
+Khalid Bennis,456123789,courant,10000,obligations,Rabat
+Fatima Zahra Lahbabi,789456123,épargne,65000,immobilier,Tanger
+Karim Mansour,321654987,courant,30000,actions,Fès
+Nora El Amrani,654789321,épargne,85000,obligations,Agadir
+Youssef Rami,789123456,épargne,40000,immobilier,Tétouan
+Sara Benani,987321654,courant,55000,actions,Meknès
+Ahmed Choukairi,456789123,courant,20000,obligations,Essaouira
+Nadia Kabbaj,654321987,épargne,70000,immobilier,Oujda
+Samir Belarbi,123789456,courant,60000,actions,Tanger
+Amal Bennani,321987654,épargne,90000,obligations,Casablanca
+Mehdi El Kacemi,789321456,épargne,48000,immobilier,Marrakech
+Rania Ait Bennani,987456321,courant,33000,actions,Rabat
+Omar El Alaoui,456789321,courant,18000,obligations,Fès
+Asmaa Lahlou,654987123,épargne,66000,immobilier,Agadir
+Rachid Bouzidi,123321789,épargne,42000,actions,Tétouan
+Hiba Mansouri,987456123,courant,57000,obligations,Meknès
+Yassine El Mahjoubi,456789654,courant,25000,immobilier,Essaouira
+Salma El Jaoudi,321987456,épargne,72000,actions,Oujda
+Hamza El Moussaoui,654321789,épargne,80000,obligations,Casablanca
+Nawal Ben Mansour,789456321,courant,64000,immobilier,Marrakech
+Ali Chakir,987789123,épargne,95000,actions,Rabat
+Latifa El Fassi,456123987,courant,32000,obligations,Tanger
+Kamal El Bakkali,789654321,épargne,46000,immobilier,Fès
+Amina Dahane,321789654,courant,54000,actions,Agadir
+Ahmed Hakimi,654321789,courant,28000,obligations,Tétouan
+Nadia El Fassi,123987456,épargne,84000,immobilier,Meknès
+Othman El Makki,987654321,épargne,22000,actions,Essaouira
+Sara El Harrak,456321987,courant,36000,obligations,Oujda
+Youssef Benkiran,789123654,courant,74000,immobilier,Casablanca
+Houda El Abbadi,654987123,épargne,58000,actions,Marrakech
+Jamal Lahbabi,321456789,épargne,89000,obligations,Rabat
+Hajar Boufal,987789456,courant,47000,immobilier,Fès
+Nabil Hammouch,456123789,épargne,68000,actions,Agadir
+Fadoua Filali,789456321,courant,52000,obligations,Tétouan
+Samia El Kadiri,654321987,épargne,70000,immobilier,Meknès
+Marouane Benabdeslam,123789456,courant,60000,actions,Essaouira
+Loubna Chakir,987654321,courant,30000,obligations,Oujda
+Zakaria Lahmidi,456789123,épargne,44000,immobilier,Casablanca
+Nassim El Mahjoubi,789123456,épargne,78000,actions,Marrakech
+Rim Benani,321987654,courant,47000,obligations,Rabat
+Zineb Choukairi,789456123,courant,26000,immobilier,Fès
+Mehdi Mansouri,987321654,épargne,62000,actions,Agadir

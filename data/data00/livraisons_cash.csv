@@ -1,0 +1,41 @@
+numero_transaction,date_livraison,montant,agence_origine,agence_destination
+TRX1001,2022-05-01,15000,Agence Casablanca Maarif,Agence Rabat Centre
+TRX1002,2022-05-02,10000,Agence Fès Ville Nouvelle,Agence Tanger Médina
+TRX1003,2022-05-03,20000,Agence Marrakech Guéliz,Agence Agadir Centre
+TRX1004,2022-05-04,18000,Agence Tétouan Centre,Agence Oujda Médina
+TRX1005,2022-05-05,22000,Agence Kenitra Centre,Agence Taza Ville
+TRX1006,2022-05-06,12000,Agence Mohammedia Plage,Agence El Jadida Centre
+TRX1007,2022-05-07,25000,Agence Essaouira Port,Agence Safi Centre
+TRX1008,2022-05-08,30000,Agence Ouarzazate Centre,Agence Berkane Médina
+TRX1009,2022-05-09,16000,Agence Laayoune Ville,Agence Dakhla Centre
+TRX1010,2022-05-10,28000,Agence Nador Centre,Agence Khouribga Ville
+TRX1011,2022-05-11,14000,Agence Guelmim Centre,Agence El Kelaa des Sraghna
+TRX1012,2022-05-12,19000,Agence Beni Mellal Centre,Agence Al Hoceïma Port
+TRX1013,2022-05-13,23000,Agence Settat Arribat,Agence Taroudant Centre
+TRX1014,2022-05-14,27000,Agence Tiznit Centre,Agence Sidi Ifni Port
+TRX1015,2022-05-15,17000,Agence Errachidia Centre,Agence Zagora Ville
+TRX1016,2022-05-16,26000,Agence Ifrane Centre,Agence Midelt Ville
+TRX1017,2022-05-17,32000,Agence Bouznika Plage,Agence El Jadida Centre
+TRX1018,2022-05-18,33000,Agence Oujda Médina,Agence Nador Centre
+TRX1019,2022-05-19,15500,Agence Safi Centre,Agence Essaouira Port
+TRX1020,2022-05-20,18500,Agence Taza Ville,Agence Al Hoceïma Port
+TRX1021,2022-05-21,22500,Agence Berkane Médina,Agence Oujda Médina
+TRX1022,2022-05-22,12500,Agence El Jadida Centre,Agence Mohammedia Plage
+TRX1023,2022-05-23,25500,Agence Dakhla Centre,Agence Laayoune Ville
+TRX1024,2022-05-24,30500,Agence Khouribga Ville,Agence Nador Centre
+TRX1025,2022-05-25,16500,Agence El Kelaa des Sraghna,Agence Guelmim Centre
+TRX1026,2022-05-26,19500,Agence Al Hoceïma Port,Agence Beni Mellal Centre
+TRX1027,2022-05-27,23500,Agence Taroudant Centre,Agence Settat Arribat
+TRX1028,2022-05-28,27500,Agence Sidi Ifni Port,Agence Tiznit Centre
+TRX1029,2022-05-29,17500,Agence Zagora Ville,Agence Errachidia Centre
+TRX1030,2022-05-30,26500,Agence Midelt Ville,Agence Ifrane Centre
+TRX1031,2022-05-31,32500,Agence El Jadida Centre,Agence Bouznika Plage
+TRX1032,2022-06-01,33500,Agence Nador Centre,Agence Oujda Médina
+TRX1033,2022-06-02,15800,Agence Essaouira Port,Agence Safi Centre
+TRX1034,2022-06-03,18800,Agence Al Hoceïma Port,Agence Taza Ville
+TRX1035,2022-06-04,22800,Agence Oujda Médina,Agence Berkane Médina
+TRX1036,2022-06-05,12800,Agence Mohammedia Plage,Agence El Jadida Centre
+TRX1037,2022-06-06,25800,Agence Laayoune Ville,Agence Dakhla Centre
+TRX1038,2022-06-07,30800,Agence Nador Centre,Agence Khouribga Ville
+TRX1039,2022-06-08,16800,Agence Guelmim Centre,Agence El Kelaa des Sraghna
+TRX1040,2022-06-09,19800,Agence Beni Mellal Centre,Agence Al Hoceïma Port

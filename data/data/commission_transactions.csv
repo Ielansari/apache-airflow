@@ -1,0 +1,51 @@
+,id,type_transaction,commission
+0,1,Virement,15.5
+1,2,Retrait,10.25
+2,3,Paiement en ligne,5.75
+3,4,Virement,18.0
+4,5,Retrait,12.75
+5,6,Paiement en ligne,6.25
+6,7,Virement,14.75
+7,8,Retrait,9.0
+8,9,Paiement en ligne,4.5
+9,10,Virement,17.25
+10,11,Retrait,11.5
+11,12,Paiement en ligne,7.0
+12,13,Virement,16.0
+13,14,Retrait,10.75
+14,15,Paiement en ligne,5.25
+15,16,Virement,15.0
+16,17,Retrait,9.75
+17,18,Paiement en ligne,6.0
+18,19,Virement,14.5
+19,20,Retrait,11.25
+20,21,Paiement en ligne,4.75
+21,22,Virement,18.25
+22,23,Retrait,12.0
+23,24,Paiement en ligne,5.5
+24,25,Virement,16.75
+25,26,Retrait,10.5
+26,27,Paiement en ligne,6.25
+27,28,Virement,13.25
+28,29,Retrait,8.75
+29,30,Paiement en ligne,4.5
+30,31,Virement,17.5
+31,32,Retrait,11.0
+32,33,Paiement en ligne,5.75
+33,34,Virement,15.25
+34,35,Retrait,9.5
+35,36,Paiement en ligne,6.0
+36,37,Virement,14.75
+37,38,Retrait,10.25
+38,39,Paiement en ligne,5.0
+39,40,Virement,16.0
+40,41,Retrait,11.75
+41,42,Paiement en ligne,4.75
+42,43,Virement,18.25
+43,44,Retrait,12.5
+44,45,Paiement en ligne,6.25
+45,46,Virement,13.75
+46,47,Retrait,9.25
+47,48,Paiement en ligne,5.5
+48,49,Virement,15.5
+49,50,Retrait,10.0

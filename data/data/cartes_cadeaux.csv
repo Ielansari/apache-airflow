@@ -1,0 +1,45 @@
+,numero_carte,valeur,date_expiration,beneficiaire,statut
+0,CC12345678,500,2023-08-15,Karim Idrissi,utilisee
+1,CC23456789,200,2022-12-30,Leila Amrani,non utilisee
+2,CC34567890,1000,2024-05-10,Ali Benslimane,utilisee
+3,CC45678901,300,2023-03-25,Nadia Oulad,non utilisee
+4,CC56789012,700,2025-09-18,Mehdi El Kassir,utilisee
+5,CC67890123,400,2022-07-31,Sara Bennani,non utilisee
+6,CC78901234,600,2024-11-22,Youssef Haddad,utilisee
+7,CC89012345,350,2023-12-05,Lina El Manjra,non utilisee
+8,CC90123456,450,2025-04-19,Ahmed Sefrioui,utilisee
+9,CC01234567,800,2022-10-14,Amira El Bakkali,non utilisee
+10,CC12345679,750,2026-01-30,Hassan Rida,utilisee
+11,CC23456780,550,2022-06-07,Sofia Mernissi,non utilisee
+12,CC34567891,650,2024-09-25,Khalid Tazi,utilisee
+13,CC45678902,950,2023-08-12,Leila Berrada,non utilisee
+14,CC56789013,400,2025-10-29,Fatima Zahra Outaleb,utilisee
+15,CC67890124,350,2022-04-03,Mohammed El Ouazzani,non utilisee
+16,CC78901235,500,2024-10-18,Nora Elouazzani,utilisee
+17,CC89012346,600,2023-03-09,Abdelali Salmi,non utilisee
+18,CC90123457,700,2025-11-23,Jamal Benjelloun,utilisee
+19,CC01234568,450,2022-09-07,Rania Bouhaddi,non utilisee
+20,CC12345670,850,2026-02-15,Omar Benjelloun,utilisee
+21,CC23456781,650,2022-05-11,Hiba Harrouchi,non utilisee
+22,CC34567892,750,2024-07-28,Amine Cherradi,utilisee
+23,CC45678903,850,2023-06-22,Hind Marzouki,non utilisee
+24,CC56789014,450,2025-08-11,Kamal Lahlou,utilisee
+25,CC67890125,500,2022-02-19,Ibtissam Chafik,non utilisee
+26,CC78901236,400,2024-03-12,Aliya Bennouna,utilisee
+27,CC89012347,950,2023-11-07,Reda El Morabit,non utilisee
+28,CC90123458,600,2025-07-03,Salma Rais,utilisee
+29,CC01234569,350,2022-08-30,Yassin Idrissi,non utilisee
+30,CC12345671,700,2026-03-28,Fatima Soudani,utilisee
+31,CC23456782,550,2022-04-20,Wassim Abidi,non utilisee
+32,CC34567893,800,2024-10-15,Rim Akkaoui,utilisee
+33,CC45678904,700,2023-09-18,Lina Bellamine,non utilisee
+34,CC56789015,600,2025-11-29,Amine Djelloul,utilisee
+35,CC67890126,450,2022-03-26,Chaima Lahbabi,non utilisee
+36,CC78901237,350,2024-12-18,Sofia Chami,utilisee
+37,CC89012348,750,2023-07-09,Yassine Tazi,non utilisee
+38,CC90123459,900,2025-06-23,Kawtar Mechtrass,utilisee
+39,CC01234570,500,2022-09-25,Mehdi El Khattabi,non utilisee
+40,CC12345672,950,2026-04-14,Sanaa Boukili,utilisee
+41,CC23456783,750,2022-03-10,Amal El Graoui,non utilisee
+42,CC34567894,850,2024-06-28,Younes El Gharbi,utilisee
+43,CC45678905,300,2023-10-22,Hajar Boubker,non utilisee

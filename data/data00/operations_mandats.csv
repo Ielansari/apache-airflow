@@ -1,0 +1,47 @@
+numero_mandat,date_creation,montant,emetteur,destinataire,statut
+MDT12345,2021-08-12,1500,Client A,Fournisseur X,En attente
+MDT12346,2021-08-14,2200,Client B,Fournisseur Y,Validé
+MDT12347,2021-08-17,1750,Client C,Fournisseur Z,Rejeté
+MDT12348,2021-08-20,3000,Client D,Fournisseur W,Validé
+MDT12349,2021-08-22,2500,Client E,Fournisseur V,En attente
+MDT12350,2021-08-25,1800,Client F,Fournisseur U,En attente
+MDT12351,2021-08-27,2100,Client G,Fournisseur T,En attente
+MDT12352,2021-08-30,2800,Client H,Fournisseur S,Validé
+MDT12353,2021-09-02,1950,Client I,Fournisseur R,Rejeté
+MDT12354,2021-09-05,3200,Client J,Fournisseur Q,En attente
+MDT12355,2021-09-07,2350,Client K,Fournisseur P,Validé
+MDT12356,2021-09-10,1850,Client L,Fournisseur O,Rejeté
+MDT12357,2021-09-12,2700,Client M,Fournisseur N,Validé
+MDT12358,2021-09-15,2050,Client X,Fournisseur M,En attente
+MDT12359,2021-09-17,2900,Client Y,Fournisseur L,En attente
+MDT12360,2021-09-20,2430,Client Z,Fournisseur K,Validé
+MDT12361,2021-09-22,1880,Client A,Fournisseur J,Rejeté
+MDT12362,2021-09-25,3100,Client B,Fournisseur I,En attente
+MDT12363,2021-09-27,2550,Client C,Fournisseur H,Validé
+MDT12364,2021-09-30,1950,Client D,Fournisseur G,Rejeté
+MDT12365,2021-10-02,3300,Client E,Fournisseur F,En attente
+MDT12366,2021-10-05,2250,Client F,Fournisseur E,En attente
+MDT12367,2021-10-07,2150,Client G,Fournisseur D,En attente
+MDT12368,2021-10-10,2850,Client H,Fournisseur C,Validé
+MDT12369,2021-10-12,2150,Client I,Fournisseur B,Rejeté
+MDT12370,2021-10-15,2950,Client J,Fournisseur A,En attente
+MDT12371,2021-10-17,2530,Client K,Fournisseur Z,Validé
+MDT12372,2021-10-20,1870,Client L,Fournisseur Y,Rejeté
+MDT12373,2021-10-22,2730,Client M,Fournisseur X,Validé
+MDT12374,2021-10-25,2000,Client N,Fournisseur W,En attente
+MDT12375,2021-10-27,2500,Client O,Fournisseur V,En attente
+MDT12376,2021-10-30,2200,Client P,Fournisseur U,Validé
+MDT12377,2021-11-02,1800,Client Q,Fournisseur T,Rejeté
+MDT12378,2021-11-05,2600,Client R,Fournisseur S,En attente
+MDT12379,2021-11-07,2100,Client S,Fournisseur R,En attente
+MDT12380,2021-11-10,2300,Client T,Fournisseur Q,Validé
+MDT12381,2021-11-12,2250,Client U,Fournisseur P,Rejeté
+MDT12382,2021-11-15,2900,Client V,Fournisseur O,En attente
+MDT12383,2021-11-17,2400,Client W,Fournisseur N,En attente
+MDT12384,2021-11-20,2800,Client X,Fournisseur M,Validé
+MDT12385,2021-11-22,1980,Client Y,Fournisseur L,Rejeté
+MDT12386,2021-11-25,3150,Client Z,Fournisseur K,En attente
+MDT12387,2021-11-27,2800,Client A,Fournisseur J,Validé
+MDT12388,2021-11-30,2080,Client B,Fournisseur I,Rejeté
+MDT12389,2021-12-02,3000,Client C,Fournisseur H,En attente
+MDT12390,2021-12-05,2450,Client D,Fournisseur G,En attente

@@ -1,0 +1,51 @@
+,id,nom_agence,nom_gestionnaire,telephone,email
+0,1,Agence Rabat Ville,Fatima Zahra El Kassimi,212612345678,fz.elkassimi@bcp.ma
+1,2,Agence Casablanca Centre,Mehdi Benjelloun,212623456789,m.benjelloun@bcp.ma
+2,3,Agence Marrakech Gueliz,Sara Bennis,212634567890,sara.bennis@bcp.ma
+3,4,Agence Tanger Centre,Karim El Khatib,212645678901,karim.elkhatib@bcp.ma
+4,5,Agence Fes Medina,Nadia Amrani,212656789012,n.amrani@bcp.ma
+5,6,Agence Agadir Centre,Youssef El Fahri,212667890123,y.el.fahri@bcp.ma
+6,7,Agence Oujda Ville,Leila Benjelloun,212678901234,leila.benjelloun@bcp.ma
+7,8,Agence Kenitra Centre,Anouar El Mir,212689012345,anouar.elmir@bcp.ma
+8,9,Agence El Jadida Plage,Imane El Ghazi,212690123456,i.elghazi@bcp.ma
+9,10,Agence Beni Mellal Centre,Reda Boudlal,212612345678,reda.boudlal@bcp.ma
+10,11,Agence Agadir Souk,Sami Bouhaddi,212623456789,sami.bouhaddi@bcp.ma
+11,12,Agence Casablanca Anfa,Houda Chakiri,212634567890,houda.chakiri@bcp.ma
+12,13,Agence Tetouan Centre,Yassin El Asri,212645678901,yassinelasri@bcp.ma
+13,14,Agence Rabat Souissi,Nawal El Mhamdi,212656789012,nawal.elmhamdi@bcp.ma
+14,15,Agence Marrakech Menara,Khalid Akhdim,212667890123,k.akhdim@bcp.ma
+15,16,Agence Safi Plage,Nadia El Fahim,212678901234,nadia.e.fahim@bcp.ma
+16,17,Agence Meknes Centre,Amine Haddou,212689012345,aminehaddou@bcp.ma
+17,18,Agence Tanger Corniche,Halima El Aouad,212690123456,halima.aouad@bcp.ma
+18,19,Agence Casablanca Racine,Salma El Koury,212612345678,s.elkoury@bcp.ma
+19,20,Agence Casablanca Maarif,Omar Benabid,212623456789,o.benabid@bcp.ma
+20,21,Agence Kenitra Plage,Widad Aboulaich,212634567890,widad.aboulaich@bcp.ma
+21,22,Agence Essaouira Ville,Abdellah El Fassi,212645678901,abdellah.fassi@bcp.ma
+22,23,Agence Ouarzazate Centre,Said El Haddadi,212656789012,s.elhaddadi@bcp.ma
+23,24,Agence Agadir Marina,Hajar Elmahdi,212667890123,h.elmahdi@bcp.ma
+24,25,Agence Fes Zalagh,Brahim Berrada,212678901234,brahim.berrada@bcp.ma
+25,26,Agence Rabat Souissi,Loubna Anwar,212689012345,loubna.anwar@bcp.ma
+26,27,Agence Tanger Ville,Ahmed Sabir,212690123456,a.sabir@bcp.ma
+27,28,Agence Rabat Agdal,Hanaa Tazi,212612345678,hanaa.tazi@bcp.ma
+28,29,Agence Casablanca Californie,Mohamed El Amrani,212623456789,m.elamrani@bcp.ma
+29,30,Agence Agadir Founty,Mouna El Abbassi,212634567890,m.abbassi@bcp.ma
+30,31,Agence Tiznit Centre,Zakaria El Bakkali,212645678901,z.elbakkali@bcp.ma
+31,32,Agence Casablanca Bourgogne,Ines El Fakir,212656789012,ines.efakir@bcp.ma
+32,33,Agence Mohammedia Plage,Hamza El Hajji,212667890123,hamza.hajji@bcp.ma
+33,34,Agence Laayoune Ville,Fatima El Kabbaj,212678901234,f.elkabbaj@bcp.ma
+34,35,Agence Oujda Angad,Samir El Haddadi,212689012345,samir.ehaddadi@bcp.ma
+35,36,Agence Casablanca Oasis,Rita Benjelloun,212690123456,rita.benjelloun@bcp.ma
+36,37,Agence Casablanca Maarif,Hicham Bouzid,212612345678,hicham.bouzid@bcp.ma
+37,38,Agence Meknes Medina,Meriem Amrani,212623456789,meriem.amrani@bcp.ma
+38,39,Agence Agadir Sonaba,Nabil El Farouki,212634567890,n.farouki@bcp.ma
+39,40,Agence Tanger SeaFront,Latifa El Hassani,212645678901,latifa.hassani@bcp.ma
+40,41,Agence Rabat Hay Riad,Zineb Essakali,212656789012,z.essakali@bcp.ma
+41,42,Agence Casablanca Sidi Othmane,Othmane Bouchra,212667890123,othmane.bouchra@bcp.ma
+42,43,Agence Tanger Malabata,Youssef El Haddadi,212678901234,youssef.ehaddadi@bcp.ma
+43,44,Agence Marrakech Palmeraie,Ilham El Alaoui,212689012345,i.alaoui@bcp.ma
+44,45,Agence El Jadida Centre,Karima El Kadi,212690123456,karima.elkadi@bcp.ma
+45,46,Agence Tifelt Centre,Sofia El Khadem,212612345678,sofia.elkhadem@bcp.ma
+46,47,Agence Casablanca Racine,Ali Benjelloun,212623456789,ali.benjelloun@bcp.ma
+47,48,Agence Agadir Founty,Khadija El Hrari,212634567890,khadija.ehrari@bcp.ma
+48,49,Agence Rabat Agdal,Ayoub El Azzouzi,212645678901,ayoub.e.azzouzi@bcp.ma
+49,50,Agence Tanger Ville,Soukaina El Hachimi,212656789012,soukaina.elhachimi@bcp.ma

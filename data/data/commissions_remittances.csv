@@ -1,0 +1,51 @@
+,id,type_operation,montant_min,montant_max,commission
+0,1,Virement international,50,2000,15
+1,2,Virement interbancaire,100,5000,10
+2,3,Virement vers Etranger,20,3000,12
+3,4,Virement salaire,50,5000,8
+4,5,Virement pension,30,2000,5
+5,6,Virement familial,10,1500,3
+6,7,Virement express,100,3000,20
+7,8,Virement professionnel,200,8000,30
+8,9,Virement personnel,50,2500,7
+9,10,Virement pour achat,20,1000,5
+10,11,Virement pour loyer,100,2000,10
+11,12,Virement pour leducation,30,3000,5
+12,13,Virement pour sante,50,3500,10
+13,14,Virement familial urgent,20,2000,8
+14,15,Virement pour mariage,100,5000,15
+15,16,Virement pour voyage,50,2500,13
+16,17,Virement pour investissement,200,10000,25
+17,18,Virement de secours,50,1500,5
+18,19,Virement humanitaire,10,500,2
+19,20,Virement pour association,50,2000,8
+20,21,Virement de donation,30,1000,5
+21,22,Virement pour financement de projet,100,3000,10
+22,23,Virement caritatif,50,2500,7
+23,24,Virement daide sociale,20,2000,6
+24,25,Virement pour developpement rural,100,5000,12
+25,26,Virement durgence,30,1500,9
+26,27,Virement pour technologie,50,1000,5
+27,28,Virement pour activite sportive,10,500,3
+28,29,Virement pour art et culture,20,2000,8
+29,30,Virement pour evenement special,30,3000,10
+30,31,Virement pour energie renouvelable,50,2500,12
+31,32,Virement caritatif urgent,100,2000,15
+32,33,Virement pour soutien scolaire,50,3000,13
+33,34,Virement pour garde denfants,200,10000,20
+34,35,Virement pour logement social,50,1500,7
+35,36,Virement de solidarite,10,500,5
+36,37,Virement pour education artistique,50,2000,8
+37,38,Virement pour preservation environnement,30,1000,5
+38,39,Virement pour innovation,100,3000,10
+39,40,Virement pour femmes entrepreneures,50,2500,7
+40,41,Virement pour jeunes createurs,20,1000,5
+41,42,Virement pour handicapes,100,2000,8
+42,43,Virement pour personnes agees,30,3000,10
+43,44,Virement pour sans-abris,50,3500,12
+44,45,Virement durgence medicale,20,2000,8
+45,46,Virement pour deplacement professionnel,100,5000,15
+46,47,Virement pour teletravail,50,2500,13
+47,48,Virement pour equipement informatique,200,10000,25
+48,49,Virement pour formation en ligne,50,1500,5
+49,50,Virement pour acces a internet,10,500,3

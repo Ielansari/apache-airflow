@@ -1,0 +1,51 @@
+,num_certificat,titulaire,solde,date_creation,date_expiration,type
+0,CB20210001,Ahmed El Idrissi,23876.54,2021-03-15,2026-03-15,Certificat de Depot
+1,CB20210002,Nora Benjelloun,87459.32,2021-02-28,2026-02-28,Certificat dInvestissement
+2,CB20210003,Rachid Moussaoui,500000.0,2021-01-10,2026-01-10,Certificat de Placement
+3,CB20210004,Sara Berrada,1000000.0,2020-11-20,2025-11-20,Certificat de Rendement
+4,CB20210005,Karim Haddouch,75638.21,2021-04-05,2026-04-05,Certificat dEpargne
+5,CB20210006,Amal El Mansouri,329874.12,2021-05-12,2026-05-12,Certificat de Fidelite
+6,CB20210007,Mehdi Bouchaib,120000.0,2021-06-30,2026-06-30,Certificat de Croissance
+7,CB20210008,Yasmina Ait Ali,9876.12,2021-07-18,2026-07-18,Certificat de Reserve
+8,CB20210009,Hicham El Amrani,43567.89,2021-08-22,2026-08-22,Certificat de Securite
+9,CB20210010,Fatima Zohra Touil,105678.23,2021-09-03,2026-09-03,Certificat de Progression
+10,CB20210011,Omar Benkiran,50000.0,2021-10-17,2026-10-17,Certificat de Financement
+11,CB20210012,Selma Lahlou,93654.78,2020-12-05,2025-12-05,Certificat dEmission
+12,CB20210013,Khalid Mounir,78392.56,2021-11-08,2026-11-08,Certificat de Gestion
+13,CB20210014,Imane Laaroussi,204983.21,2021-12-13,2026-12-13,Certificat de Valorisation
+14,CB20210015,Nabil Fassi,60000.0,2022-01-25,2027-01-25,Certificat dAssurance
+15,CB20210016,Sanaa El Kandoussi,45238.43,2022-02-19,2027-02-19,Certificat de Liquidite
+16,CB20210017,Yassir El Fassi,93674.29,2022-03-07,2027-03-07,Certificat de Developpement
+17,CB20210018,Laila Karim,30986.53,2022-04-28,2027-04-28,Certificat de Continuite
+18,CB20210019,Reda Bouaouda,76000.0,2022-05-30,2027-05-30,Certificat de Stabilite
+19,CB20210020,Hanae Bensaid,88456.27,2022-06-14,2027-06-14,Certificat de Selection
+20,CB20210021,Othmane Slaoui,57842.19,2022-07-21,2027-07-21,Certificat de Responsabilite
+21,CB20210022,Jamila Ouarzazi,123548.12,2022-08-05,2027-08-05,Certificat de Placement
+22,CB20210023,Adnan Hicham,48962.77,2022-09-11,2027-09-11,Certificat dAuthenticite
+23,CB20210024,Sofia El Alami,76599.39,2022-10-04,2027-10-04,Certificat de Performance
+24,CB20210025,Aziz Saoudi,65238.76,2022-11-27,2027-11-27,Certificat dOpportunite
+25,CB20210026,Nawal Ait Hamoudi,93284.72,2022-12-08,2027-12-08,Certificat de Fiabilite
+26,CB20210027,Zakaria Benmlih,87432.45,2023-01-14,2028-01-14,Certificat de Securisation
+27,CB20210028,Asmaa Chraibi,120576.89,2023-02-22,2028-02-22,Certificat dEvolution
+28,CB20210029,Younes Hafidi,36985.32,2023-03-30,2028-03-30,Certificat de Transparence
+29,CB20210030,Nora Othmane,54892.69,2023-04-17,2028-04-17,Certificat de Confiance
+30,CB20210031,Salim El Idrissi,72000.0,2023-05-26,2028-05-26,Certificat de Solidarite
+31,CB20210032,Kawtar Mansouri,98671.29,2023-06-02,2028-06-02,Certificat de Prospection
+32,CB20210033,Ilyass Benslimane,65483.21,2023-07-09,2028-07-09,Certificat de Mutualisation
+33,CB20210034,Salma Belhaj,23849.12,2023-08-15,2028-08-15,Certificat de Selection
+34,CB20210035,Omar El Kadiri,108764.32,2023-09-19,2028-09-19,Certificat dAuthenticite
+35,CB20210036,Amira Loubaris,39862.76,2023-10-28,2028-10-28,Certificat de Stabilite
+36,CB20210037,Anas Bousfiha,76649.28,2023-11-03,2028-11-03,Certificat de Fiabilite
+37,CB20210038,Rabab Ait Mansour,92345.43,2023-12-12,2028-12-12,Certificat de Croissance
+38,CB20210039,Ibrahim El Meknassi,57765.94,2024-01-20,2029-01-20,Certificat de Progression
+39,CB20210040,Safia Lamrani,59671.23,2024-02-18,2029-02-18,Certificat de Placement
+40,CB20210041,Youssef El Faiz,120000.0,2024-03-22,2029-03-22,Certificat de Rendement
+41,CB20210042,Lamia El Moustaine,43687.14,2024-04-15,2029-04-15,Certificat de Performance
+42,CB20210043,Mehdi Bouzid,79864.23,2024-05-07,2029-05-07,Certificat de Valorisation
+43,CB20210044,Houda Benani,62934.79,2024-06-30,2029-06-30,Certificat de Fidelite
+44,CB20210045,Celine Boulharrak,134875.32,2024-07-16,2029-07-16,Certificat de Progression
+45,CB20210046,Abdelkader Gabiri,74829.74,2024-08-20,2029-08-20,Certificat de Reserve
+46,CB20210047,Imran Bouziani,90876.21,2024-09-11,2029-09-11,Certificat de Placement
+47,CB20210048,Khadija El Fakir,36749.88,2024-10-09,2029-10-09,Certificat de Securite
+48,CB20210049,Amine Tazrouti,54987.62,2024-11-27,2029-11-27,Certificat de Fidelite
+49,CB20210050,Rania Khadiri,98675.42,2024-12-30,2029-12-30,Certificat de Valorisation

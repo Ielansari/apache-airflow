@@ -1,0 +1,11 @@
+EmployeeID,Nom,Prenom,Adresse,Zipcode,Ville,Pays,Numero_tele,Email,Date_naissance,NumeroSecuriteSocial,Date_recrutement,Poste,Salaire,Departement
+4352f224-9ee0-432b-8a7c-8e264e5ce698,Nissaboury,Qassim,"Casablanca, Habous ",65472,Casablanca,Morocco,+212653945974,eschmitt@example.net,1961-10-24,127035212185858,2022-07-13,ingénieur concepteur conceptrice en mécanique,28920,froid
+2f3af4ab-e8e9-4164-b20d-a45fbee10596,Salihi,Farizah,"Casablanca, CIL ",50946,Casablanca,Morocco,+212665470720,rbailly@example.net,2013-05-07,250036912391749,2023-02-12,technicien de maintenance en génie climatique,13938,action
+890bc987-bab1-4ecb-867d-49375f095465,El Baadioui,Ahmed,"Rabat, Yacoub El Mansour ",29058,Rabat,Morocco,+212620056820,amelielefevre@example.org,1945-04-14,293047728818127,2021-10-13,designer graphique,23347,chemise
+40ca4849-3914-43a8-a077-d5fbebc81cc1,Hariri,Anas,"Rabat, Hassan",56761,Rabat,Morocco,+212647263084,charriervalentine@example.org,1919-03-04,132116005744719,2020-10-25,neurobiologiste,49412,demain
+48f4987c-2547-4349-86a9-8d5186339961,Seghir,Mojiz,"Casablanca, La Colline ",74081,Casablanca,Morocco,+212678048987,catherine56@example.org,2017-03-04,158066204136744,2022-05-18,technicien d'exploitation du réseau gaz,23848,nul
+650fe3d2-4cc1-449f-9720-e76bab76803b,Cherki,Moussa,"Casablanca, Salmia 1",57024,Casablanca,Morocco,+212604140299,fernandessimone@example.org,1964-05-11,185026311383576,2022-05-26,consultant en conduite de changement,26791,mien
+0bdfc61e-474e-407e-8007-7eda54713baa,Taïeb,Omar,"Rabat, Hassan",75724,Rabat,Morocco,+212637965658,oolivier@example.net,1911-06-01,231082808558352,2020-12-12,orthoptiste,44154,haine
+49a5f72f-2480-41b1-986b-a34ede71c9bd,Loukili,Nesma,"Fés, Lala Soukaina",31853,Fés,Morocco,+212607939124,aubertnoemi@example.com,1911-03-07,120076806611994,2023-02-10,responsable du recrutement,29048,arbre
+dac9c49e-cab0-431a-b3b2-23e720c7bba3,Lahouiri,Houssam,"Casablanca, Salmia 2",15524,Casablanca,Morocco,+212687131187,emilielegendre@example.org,1962-10-03,158063726196619,2020-05-29,journaliste reporter d'images,40626,payer
+d208bad0-3705-47dc-84ad-68d3c89583e2,Slaoui,Naïm,"Meknes, Ancienne Medina",46314,Meknes,Morocco,+212683837280,cweiss@example.net,1962-07-19,234053306353542,2022-10-17,traducteur technique,45383,animal

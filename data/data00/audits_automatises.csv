@@ -1,0 +1,46 @@
+date_audit,type_audit,responsable_audit,departement_concerne,resultat_audit
+2021-05-10,Contrôle des transactions en ligne,Fatima Zahra El Rhazoui,Sécurité informatique,Conformité avec les normes en vigueur
+2021-06-02,Évaluation des risques dans les crédits,Youssef Benali,Gestion des risques,Recommandations pour améliorer les processus
+2021-06-15,Analyse des fraudes internes,Nadia Zouhair,Compliance,Détection et prévention des fraudes réussies
+2021-07-05,Suivi de conformité des produits bancaires,Khalid Oufkir,Conformité réglementaire,Non-conformité mineure identifiée et corrigée
+2021-07-20,Examen des opérations de la banque en ligne,Sara El Amrani,Digital Banking,Processus efficace sans anomalies majeures
+2021-08-03,Révision des systèmes de paiement,Ali Laaroussi,IT,"Sécurité renforcée, pas de failles détectées"
+2021-08-18,Audit des procédures KYC,Khadija Zemmouri,Conformité,Processus KYC conformes aux exigences réglementaires
+2021-09-01,Examen de la qualité du service client,Hicham Tazi,Relation client,"Service de haute qualité, suggestions reçues pour amélioration"
+2021-09-17,Vérification des transactions internationales,Mouna Bensaid,Opérations internationales,Transactions traitées conformément aux exigences
+2021-10-05,Audit de la gestion des liquidités,Omar Choukri,Trésorerie,"Gestion efficace des liquidités, recommandations mineures"
+2021-10-20,Analyse des risques de marché,Amina Berrada,Trading,"Gestion des risques adéquate, opportunités d'amélioration identifiées"
+2021-11-03,Contrôle des prêts non performants,Ahmed El Korti,Crédit,"Suivi des prêts en retard renforcé, procédures à améliorer"
+2021-11-18,Audit des fonds d'investissement,Salma Maalouf,Investissement,"Conformité des investissements aux objectifs, bonnes pratiques"
+2021-12-01,Inspection des comptes de la banque,Karim Fassi,Finance,"Bilan cohérent, conformité légale vérifiée"
+2021-12-17,Contrôle des dépenses de fonctionnement,Nabil El Moussaoui,Contrôle de gestion,"Optimisation des dépenses réussie, bon suivi budgétaire"
+2022-01-05,Évaluation de la gouvernance,Latifa Slaoui,Direction générale,"Gouvernance transparente, pratiques conformes aux standards"
+2022-01-20,Evaluation des partenariats stratégiques,Rachid Benjelloun,Partenariats,"Partenariats solides, opportunités d'expansion identifiées"
+2022-02-03,Contrôle des garanties sur les prêts,Leila Amrani,Risque de crédit,"Garanties conformes aux exigences, processus vérifiés"
+2022-02-18,Analyse des coûts opérationnels,Kamal Oujda,Finance,"Coûts maîtrisés, identification de possibilités d'économies"
+2022-03-05,Examen des contrats avec les prestataires,Hassan Agadir,Achats,Contrats en conformité avec les cahiers des charges
+2022-03-20,Audit de conformité fiscale,Soukaina Casablanca,Fiscalité,"Conformité fiscale vérifiée, aucune anomalie détectée"
+2022-04-05,Audit des ressources humaines,Brahim Marrakech,Ressources Humaines,"Gestion des RH efficace, suggestions d'amélioration reçues"
+2022-04-20,Vérification des opérations de change,Loubna Fès,Change,Opérations conformes aux procédures établies
+2022-05-05,Examen des politiques de financement,Othman El Jadida,Financement,"Politiques de crédit cohérentes avec la stratégie, corrections mineures"
+2022-05-20,Audit des agences physiques,Meryem Tanger,Réseau d'agences,"Agences bien tenues, recommandations pour amélioration du service"
+2022-06-05,Contrôle des opérations de règlement/livraison,Yassin Agadir,Marchés de capitaux,"Opérations de règlement sécurisées, conformité aux standards internationaux"
+2022-06-20,Analyse de la rentabilité des produits bancaires,Imane Rabat,Produits bancaires,"Rentabilité satisfaisante, opportunités d'innovation discutées"
+2022-07-05,Révision des procédures de prêt immobilier,Adil El Kelaa,Crédit immobilier,"Procédures conformes, suggestions pour accélérer les approbations"
+2022-07-20,Audit de la gestion des actifs,Fatiha Safi,Gestion des actifs,"Gestion proactive des actifs, diversification recommandée"
+2022-08-05,Evaluation de la stratégie de développement digital,Bilal Meknès,Digitalisation,"Stratégie pertinente, améliorations suggérées pour l'utilisateur final"
+2022-08-20,Contrôle des opérations de trading,Sanaa Mohammedia,Trading,"Opérations conformes aux réglementations, propositions d'optimisation"
+2022-09-05,Audit des stratégies de marketing,Marouane El Jadida,Marketing,"Stratégies efficaces, ajustements recommandés pour ciblage client"
+2022-09-20,Vérification des systèmes de gestion des risques,Asmae Tétouan,Risques,"Systèmes en place conformes, recommandations pour suivi en temps réel"
+2022-10-05,Examen des politiques de conformité interne,Oussama Laâyoune,Compliance,"Politiques en accord avec les normes, clarifications mineures"
+2022-10-20,Audit de la gestion des contentieux,Mehdi El Jadida,Juridique,"Gestion rigoureuse des contentieux, documentation recommandée"
+2022-11-05,Vérification des fonds de garantie,Nawal Mohammedia,Garanties,"Fonds adéquats, processus de contrôle validés"
+2022-11-20,Contrôle des crédits à la consommation,Hamza Rabat,Crédit,"Prêts conformes aux critères, recommandations pour gestion des risques"
+2022-12-05,Analyse des flux de trésorerie,Zineb Ouarzazate,Trésorerie,"Flux de trésorerie gérés efficacement, prévisions à améliorer"
+2022-12-20,Evaluation des avantages sociaux,Rania Marrakech,Ressources Humaines,"Avantages compétitifs, implications des avantages discutées"
+2023-01-05,Contrôle de la gestion des opérations bancaires,Mohammed Agadir,Opérations,"Gestion des opérations efficace, implémentation des recommandations en cours"
+2023-01-20,Audit de la gestion des données clients,Aicha Casablanca,Données,"Protection des données adéquate, conformité au RGPD assurée"
+2023-02-05,Examen des canaux de distribution,Youssef Oujda,Distribution,"Canaux diversifiés, expérience client à optimiser"
+2023-02-20,Evaluation de l'efficacité des formations internes,Fadwa Agadir,Formation,"Programmes de formation efficaces, suivi post-formation conseillé"
+2023-03-05,Révision des politiques de crédit commercial,Mohamed Safi,Crédit professionnel,"Politiques de crédit claires, processus de révision régulière recommandés"
+2023-03-20,Audit de la sécurité physique des agences,Imad Tanger,Sécurité,"Systèmes de sécurité robustes, simulations d'attaques à prévoir"

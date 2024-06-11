@@ -1,0 +1,31 @@
+,client_id,nom_client,montant_demande,salaire_mensuel,etat_civil,anciennete_emploi,score_credit
+0,101,Abdelkader El Mehdi,15000,10000,Marie,3,Bon
+1,102,Fatima Zohra Benali,20000,12000,Celibataire,5,Excellent
+2,103,Mehdi Amrani,30000,18000,Marie,7,Tres bon
+3,104,Yasmine El Qadiri,25000,15000,Divorce,4,Bon
+4,105,Karim Bouaziz,18000,11000,Marie,6,Tres bon
+5,106,Ines Mezouar,22000,13000,Celibataire,2,Mauvais
+6,107,Ahmed El Kaddouri,21000,14000,Marie,3,Bon
+7,108,Leila Tazi,28000,16000,Veuf(ve),8,Tres bon
+8,109,Sami Bouchara,32000,20000,Celibataire,4,Excellent
+9,110,Lamia El Fassi,23000,14000,Marie,5,Tres bon
+10,111,Nabil Chakir,25000,18000,Celibataire,6,Bon
+11,112,Nadia Karam,26000,17000,Marie,7,Bon
+12,113,Khalid Benkirane,30000,20000,Marie,9,Tres bon
+13,114,Salma Ziani,22000,14000,Divorce,5,Bon
+14,115,Imad El Harrak,32000,19000,Veuf(ve),8,Excellent
+15,116,Karima Boulahia,28000,16000,Marie,6,Tres bon
+16,117,Adil Faridi,24000,15000,Celibataire,4,Bon
+17,118,Houda Mernissi,22000,13000,Marie,3,Mediocre
+18,119,Rachid Bouchaib,28000,17000,Celibataire,5,Tres bon
+19,120,Aicha Lamjad,26000,15000,Marie,4,Bon
+20,121,Younes El Fahmi,29000,18000,Veuf(ve),7,Excellent
+21,122,Samira El Malki,21000,12000,Marie,3,Bon
+22,123,Yassir Benmoussa,23000,14000,Celibataire,4,Bon
+23,124,Nadia Chafik,27000,16000,Divorce,6,Bon
+24,125,Mohamed Zeroual,25000,15000,Marie,5,Tres bon
+25,126,Fatima Amzil,30000,18000,Veuf(ve),8,Excellent
+26,127,Ali Bouhari,22000,13000,Celibataire,3,Tres bon
+27,128,Latifa Hamidi,24000,14000,Marie,4,Bon
+28,129,Hassan Dakhil,26000,15000,Celibataire,5,Tres bon
+29,130,Mona El Ouazzani,28000,16000,Marie,6,Bon

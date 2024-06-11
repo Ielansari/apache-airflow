@@ -1,0 +1,51 @@
+,num_dossier,nom_client,ville,type_assistance,description,statut
+0,AT1001,Ahmed Moussa,Casablanca,Depannage informatique,Probleme de connexion,En cours
+1,AT1002,Fatima Benali,Rabat,Assistance telephonique,Probleme avec lapplication mobile,En attente
+2,AT1003,Hassan Amir,Marrakech,Visite technique,Installation de terminal de paiement,Cloture
+3,AT1004,Nawal Chaoui,Tanger,Formation en ligne,Utilisation de la plateforme de banque en ligne,En cours
+4,AT1005,Khalid Khouribga,Khouribga,Service Clients,Demande dinformation sur les taux de change,En attente
+5,AT1006,Yasmine Ziri,Oujda,Depannage Carte Bancaire,Carte bloquee,En cours
+6,AT1007,Rachid El Mansour,Fes,Assistance en agence,Reclamation sur frais bancaires,En cours
+7,AT1008,Samira Ait Said,Agadir,Assistance par email,Demande de releve de compte,Cloture
+8,AT1009,Omar Bensaid,Tetouan,Visite commerciale,Proposition dun credit immobilier,En attente
+9,AT1010,Karima Lahcen,El Jadida,Depannage guichet automatique,Probleme de retrait dargent,En attente
+10,AT1011,Mehdi Sabiri,Kenitra,Formation en agence,Conseils sur les placements financiers,En cours
+11,AT1012,Nadia Bouziane,Meknes,Assistance telephonique,Resolution dun probleme de virement,Cloture
+12,AT1013,Adil El Amrani,Safi,Service Clients,Demande dexplication sur un prelevement,En attente
+13,AT1014,Houda Dakir,Taza,Depannage informatique,Probleme de connexion banque en ligne,En cours
+14,AT1015,Yassine Harroubi,Beni Mellal,Visite technique,Installation de terminal de paiement mobile,Cloture
+15,AT1016,Meryem Chraibi,Ouarzazate,Formation en ligne,Utilisation de lapplication de transfert dargent,En attente
+16,AT1017,Said El Fassi,Al Hoceima,Depannage Carte Bancaire,Carte demagnetisee,En cours
+17,AT1018,Sanaa Bouchaib,Essaouira,Assistance en agence,Demande de modification de plafond de retrait,En cours
+18,AT1019,Kamal Zouina,Tan-Tan,Assistance par email,Question sur les assurances,Cloture
+19,AT1020,Iman Taoufik,Guelmim,Visite commerciale,Negociation dun pret auto,En attente
+20,AT1021,Rachida El Haddadi,Laayoune,Depannage guichet automatique,Erreur de solde affiche,En attente
+21,AT1022,Amirat Othman,Dakhla,Formation en agence,Conseils sur la gestion de budget,En cours
+22,AT1023,Latifa Boumia,Kenitra,Assistance telephonique,Blocage de carte de paiement,Cloture
+23,AT1024,Adnan Sebbar,Safi,Service Clients,Demande de nouveau chequier,En attente
+24,AT1025,Hanae Tazi,Tiznit,Depannage informatique,Probleme dacces a lespace client,En cours
+25,AT1026,Younes El Kabbaj,Skhirat,Visite technique,Maintenance de distributeur automatique,Cloture
+26,AT1027,Amina Belkhir,Sidi Kacem,Formation en ligne,Utilisation de lapplication de paiement mobile,En attente
+27,AT1028,Mohamed Idrissi,Taroudant,Depannage Carte Bancaire,Perte de carte bancaire,En cours
+28,AT1029,Sara El Makrini,Taza,Assistance en agence,Reclamation sur un frais non identifie,En cours
+29,AT1030,Ali Bouzid,Errachidia,Assistance par email,Probleme de connexion a la messagerie securisee,Cloture
+30,AT1031,Leila El Alaoui,Agadir,Visite commerciale,Proposition dun pret etudiant,En attente
+31,AT1032,Youssef El Idrissi,Casablanca,Depannage guichet automatique,Probleme de depot de billets,En attente
+32,AT1033,Sanae Khattab,Fes,Formation en agence,Conseils sur la gestion de budget familial,En cours
+33,AT1034,Hicham Bouchta,Marrakech,Assistance telephonique,Changement de numero de telephone associe au compte,Cloture
+34,AT1035,Soumaya Zerouali,Tanger,Service Clients,Demande dinformation sur la carte bancaire internationale,En attente
+35,AT1036,Karim Fassi,Oujda,Depannage informatique,Probleme dacces a lapplication Banque en ligne,En cours
+36,AT1037,Nadia El Mansouri,Kenitra,Visite technique,Installation de terminal de paiement NFC,Cloture
+37,AT1038,Rachid El Hamdaoui,Rabat,Formation en ligne,Utilisation de lapplication de trading,En attente
+38,AT1039,Nawal Chafik,Casablanca,Depannage Carte Bancaire,Transaction non reconnue sur le releve,En cours
+39,AT1040,Khalid Elmoussaoui,Rabat,Assistance en agence,Demande de rendez-vous avec conseiller financier,En cours
+40,AT1041,Yasmine Ouafi,Agadir,Assistance par email,Question sur les conditions de pret immobilier,Cloture
+41,AT1042,Rachid Benjelloun,Marrakech,Visite commerciale,Presentation dune offre de placement,En attente
+42,AT1043,Samira Laaroussi,Fes,Depannage guichet automatique,Probleme de delivrance de recu,En attente
+43,AT1044,Omar Alaoui,Tanger,Formation en agence,Information sur la fiscalite des comptes epargne,En cours
+44,AT1045,Karima Berrada,Oujda,Assistance telephonique,Modification du plafond de carte de credit,Cloture
+45,AT1046,Mehdi Tazi,Casablanca,Service Clients,Reclamation de commission sur transfert international,En attente
+46,AT1047,Houda Abidi,Rabat,Depannage informatique,Probleme dajout de beneficiaire,En cours
+47,AT1048,Yassine Bennis,Marrakech,Visite technique,Parametrage de lapplication bancaire pour virement,Cloture
+48,AT1049,Sara Akkaoui,Tanger,Formation en ligne,Utilisation de lapplication de placement en Bourse,En attente
+49,AT1050,Younes El Hamidi,Casablanca,Depannage Carte Bancaire,Carte expiree,En cours

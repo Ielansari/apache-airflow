@@ -1,0 +1,46 @@
+,nom_client,profession,salaire_mensuel,epargne_actuelle
+0,Ahmed Ouldim,Ingenieur,20000,50000
+1,Fatima Benjelloun,Medecin,35000,70000
+2,Rachid El Amrani,Avocat,28000,60000
+3,Nadia Kabbaj,Architecte,25000,55000
+4,Mounir Bellahssan,Enseignant,18000,45000
+5,Loubna Berrada,Consultante,40000,80000
+6,Sofia El Harrak,Comptable,22000,50000
+7,Khalid Touzani,Chef dentreprise,50000,100000
+8,Hafid El Moussaoui,Pharmacien,30000,65000
+9,Fadwa Chafai,Economiste,32000,70000
+10,Youssef Jilani,Informaticien,27000,60000
+11,Hania Kandil,Journaliste,21000,48000
+12,Amal Lahraoui,Pilote,40000,75000
+13,Samir El Makrini,Trader,45000,90000
+14,Nawal Essaidi,Psychologue,23000,52000
+15,Karim Bensaid,Agriculteur,26000,58000
+16,Amina Chergui,Traductrice,19000,47000
+17,Ilyas Boutaleb,Infirmier,24000,55000
+18,Salima El Fakir,Styliste,28000,60000
+19,Mehdi Sebbar,Developpeur,35000,70000
+20,Rania Benbrahim,Geologue,31000,65000
+21,Hamza El Bakkali,Phytotherapeute,27000,58000
+22,Souad El Fassi,Attachee de presse,32000,68000
+23,Yassin Hajji,Agent immobilier,29000,62000
+24,Imane Boudhrioua,Decoratrice,25000,55000
+25,Achraf El Mehdi,Consultant RH,38000,75000
+26,Laila Ben Amrani,Pharmacienne,26000,57000
+27,Omar El Kassimi,Directeur commercial,40000,80000
+28,Ines Moughit,Avocate,30000,65000
+29,Marouane Zahraoui,Ingenieur en telecom,32000,68000
+30,Amina Benchekroun,Biologiste,29000,62000
+31,Mehdi Ouaouki,Gestionnaire de projet,35000,70000
+32,Sara Bouchama,Communication digitale,27000,58000
+33,Khalid El Alami,Photographe,25000,55000
+34,Nadia Chorfi,Artiste peintre,23000,52000
+35,Imad Bessa,Chirurgien,38000,75000
+36,Rabia Bouchara,Designer,28000,60000
+37,Mohamed El Maaroufi,Musicien,26000,57000
+38,Hajar Bourziki,Urbaniste,30000,65000
+39,Othmane Jadi,Patissier,32000,68000
+40,Zineb El Hamidi,Consultante en marketing,29000,62000
+41,Said El Morabit,Product Manager,34000,69000
+42,Amal El Alaoui,Environnementaliste,31000,66000
+43,Hicham Azzimani,Responsable achat,27000,58000
+44,Kenza Bouaouina,Professeur de danse,23000,52000

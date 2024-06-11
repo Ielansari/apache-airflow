@@ -1,0 +1,48 @@
+num_compte,titulaire1,titulaire2,solde,date_ouverture,agence
+CJ112233,Mohamed Ait Ben Ali,Fatima Chaoui,15000.0,2019-07-12,Agence Rabat Centre
+CJ445566,Sara El Amrani,Reda Essafi,25000.0,2020-02-26,Agence Casablanca Maarif
+CJ778899,Fatiha Zouaoui,Youssef El Azizi,18000.0,2018-12-10,Agence Fès Agdal
+CJ223344,Amal Bouchra,Khalid Haddad,30000.0,2019-11-15,Agence Tanger Ville
+CJ556677,Hanae Moussa,Mehdi Bensaid,22000.0,2020-04-08,Agence Agadir Centre
+CJ990011,Nadia El Mernissi,Marouane Lahbabi,27000.0,2017-09-30,Agence Mohammedia Corniche
+CJ334455,Zineb Berrada,Rachid El Fassi,32000.0,2018-06-22,Agence Rabat Hassan
+CJ667788,Latifa El Haouzi,Yassine Benjelloun,19000.0,2019-03-14,Agence Marrakech Guéliz
+CJ112233,Nadia Ouzzine,Khalid El Mansouri,21000.0,2020-01-05,Agence Tétouan Centre
+CJ778899,Laila El Kandri,Hicham Laaroussi,28000.0,2018-11-18,Agence Casablanca Oasis
+CJ778899,Fatima Idrissi,Younes Bahja,24000.0,2020-08-30,Agence Rabat Souissi
+CJ334455,Salma Bouabid,Karim Fettahi,30000.0,2019-01-17,Agence Agadir Houda
+CJ112233,Amal Belkadi,Imad El Harrak,26000.0,2017-05-29,Agence Salé Centre
+CJ556677,Amina Tazi,Adil Chaouki,32000.0,2019-08-22,Agence Mohammedia Centre
+CJ223344,Nora Boudali,Omar El Mansouri,23000.0,2018-04-11,Agence Tanger Corniche
+CJ667788,Houda Benkirane,Kamal El Ouafi,29000.0,2019-06-10,Agence Casablanca Bourgogne
+CJ334455,Sara El Fassi,Anas Berdai,27000.0,2020-03-04,Agence Rabat Yacoub El Mansour
+CJ990011,Meriem Chafchaouni,Ahmed Lahbabi,24000.0,2019-01-09,Agence Fès Médina
+CJ445566,Sanaa Abarkane,Karim El Guerrouj,26000.0,2018-08-05,Agence Marrakech Palmeraie
+CJ223344,Samira Chlih,Anas El Kerdoudi,31000.0,2019-04-16,Agence Tanger Médina
+CJ778899,Naima Mrini,Mehdi El Aouad,28000.0,2017-12-22,Agence Agadir Souk El Had
+CJ556677,Nawal Chakir,Ilias Rhaouti,22000.0,2020-01-30,Agence Casablanca Roches Noires
+CJ990011,Hanae Bouzid,Tarik El Amrani,30000.0,2018-10-13,Agence Rabat VDN
+CJ667788,Ibtissam Mernissi,Yassine El Maliani,25000.0,2019-12-20,Agence Marrakech Hivernage
+CJ445566,Hind El Atrassi,Ayoub Chihab,29000.0,2019-07-07,Agence Casablanca Mers Sultan
+CJ334455,Siham Kassimi,Reda Annaki,27000.0,2018-03-09,Agence Agadir Al Massira
+CJ223344,Imane El Omari,Mohamed El Hachimi,32000.0,2020-05-10,Agence Tanger Cap Spartel
+CJ112233,Nisrine Ait El Caid,Youssef El Qorchi,23000.0,2019-02-12,Agence Rabat Airport
+CJ556677,Rita Abbar,Oussama El Ouardi,31000.0,2017-10-27,Agence Casablanca Anfa
+CJ990011,Noura Ben Hayoun,Adil Ghanmi,26000.0,2018-07-14,Agence Fès Saiss
+CJ223344,Nadia El Wahabi,Jawad El Idrissi,28000.0,2019-05-03,Agence Tanger Marshan
+CJ445566,Yasmina El Harti,Ahmed Derkaoui,24000.0,2018-02-19,Agence Marrakech Menara
+CJ334455,Karima Bouhaddi,Mehdi Ait Kaddour,30000.0,2019-09-04,Agence Agadir Dakhla
+CJ667788,Rachida Bennani,Nabil El Moussaoui,27000.0,2017-08-08,Agence Casablanca Maarif Extension
+CJ112233,Mariam Bennouna,Khalid El Ouali,31000.0,2018-05-26,Agence Tétouan Cap Water
+CJ778899,Ichrak El Harchaoui,Taha El Fassi,29000.0,2019-01-03,Agence Rabat Yaacoub El Mansour
+CJ223344,Nadia Ennadi,Youssef El Jilali,25000.0,2020-09-18,Agence Tanger Boukhalef
+CJ990011,Hanan Skalli,Omar El Bahja,23000.0,2017-11-30,Agence Fès Zouagha
+CJ556677,Mina Benchekroun,Hassan Chaoui,29000.0,2019-06-03,Agence Casablanca Ain Diab
+CJ445566,Siham El Basri,Mehdi El Hamraoui,27000.0,2018-12-15,Agence Marrakech Guéliz
+CJ334455,Yosra Lahlou,Adnane El Baz,32000.0,2020-07-01,Agence Agadir Cité Dakhla
+CJ112233,Amani Souiri,Mohamed El Kabbaj,23000.0,2017-04-21,Agence Salé Medina
+CJ556677,Rajae Lahjouji,Khalil El Azzouzi,31000.0,2019-08-11,Agence Casablanca Mâarif
+CJ334455,Yasmine El Iraki,Nabil Ghazali,26000.0,2018-05-02,Agence Agadir Souk El Had
+CJ223344,Samia El Harras,Abdelghani Salhi,28000.0,2019-10-27,Agence Tanger Ville Nouvelle
+CJ445566,Soukaina Aftiss,Younes Bennani,24000.0,2018-07-09,Agence Marrakech Hivernage
+CJ334455,Hiba El Moussaoui,Marouane Ennaoui,30000.0,2019-01-14,Agence Agadir Cité Dakhla

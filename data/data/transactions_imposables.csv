@@ -1,0 +1,42 @@
+,date_transaction,heure_transaction,beneficiaire,montant,type_transaction,categorie
+0,2022-01-03,2024-04-23,Cafe Restaurant La Gazelle,250.5,Depense,Restauration
+1,2022-01-05,2024-04-23,Station-service Afriquia,65.9,Depense,Carburant
+2,2022-01-10,2024-04-23,Electroplanet,3200.0,Depense,Electronique
+3,2022-01-12,2024-04-23,Supermarche Marjane,580.3,Depense,Alimentation
+4,2022-01-15,2024-04-23,Telecom Maroc,450.0,Depense,Telecommunications
+5,2022-01-18,2024-04-23,Pharmacie Al Wifaq,120.7,Depense,Sante
+6,2022-01-20,2024-04-23,Assurance AXA,895.2,Depense,Assurance
+7,2022-01-22,2024-04-23,Impots et Taxe MTD,800.0,Depense,Fiscalite
+8,2022-01-25,2024-04-23,Cinema Megarama,70.0,Depense,Divertissement
+9,2022-01-28,2024-04-23,Cabinet dAvocats Aloui,1800.0,Depense,Services Juridiques
+10,2022-01-31,2024-04-23,Ecole Privee Al Amal,450.0,Depense,Education
+11,2022-02-03,2024-04-23,Cafe Restaurant Camelia,280.5,Depense,Restauration
+12,2022-02-05,2024-04-23,Station-service Shell,55.9,Depense,Carburant
+13,2022-02-10,2024-04-23,Maison de la Presse,120.0,Depense,Presse et Medias
+14,2022-02-12,2024-04-23,Fromagerie La Favorite,165.8,Depense,Alimentation
+15,2022-02-15,2024-04-23,Operateur Telephonie Inwi,380.0,Depense,Telecommunications
+16,2022-02-18,2024-04-23,Laboratoire dAnalyses Medicales Anoual,75.9,Depense,Sante
+17,2022-02-20,2024-04-23,Assurance CNIA Saada,950.2,Depense,Assurance
+18,2022-02-22,2024-04-23,Tresorerie Generale du Royaume,760.0,Depense,Fiscalite
+19,2022-02-25,2024-04-23,Parc dAttractions Sindibad,50.0,Depense,Divertissement
+20,2022-02-28,2024-04-23,Cabinet de Notaires Belakhdar,2100.0,Depense,Services Juridiques
+21,2022-03-03,2024-04-23,Cafe Restaurant Jamaa Lafna,310.7,Depense,Restauration
+22,2022-03-05,2024-04-23,Station-service Total,70.9,Depense,Carburant
+23,2022-03-10,2024-04-23,Librairie Papeterie Al Manar,85.0,Depense,Papeterie
+24,2022-03-12,2024-04-23,Boucherie Charcuterie La Rose,97.2,Depense,Alimentation
+25,2022-03-15,2024-04-23,Fournisseur Internet Maroc Telecom,520.0,Depense,Telecommunications
+26,2022-03-18,2024-04-23,Clinique du Souffle,235.6,Depense,Sante
+27,2022-03-20,2024-04-23,Assurance Atlanta,750.2,Depense,Assurance
+28,2022-03-22,2024-04-23,Direction Generale des Impots,1100.0,Depense,Fiscalite
+29,2022-03-25,2024-04-23,Parc Zoologique de Rabat,20.0,Depense,Divertissement
+30,2022-03-28,2024-04-23,Cabinet dExpertise Comptable Ficadev,1500.0,Depense,Services Comptables
+31,2022-04-03,2024-04-23,Cafe Restaurant Riad Majd,260.9,Depense,Restauration
+32,2022-04-05,2024-04-23,Station-service BP,80.0,Depense,Carburant
+33,2022-04-10,2024-04-23,Magasin de Chaussures La Star,150.6,Depense,Mode et Chaussures
+34,2022-04-12,2024-04-23,Patisserie Le Diamant,42.3,Depense,Alimentation
+35,2022-04-15,2024-04-23,Fournisseur TV Satellite Digisat,180.0,Depense,Telecommunications
+36,2022-04-18,2024-04-23,Centre Medical Ibn Rochd,45.1,Depense,Sante
+37,2022-04-20,2024-04-23,Assurance Allianz,1100.2,Depense,Assurance
+38,2022-04-22,2024-04-23,Agence Nationale des Ports,650.0,Depense,Transport
+39,2022-04-25,2024-04-23,Parc Aquatique Oasiria,35.0,Depense,Divertissement
+40,2022-04-28,2024-04-23,Cabinet dAvocats Fels,1950.0,Depense,Services Juridiques

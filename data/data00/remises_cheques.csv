@@ -1,0 +1,40 @@
+numero_remise,nom_client,montant,date_remise,agence_origine,agence_destinataire
+12345,Abderrahmane Benkhadra,15000,2022-01-05,Agence Rabat Médina,Agence Casablanca Maarif
+23456,Fatima Zahra Rami,20000,2022-01-07,Agence Marrakech Gueliz,Agence Tanger Ville
+34567,Youssef Berrada,18000,2022-01-10,Agence Fès Ville Nouvelle,Agence Mohammedia
+45678,Nawal El Moutawakil,25000,2022-01-15,Agence Agadir Centre,Agence Essaouira
+56789,Hicham Hajji,30000,2022-01-20,Agence Oujda Centre,Agence Laâyoune
+67890,Naima Joudar,22000,2022-01-25,Agence Safi Port,Agence El Jadida
+78901,Ahmed Charaï,27000,2022-01-28,Agence Kenitra Centre,Agence Témara
+89012,Yasmina Benslimane,19000,2022-02-05,Agence Meknès Medina,Agence Rabat Agdal
+90123,Khalid El Guerrouj,32000,2022-02-08,Agence Casablanca Centre,Agence Rabat Yacoub El Mansour
+01234,Soraya Chafiq,28000,2022-02-10,Agence Tétouan Ville,Agence Chefchaouen
+12340,Hassan Aït Idder,33000,2022-02-15,Agence Taza Centre,Agence Al Hoceima
+23405,Asmaa El Arabi,20000,2022-02-20,Agence Sidi Ifni,Agence Agadir Founty
+34056,Mourad El Achaari,25000,2022-02-25,Agence Dakhla,Agence Laâyoune
+40567,Ibtissam Bakhtaoui,18000,2022-03-05,Agence Beni-Mellal Centre,Agence Marrakech Guéliz
+56778,Hicham El Bergui,30000,2022-03-10,Agence Taza Centre,Agence Nador
+67889,Rajaa Lamsseguem,22000,2022-03-15,Agence Casablanca Maarif,Agence Safi Port
+78990,Karim Moubtakir,27000,2022-03-20,Agence Rabat Souissi,Agence Tanger Ville
+89001,Loubna Bouarfa,19000,2022-03-25,Agence Meknès Médina,Agence Fès Ville Nouvelle
+90012,Omar El Hannit,32000,2022-03-28,Agence Oujda Centre,Agence Berkane
+01234,Houda Amrani,28000,2022-04-05,Agence Kénitra Centre,Agence Casablanca Centre
+12345,Hamid Bouskoura,15000,2022-04-10,Agence Larache,Agence Tanger Ville
+23456,Salima Arfaoui,20000,2022-04-15,Agence Fès Ville Nouvelle,Agence Meknès Agdal
+34567,Tariq El Filali,18000,2022-04-20,Agence El Jadida,Agence Skhirat
+45678,Kaoutar El Amrani,25000,2022-04-25,Agence Marrakech Guéliz,Agence Essaouira
+56789,Yassine Aourid,30000,2022-05-05,Agence Casablanca Centre,Agence El Jadida
+67890,Nadia Berrada,22000,2022-05-10,Agence Safi Port,Agence Essaouira
+78901,Mehdi El Kandil,27000,2022-05-15,Agence Oujda Centre,Agence Figuig
+89012,Samira Belhaj,19000,2022-05-20,Agence Meknès Médina,Agence El Hajeb
+90123,Khalil Chraibi,32000,2022-05-25,Agence Rabat Médina,Agence Khémisset
+01234,Rim El Ghazi,28000,2022-06-05,Agence Laâyoune,Agence Tarfaya
+12345,Tarik El Hamdani,15000,2022-06-10,Agence Casablanca Centre,Agence Meknès Agdal
+23456,Karima Sairi,20000,2022-06-15,Agence Aïn Sebaâ,Agence Mohammedia
+34567,Sofia El Bakkali,18000,2022-06-20,Agence Nador,Agence Berkane
+45678,Mohammed El Kabbaj,25000,2022-06-25,Agence Salé Ville,Agence Bouznika
+56789,Nadia Aouni,30000,2022-07-05,Agence Fès Ville Nouvelle,Agence Meknès Médina
+67890,Yassin El Makhroufi,22000,2022-07-10,Agence Casablanca Maarif,Agence Benguerir
+78901,Sara Bensaïd,27000,2022-07-15,Agence Marrakech Gueliz,Agence Agadir Centre
+89012,Kamal El Fassi,19000,2022-07-20,Agence Tanger Ville,Agence Chefchaouen
+90123,Lina Filali,32000,2022-07-25,Agence El Kelaa des Sraghna,Agence Marrakech Guéliz

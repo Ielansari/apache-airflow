@@ -1,0 +1,51 @@
+,id,type_alerte,date_creation,statut,priorite
+0,1,Transaction suspecte,2022-10-05,En cours,2
+1,2,Depassement de seuil,2022-09-28,Nouveau,1
+2,3,Transaction inhabituelle,2022-10-01,En cours,3
+3,4,Retrait important,2022-10-02,Resolu,1
+4,5,Transaction internationale,2022-09-30,En attente,2
+5,6,Depassement de plafond,2022-09-29,Nouveau,1
+6,7,Transaction douteuse,2022-10-04,En cours,2
+7,8,Operation bloquee,2022-10-03,En attente,3
+8,9,Transaction frauduleuse,2022-09-27,Resolu,2
+9,10,Retrait anormal,2022-10-06,Nouveau,1
+10,11,Transaction suspecte,2022-09-26,En cours,2
+11,12,Depassement de seuil,2022-09-25,Nouveau,1
+12,13,Transaction inhabituelle,2022-09-24,En cours,3
+13,14,Retrait important,2022-09-23,Resolu,1
+14,15,Transaction internationale,2022-09-22,En attente,2
+15,16,Depassement de plafond,2022-09-21,Nouveau,1
+16,17,Transaction douteuse,2022-09-20,En cours,2
+17,18,Operation bloquee,2022-09-19,En attente,3
+18,19,Transaction frauduleuse,2022-09-18,Resolu,2
+19,20,Retrait anormal,2022-09-17,Nouveau,1
+20,21,Transaction suspecte,2022-09-16,En cours,2
+21,22,Depassement de seuil,2022-09-15,Nouveau,1
+22,23,Transaction inhabituelle,2022-09-14,En cours,3
+23,24,Retrait important,2022-09-13,Resolu,1
+24,25,Transaction internationale,2022-09-12,En attente,2
+25,26,Depassement de plafond,2022-09-11,Nouveau,1
+26,27,Transaction douteuse,2022-09-10,En cours,2
+27,28,Operation bloquee,2022-09-09,En attente,3
+28,29,Transaction frauduleuse,2022-09-08,Resolu,2
+29,30,Retrait anormal,2022-09-07,Nouveau,1
+30,31,Transaction suspecte,2022-09-06,En cours,2
+31,32,Depassement de seuil,2022-09-05,Nouveau,1
+32,33,Transaction inhabituelle,2022-09-04,En cours,3
+33,34,Retrait important,2022-09-03,Resolu,1
+34,35,Transaction internationale,2022-09-02,En attente,2
+35,36,Depassement de plafond,2022-09-01,Nouveau,1
+36,37,Transaction douteuse,2022-08-31,En cours,2
+37,38,Operation bloquee,2022-08-30,En attente,3
+38,39,Transaction frauduleuse,2022-08-29,Resolu,2
+39,40,Retrait anormal,2022-08-28,Nouveau,1
+40,41,Transaction suspecte,2022-08-27,En cours,2
+41,42,Depassement de seuil,2022-08-26,Nouveau,1
+42,43,Transaction inhabituelle,2022-08-25,En cours,3
+43,44,Retrait important,2022-08-24,Resolu,1
+44,45,Transaction internationale,2022-08-23,En attente,2
+45,46,Depassement de plafond,2022-08-22,Nouveau,1
+46,47,Transaction douteuse,2022-08-21,En cours,2
+47,48,Operation bloquee,2022-08-20,En attente,3
+48,49,Transaction frauduleuse,2022-08-19,Resolu,2
+49,50,Retrait anormal,2022-08-18,Nouveau,1

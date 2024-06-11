@@ -1,0 +1,51 @@
+num_coffre,localisation,taille,responsable
+CF001,Agence Casablanca Centre,Grand,Souad Ait Slimane
+CF002,Agence Rabat Agdal,Moyen,Ahmed Ben Mansour
+CF003,Agence Tanger Ville Nouvelle,Petit,Fatima El Khatib
+CF004,Agence Marrakech Guéliz,Très Grand,Khalid Chakir
+CF005,Agence Fès Ville,Moyen,Nadia El Idrissi
+CF006,Agence Casablanca Hay Hassani,Petit,Reda Belkasmi
+CF007,Agence Rabat Yacoub El Mansour,Grand,Loubna Bennis
+CF008,Agence Agadir Centre,Moyen,Karim El Ghazi
+CF009,Agence Tétouan Centre,Très Grand,Samira El Fassi
+CF010,Agence Casablanca Ain Diab,Petit,Youssef Akhssassi
+CF011,Agence Rabat Médina,Grand,Sanaa Chafik
+CF012,Agence Oujda Centre,Moyen,Imane Benjelloun
+CF013,Agence Casablanca Sidi Bernoussi,Très Grand,Mohamed El Majdoub
+CF014,Agence Meknès Centre,Grand,Najat Chahdi
+CF015,Agence Casablanca Derb Ghallef,Petit,Anas Moussaoui
+CF016,Agence Casablanca Al Fida,Moyen,Houda El Guendouz
+CF017,Agence Casablanca El Maarif,Très Grand,Abdelkader Sahnoun
+CF018,Agence Casablanca Anfa,Grand,Amina El Amrani
+CF019,Agence Casablanca Oasis,Petit,Said Zerouali
+CF020,Agence Rabat Hassan,Moyen,Hajar El Mouden
+CF021,Agence Rabat Souissi,Très Grand,Yasmine Boutaleb
+CF022,Agence Agadir Founty,Grand,Mehdi Bennis
+CF023,Agence Tanger Al Amal,Petit,Latifa El Mahdaoui
+CF024,Agence Marrakech Palmeraie,Moyen,Soukaina Bouzid
+CF025,Agence Fès Borj Fès,Très Grand,Rachid El Harraqui
+CF026,Agence Casablanca Maarif Extension,Grand,Siham Zemmouri
+CF027,Agence Marrakech Médina,Petit,Youness El Badri
+CF028,Agence Casablanca Quartier des Hôpitaux,Moyen,Lina El Khattabi
+CF029,Agence Tanger Al Kasbah,Très Grand,Fatiha Boushaba
+CF030,Agence Agadir Founty Extension,Grand,Hassan El Rhazoui
+CF031,Agence Tétouan Centre Ville,Petit,Imad Cherkaoui
+CF032,Agence Oujda Médina,Moyen,Nora El Amrani
+CF033,Agence Meknès Ville Nouvelle,Très Grand,Hamza Ait Chikh
+CF034,Agence Casablanca Californie,Grand,Sara El Mansouri
+CF035,Agence Casablanca Maarif,Petit,Ahmed El Hami
+CF036,Agence Casablanca Racine,Moyen,Khadija El Guerrouj
+CF037,Agence Casablanca Bouskoura,Très Grand,Mustapha El Hadari
+CF038,Agence Casablanca Sbata,Grand,Rania El Marrakchi
+CF039,Agence Casablanca Dar Bouazza,Petit,Abdou Saadi
+CF040,Agence Rabat Diour Jamaa,Moyen,Meryem El Ghazi
+CF041,Agence Rabat Souissi Extension,Très Grand,Badr Bouziane
+CF042,Agence Agadir Founty Plage,Grand,Fatima Zahra Boulahia
+CF043,Agence Tanger Al Irfane,Petit,Omar El Mekki
+CF044,Agence Marrakech Guéliz Extension,Moyen,Nabil El Fahim
+CF045,Agence Fès Ville Nouvelle,Très Grand,Nadia El Fassi
+CF046,Agence Casablanca Sidi Moumen,Grand,Rachida El Aouad
+CF047,Agence Marrakech Amizmiz,Petit,Hamza El Kandis
+CF048,Agence Casablanca Sidi Maarouf,Moyen,Fatima Zahra El Ouazzani
+CF049,Agence Casablanca Belvedere,Très Grand,Khalid El Haouzi
+CF050,Agence Rabat Hassan Extension,Grand,Houda El Jai

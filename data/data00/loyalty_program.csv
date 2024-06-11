@@ -1,0 +1,51 @@
+numero_client,nom,prenom,date_naissance,ville,solde_points
+1001,Benjelloun,Ahmed,1975-08-15,Casablanca,3500
+1002,El Kettani,Fatima,1982-03-25,Rabat,2800
+1003,Chami,Nadia,1990-12-10,Marrakech,4300
+1004,El Alaoui,Karim,1978-07-02,Tangier,2000
+1005,Berrada,Sanaa,1985-11-30,Fes,3200
+1006,Amine,Rachid,1967-04-18,Meknes,4600
+1007,Dahbi,Nawal,1992-06-20,Agadir,1800
+1008,Jabri,Yassine,1973-09-05,Oujda,3900
+1009,Tazi,Samira,1989-01-12,Essaouira,2500
+1010,Belloui,Mohamed,1976-05-22,Kenitra,3200
+1011,Lahbabi,Loubna,1984-10-03,El Jadida,4700
+1012,Fassi,Hicham,1979-02-16,Tetouan,2100
+1013,El Fassi,Hind,1987-08-07,Errachidia,4000
+1014,Ouahbi,Khalid,1971-12-28,Tan Tan,2900
+1015,Laaroussi,Hanane,1983-04-14,Asilah,3500
+1016,Boudlal,Saad,1965-01-08,Tiznit,4800
+1017,Benkiran,Imane,1993-03-19,Taza,1900
+1018,Bari,Khalida,1974-06-23,Safi,3600
+1019,El Gharib,Othmane,1991-07-11,Larache,2200
+1020,Kassimi,Hiba,1986-09-29,Dakhla,3100
+1021,Bahja,Mohammed,1977-11-21,Guelmim,4400
+1022,Zeroual,Yasmine,1980-02-03,Ouarzazate,2700
+1023,Hassani,Abdelali,1970-05-17,Berrechid,4000
+1024,El Mrini,Nadia,1988-08-30,Al Hoceima,2400
+1025,Mernissi,Hamza,1972-03-11,Lagouira,3300
+1026,Berrichi,Said,1963-06-07,Laâyoune,4600
+1027,Ouakrim,Najat,1994-04-25,Beni Mellal,1700
+1028,Essadki,Youssef,1978-01-19,Tetouan,3800
+1029,Mansouri,Amina,1983-02-28,Salé,2600
+1030,Ait Haddou,Abderrahim,1975-09-13,Dakhla,3200
+1031,Ait Benhaddou,Hanae,1989-10-27,Agadir,4700
+1032,Moussaoui,Mouna,1982-11-15,Tangier,2200
+1033,Arab,Yassir,1976-12-03,Casablanca,3900
+1034,El Alami,Laila,1991-01-09,Rabat,2300
+1035,Zahraoui,Ali,1979-07-18,Marrakech,3200
+1036,Laaroussi,Hassan,1968-04-05,Fes,4500
+1037,Boulkhrif,Naima,1992-02-23,Meknes,1700
+1038,Houari,Hicham,1974-10-20,Oujda,3800
+1039,El Haouzi,Ilham,1986-06-14,Essaouira,2400
+1040,Gran,Nabil,1983-03-30,Kenitra,3100
+1041,Lahlou,Ines,1972-12-21,El Jadida,4600
+1042,Berrada,Mohammed,1970-09-15,Tetouan,2000
+1043,Fassi Fihri,Salma,1988-08-01,Errachidia,3500
+1044,Ouazzani,Amine,1971-03-05,Tan Tan,2900
+1045,Hakam,Siham,1985-04-03,Asilah,4200
+1046,Benmoussa,Khalid,1966-02-14,Tiznit,1800
+1047,Lakrid,Najlae,1992-05-22,Taza,3700
+1048,Barakat,Karim,1973-09-07,Safi,2600
+1049,El Idrissi,Lina,1989-10-25,Larache,3000
+1050,Aakif,Rachida,1977-12-11,Dakhla,4300

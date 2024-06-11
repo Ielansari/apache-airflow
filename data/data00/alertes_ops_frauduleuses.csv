@@ -1,0 +1,51 @@
+id,nom_client,type_alerte,montant_transaction,date_alerte
+1,Ahmed Benbrahim,Phishing,3000 MAD,2021-07-12
+2,Hajar El Amrani,Carte bancaire perdue,1500 MAD,2021-08-05
+3,Youssef Touimi,Fraude interne,10000 MAD,2021-06-22
+4,Nadia Rahmouni,Phishing,5000 MAD,2021-08-17
+5,Omar El Mansouri,Fraude carte bancaire,7500 MAD,2021-06-30
+6,Fatima Zohra Senhaji,Transfert frauduleux,2000 MAD,2021-07-01
+7,Karim Bouchtaoui,Fraude interne,12000 MAD,2021-08-19
+8,Loubna El Khattabi,Carte bancaire perdue,3000 MAD,2021-07-28
+9,Mehdi El Alaoui,Fraude carte bancaire,6000 MAD,2021-08-11
+10,Amina Boujemaa,Phishing,4000 MAD,2021-07-10
+11,Imane Daoudi,Fraude interne,8000 MAD,2021-06-27
+12,Hicham Abouzaid,Transfert frauduleux,2500 MAD,2021-08-02
+13,Yasmine Essaadi,Carte bancaire perdue,3500 MAD,2021-07-14
+14,Rachid Jabbouri,Fraude carte bancaire,9000 MAD,2021-08-24
+15,Sanaa Maghraoui,Phishing,6000 MAD,2021-06-21
+16,Adnane Moussaoui,Fraude interne,15000 MAD,2021-08-13
+17,Salma Ouardi,Fraude carte bancaire,7000 MAD,2021-07-20
+18,Tarek Kabbaj,Transfert frauduleux,18000 MAD,2021-08-08
+19,Nora Ait Lhaj,Carte bancaire perdue,3100 MAD,2021-06-25
+20,Faycal El Moudden,Phishing,4200 MAD,2021-07-23
+21,Lamia El Fassi,Fraude interne,8300 MAD,2021-08-15
+22,Mohamed Benjelloun,Fraude carte bancaire,7200 MAD,2021-07-18
+23,Asmae Lahlou,Transfert frauduleux,19500 MAD,2021-08-06
+24,Yassir Abidi,Phishing,4700 MAD,2021-07-30
+25,Samia Benali,Carte bancaire perdue,2900 MAD,2021-06-29
+26,Othmane El Gazouani,Fraude carte bancaire,6400 MAD,2021-08-22
+27,Aicha Mansouri,Fraude interne,10700 MAD,2021-06-24
+28,Ali Lemrini,Transfert frauduleux,17500 MAD,2021-08-12
+29,Houda Karimi,Carte bancaire perdue,3300 MAD,2021-07-16
+30,Ayoub Bennis,Phishing,4800 MAD,2021-07-22
+31,Noura El Kamari,Fraude interne,9200 MAD,2021-08-14
+32,Mehdi Ben Youssef,Fraude carte bancaire,7100 MAD,2021-07-19
+33,Yasmine Zouhair,Transfert frauduleux,20500 MAD,2021-08-07
+34,Salim El Ghazi,Phishing,4500 MAD,2021-07-31
+35,Sara El Mountassir,Carte bancaire perdue,2700 MAD,2021-06-28
+36,Omar Benjelloun,Fraude carte bancaire,6800 MAD,2021-08-23
+37,Hanane Dahmouni,Fraude interne,10300 MAD,2021-06-25
+38,Zakaria El Bakkali,Transfert frauduleux,19000 MAD,2021-08-09
+39,Fatima Ez Zemmouri,Carte bancaire perdue,3200 MAD,2021-07-15
+40,Aymane Benzakour,Phishing,4400 MAD,2021-07-24
+41,Hanae Laabi,Fraude interne,8600 MAD,2021-08-16
+42,Marouane El Harfi,Phishing,5400 MAD,2021-07-26
+43,Kawtar Choubani,Fraude interne,11000 MAD,2021-06-30
+44,Ahmed Ouaarab,Transfert frauduleux,18500 MAD,2021-08-10
+45,Nada Essaifi,Phishing,4900 MAD,2021-07-21
+46,Yassine Benghanem,Carte bancaire perdue,3000 MAD,2021-06-26
+47,Amina Ouabi,Fraude carte bancaire,6600 MAD,2021-08-25
+48,Karim El Fatimi,Fraude interne,12000 MAD,2021-06-23
+49,Soukaina Jabiri,Phishing,5100 MAD,2021-07-29
+50,Adil El Khayati,Transfert frauduleux,19500 MAD,2021-08-04

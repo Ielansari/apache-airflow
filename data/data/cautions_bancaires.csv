@@ -1,0 +1,51 @@
+,id,num_contrat,beneficiaire,montant,type_caution
+0,1,CNK12345,Societe de construction ABC,200000,Caution de soumission
+1,2,CNK54321,Societe dimportation XYZ,150000,Caution de restitution dacompte
+2,3,CNK98765,Societe de travaux publics QRS,180000,Caution de bonne fin
+3,4,CNK24680,Societe de commerce UVW,120000,Caution de retenue de garantie
+4,5,CNK13579,Societe de production DEF,250000,Caution de paiement des taxes
+5,6,CNK86420,Societe de transport GHI,175000,Caution de prepaiement
+6,7,CNK57391,Societe dagroalimentaire JKL,210000,Caution de retenue de garantie
+7,8,CNK11900,Societe de services MNO,190000,Caution de remboursement davance
+8,9,CNK88995,Societe de communication RST,160000,Caution de retenue de garantie
+9,10,CNK77661,Societe de consulting PQR,220000,Caution de restitution dacompte
+10,11,CNK55224,Societe de design WXYZ,135000,Caution de bonne fin
+11,12,CNK44133,Societe de maintenance UVW,195000,Caution de soumission
+12,13,CNK33942,Societe dinnovation ABC,165000,Caution de retenue de garantie
+13,14,CNK22751,Societe devenementiel DEF,230000,Caution de paiement des taxes
+14,15,CNK11560,Societe de formation GHI,140000,Caution de prepaiement
+15,16,CNK99379,Societe de conseil JKL,170000,Caution de remboursement davance
+16,17,CNK88188,Societe de distribution MNO,200000,Caution de restitution dacompte
+17,18,CNK77007,Societe de production RST,125000,Caution de bonne fin
+18,19,CNK66866,Societe de construction PQR,240000,Caution de soumission
+19,20,CNK55655,Societe dimportation WXYZ,185000,Caution de retenue de garantie
+20,21,CNK44122,Societe de travaux publics UVW,195000,Caution de paiement des taxes
+21,22,CNK33731,Societe de commerce ABC,155000,Caution de prepaiement
+22,23,CNK22540,Societe de transport DEF,180000,Caution de remboursement davance
+23,24,CNK11359,Societe dagroalimentaire GHI,210000,Caution de restitution dacompte
+24,25,CNK99188,Societe de services JKL,130000,Caution de bonne fin
+25,26,CNK88977,Societe de communication MNO,235000,Caution de soumission
+26,27,CNK77766,Societe de consulting RST,170000,Caution de retenue de garantie
+27,28,CNK66555,Societe de design PQR,190000,Caution de paiement des taxes
+28,29,CNK55344,Societe de maintenance WXYZ,145000,Caution de prepaiement
+29,30,CNK44133,Societe dinnovation UVW,220000,Caution de remboursement davance
+30,31,CNK33922,Societe devenementiel ABC,175000,Caution de restitution dacompte
+31,32,CNK22711,Societe de formation DEF,200000,Caution de bonne fin
+32,33,CNK11500,Societe de conseil GHI,240000,Caution de soumission
+33,34,CNK99369,Societe de distribution JKL,160000,Caution de retenue de garantie
+34,35,CNK88162,Societe de production MNO,180000,Caution de paiement des taxes
+35,36,CNK77951,Societe de communication RST,195000,Caution de prepaiement
+36,37,CNK66740,Societe de consulting PQR,210000,Caution de remboursement davance
+37,38,CNK55539,Societe de design WXYZ,135000,Caution de restitution dacompte
+38,39,CNK44328,Societe de maintenance UVW,250000,Caution de bonne fin
+39,40,CNK33117,Societe dinnovation ABC,175000,Caution de soumission
+40,41,CNK22906,Societe devenementiel DEF,160000,Caution de retenue de garantie
+41,42,CNK11795,Societe de formation GHI,185000,Caution de paiement des taxes
+42,43,CNK99584,Societe de conseil JKL,190000,Caution de prepaiement
+43,44,CNK77373,Societe de distribution MNO,210000,Caution de remboursement davance
+44,45,CNK66162,Societe de production RST,145000,Caution de restitution dacompte
+45,46,CNK55951,Societe de consulting PQR,230000,Caution de bonne fin
+46,47,CNK44740,Societe de design WXYZ,175000,Caution de soumission
+47,48,CNK33539,Societe de maintenance UVW,200000,Caution de retenue de garantie
+48,49,CNK22328,Societe dinnovation ABC,160000,Caution de paiement des taxes
+49,50,CNK11117,Societe devenementiel DEF,175000,Caution de prepaiement

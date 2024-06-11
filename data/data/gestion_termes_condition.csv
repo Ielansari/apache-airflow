@@ -1,0 +1,51 @@
+,id,produit,type,conditions,avantages
+0,1,Pret automobile,Credit,Taux dinteret fixe de 5% pour une duree de remboursement de 5 ans.,Pas de frais de dossier
+1,2,Carte bancaire Internationale,Carte,"Frais annuels de 200 DH, plafond de retrait mensuel de 20 000 DH.",Assurance voyage incluse
+2,3,Assurance habitation,Assurance,"Couverture incendie, vol, et degats des eaux.",Assistance 24h/24
+3,4,Compte Epargne Jeune,Compte,"Taux dinteret attractif de 3%, accessible aux moins de 25 ans.",Exoneration de frais de tenue de compte
+4,5,Pret Immobilier,Credit,"Duree de remboursement jusqua 25 ans, taux fixe de 4.5%.",Possibilite de report decheances
+5,6,Assurance Auto,Assurance,"Couverture tous risques, assistance depannage et remorquage.",Vehicule de remplacement en cas de panne
+6,7,Livret dEpargne,Compte,"Disponible a partir de 500 DH, taux dinteret progressif.",Possibilite de retrait a tout moment
+7,8,Pret Etudiant,Credit,"Pas de garantie parentale requise, taux avantageux pour les etudiants.",Report de remboursement apres lobtention du diplome
+8,9,Securite Internet,Service,Systeme de protection contre la fraude en ligne.,Acces a des outils de prevention
+9,10,Compte Courant Classique,Compte,Frais de tenue de compte de 20 DH par mois.,Acces aux services bancaires en ligne
+10,11,Assurance Sante,Assurance,"Couverture hospitalisation, medecine generale et specialiste.",Remboursement rapide des frais medicaux
+11,12,Pret Personnel,Credit,"Montant jusqua 100 000 DH, remboursement mensuel fixe.",Pas de justificatif dutilisation des fonds
+12,13,Assurance Voyage,Assurance,"Couverture mondiale, rapatriement medical inclus.",Indemnites en cas de retard de vol
+13,14,Livret Jeune,Compte,"Reserve aux moins de 25 ans, taux dinteret bonifie.",Acces a des offres jeunesse et reductions
+14,15,Credit Renouvelable,Credit,"Montant disponible jusqua 50 000 DH, remboursement flexible.",Possibilite de reconstituer le credit rembourse
+15,16,Assurance Emprunteur,Assurance,Garantit le remboursement du credit en cas de deces ou invalidite.,Prise en charge des mensualites en cas de sinistre
+16,17,Carte Prepayee,Carte,"Rechargeable, sans engagement avec plafond de depenses.",Controle des depenses et securite en ligne
+17,18,Epargne Retraite,Compte,Versements mensuels pour constituer une rente a la retraite.,Deduction fiscale sur les cotisations
+18,19,Pret Travaux,Credit,"Financer des travaux jusqua 300 000 DH, deblocage progressif des fonds.",Frais de dossier offerts
+19,20,Assurance Multirisque Professionnelle,Assurance,"Protege votre activite des risques lies au local, au materiel et a la responsabilite civile.",Indemnisation rapide en cas de sinistre
+20,21,Credit Bail Equipement,Credit,"Financement pour lequipement professionnel, loyer mensuel fixe.",Possibilite dacquerir le bien a la fin du contrat
+21,22,Compte Entreprise,Compte,"Gestion de tresorerie optimale, acces a des solutions de financements sur mesure.",Tarification avantageuse sur les operations bancaires
+22,23,Assurance Flotte Automobile,Assurance,"Couvre lensemble des vehicules de lentreprise, assistance depannage et reparation.",Pas de franchise en cas de sinistre
+23,24,Credit Export,Credit,"Financement des exportations, taux avantageux sur les devises.",Soutien dans le developpement a linternational
+24,25,Assurance Cyber Risques,Assurance,"Protection des donnees sensibles, intervention suite a une cyberattaque.",Acces a une cellule dassistance numerique
+25,26,Credit Baux Commerciaux,Credit,"Financement de locaux commerciaux, loyer adapte a lactivite.",Possibilite de renegociation du bail
+26,27,Compte de Gestion,Compte,Permet de separer les fonds de lentreprise et les revenus personnels.,Facilite la gestion comptable et fiscale
+27,28,Assurance Individuelle Accidents,Assurance,Couverture en cas de deces ou invalidite suite a un accident.,Versement dun capital a la victime ou a ses ayant droits
+28,29,Credit Tresorerie,Credit,"Financement ponctuel pour couvrir les besoins de tresorerie, taux competitif.",Souplesse dans la gestion des flux financiers
+29,30,Assurance Credit,Assurance,"Protege contre le risque dinsolvabilite des clients, indemnisation en cas de non-paiement.",Garantit la continuite de lactivite
+30,31,Credit Achat Vehicule,Credit,Financement pour lacquisition de vehicules neufs ou doccasion.,Facilite dans la procedure dachat
+31,32,Carte Gold,Carte,"Frais annuel de 500 DH, plafond de paiement eleve, assurances voyage incluses.",Acces a des services premium
+32,33,Assurance Protection Juridique,Assurance,Acces a des services juridiques en cas de litige.,Conseils et defense par des specialistes
+33,34,Credit Energie Renouvelable,Credit,"Financement pour linstallation de panneaux solaires ou eoliennes, taux bonifie.",Reduction de la facture energetique a long terme
+34,35,Assurance Multirisque Habitation,Assurance,"Protege lhabitation contre les dommages materiels, vol et responsabilite civile.",Assistance en cas durgence 24h/24
+35,36,Compte a Terme,Compte,"Blocage des fonds sur une duree determinee, taux dinteret attractif.",Remuneration garantie a lecheance
+36,37,Pret Industries Creatives,Credit,"Financement pour les professions artistiques et creatives, modalites adaptees.",Appui a linnovation et a la creativite
+37,38,Assurance Risques Industriels,Assurance,"Couverture des pertes dexploitation, dommages materiels et responsabilite civile.",Inspection des risques et prevention professionnelle
+38,39,Credit Agriculture Responsable,Credit,"Financement pour lagriculture biologique et durable, taux preferentiel.",Encouragement des pratiques respectueuses de lenvironnement
+39,40,Assurance Chomage,Assurance,Prestation en cas de perte de lemploi involontaire.,Maintien du niveau de vie temporaire
+40,41,Credit Developpement Durable,Credit,"Financement pour des projets respectueux de lenvironnement, conditions adaptees.",Participation a la preservation de la planete
+41,42,Carte Jeune,Carte,"Reservee aux moins de 30 ans, plafond de paiement mensuel de 5 000 DH.",Offres exclusives et remises chez les partenaires
+42,43,Assurance Credit Export,Assurance,"Assure contre le risque de non-paiement a lexport, couverture des factures impayees.",Securisation des transactions internationales
+43,44,Credit Formation Professionnelle,Credit,"Financement pour la formation continue des salaries, modalites adaptees.",Investissement dans le capital humain de lentreprise
+44,45,Assurance Collectivites Locales,Assurance,"Couverture des biens publics, responsabilite civile et risques statutaires.",Expertise dans la gestion des risques des collectivites
+45,46,Carte Etudiant,Carte,"Reservee aux etudiants, plafond de paiement mensuel de 3 000 DH.",Facilite dans la gestion du budget etudiant
+46,47,Assurance Transporteurs,Assurance,Couverture des marchandises transportees et responsabilite civile professionnelle.,Assistance en cas dincident routier
+47,48,Credit Launchpad Startups,Credit,"Financement pour les startups en phase de lancement, accompagnement financier.",Catalyseur pour les projets entrepreneuriaux
+48,49,Assurance Responsabilite Civile Entreprise,Assurance,Protege contre les dommages causes a autrui dans le cadre professionnel.,Indemnisation des tiers leses
+49,50,Compte Epargne Senior,Compte,"Reserve aux plus de 60 ans, taux dinteret bonifie.",Offre adaptee aux besoins des seniors

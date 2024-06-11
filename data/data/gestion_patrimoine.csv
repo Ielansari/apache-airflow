@@ -1,0 +1,45 @@
+,client,numero_compte,type_compte,solde,actifs,ville
+0,Mohammed Haddad,123456789,epargne,50000,immobilier,Casablanca
+1,Leila Toumi,987654321,epargne,75000,actions,Marrakech
+2,Khalid Bennis,456123789,courant,10000,obligations,Rabat
+3,Fatima Zahra Lahbabi,789456123,epargne,65000,immobilier,Tanger
+4,Karim Mansour,321654987,courant,30000,actions,Fes
+5,Nora El Amrani,654789321,epargne,85000,obligations,Agadir
+6,Youssef Rami,789123456,epargne,40000,immobilier,Tetouan
+7,Sara Benani,987321654,courant,55000,actions,Meknes
+8,Ahmed Choukairi,456789123,courant,20000,obligations,Essaouira
+9,Nadia Kabbaj,654321987,epargne,70000,immobilier,Oujda
+10,Samir Belarbi,123789456,courant,60000,actions,Tanger
+11,Amal Bennani,321987654,epargne,90000,obligations,Casablanca
+12,Mehdi El Kacemi,789321456,epargne,48000,immobilier,Marrakech
+13,Rania Ait Bennani,987456321,courant,33000,actions,Rabat
+14,Omar El Alaoui,456789321,courant,18000,obligations,Fes
+15,Asmaa Lahlou,654987123,epargne,66000,immobilier,Agadir
+16,Rachid Bouzidi,123321789,epargne,42000,actions,Tetouan
+17,Hiba Mansouri,987456123,courant,57000,obligations,Meknes
+18,Yassine El Mahjoubi,456789654,courant,25000,immobilier,Essaouira
+19,Salma El Jaoudi,321987456,epargne,72000,actions,Oujda
+20,Hamza El Moussaoui,654321789,epargne,80000,obligations,Casablanca
+21,Nawal Ben Mansour,789456321,courant,64000,immobilier,Marrakech
+22,Ali Chakir,987789123,epargne,95000,actions,Rabat
+23,Latifa El Fassi,456123987,courant,32000,obligations,Tanger
+24,Kamal El Bakkali,789654321,epargne,46000,immobilier,Fes
+25,Amina Dahane,321789654,courant,54000,actions,Agadir
+26,Ahmed Hakimi,654321789,courant,28000,obligations,Tetouan
+27,Nadia El Fassi,123987456,epargne,84000,immobilier,Meknes
+28,Othman El Makki,987654321,epargne,22000,actions,Essaouira
+29,Sara El Harrak,456321987,courant,36000,obligations,Oujda
+30,Youssef Benkiran,789123654,courant,74000,immobilier,Casablanca
+31,Houda El Abbadi,654987123,epargne,58000,actions,Marrakech
+32,Jamal Lahbabi,321456789,epargne,89000,obligations,Rabat
+33,Hajar Boufal,987789456,courant,47000,immobilier,Fes
+34,Nabil Hammouch,456123789,epargne,68000,actions,Agadir
+35,Fadoua Filali,789456321,courant,52000,obligations,Tetouan
+36,Samia El Kadiri,654321987,epargne,70000,immobilier,Meknes
+37,Marouane Benabdeslam,123789456,courant,60000,actions,Essaouira
+38,Loubna Chakir,987654321,courant,30000,obligations,Oujda
+39,Zakaria Lahmidi,456789123,epargne,44000,immobilier,Casablanca
+40,Nassim El Mahjoubi,789123456,epargne,78000,actions,Marrakech
+41,Rim Benani,321987654,courant,47000,obligations,Rabat
+42,Zineb Choukairi,789456123,courant,26000,immobilier,Fes
+43,Mehdi Mansouri,987321654,epargne,62000,actions,Agadir

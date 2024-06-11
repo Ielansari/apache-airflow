@@ -1,0 +1,43 @@
+,date,transaction,beneficiary,amount
+0,2021-09-01,Versement,John Doe,5000 MAD
+1,2021-09-01,Retrait,Jane Smith,800 MAD
+2,2021-09-02,Virement,James Brown,1500 MAD
+3,2021-09-02,Paiement,Sophie Dupont,200 MAD
+4,2021-09-03,Retrait,Fatima Zahra,300 MAD
+5,2021-09-03,Versement,Ahmed Amzal,10000 MAD
+6,2021-09-04,Virement,Khalid El Alami,2500 MAD
+7,2021-09-04,Paiement,Leila Chaoui,400 MAD
+8,2021-09-05,Retrait,Hicham Belarbi,600 MAD
+9,2021-09-05,Versement,Sara Laaroussi,7000 MAD
+10,2021-09-06,Virement,Nora Benali,1800 MAD
+11,2021-09-06,Paiement,Mohamed Tazi,150 MAD
+12,2021-09-07,Retrait,Yasmine Bensaid,200 MAD
+13,2021-09-07,Versement,Rachid Mounir,9500 MAD
+14,2021-09-08,Virement,Fatiha El Idrissi,3000 MAD
+15,2021-09-08,Paiement,Omar Saih,270 MAD
+16,2021-09-09,Retrait,Asmaa Bouzid,400 MAD
+17,2021-09-09,Versement,Wassim Agoubi,8000 MAD
+18,2021-09-10,Virement,Salim Oubaha,2100 MAD
+19,2021-09-10,Paiement,Karima Benkhadra,120 MAD
+20,2021-09-11,Retrait,Amira Chraibi,500 MAD
+21,2021-09-11,Versement,Latifa El Fahmi,6000 MAD
+22,2021-09-12,Virement,Nabil Chakir,2700 MAD
+23,2021-09-12,Paiement,Nawal Hajji,320 MAD
+24,2021-09-13,Retrait,Imane Rami,100 MAD
+25,2021-09-13,Versement,Adel Benjelloun,4500 MAD
+26,2021-09-14,Virement,Youssef Dahmani,2800 MAD
+27,2021-09-14,Paiement,Sofia El Mansouri,150 MAD
+28,2021-09-15,Retrait,Amine Ghazouani,350 MAD
+29,2021-09-15,Versement,Imad Laroui,3000 MAD
+30,2021-09-16,Virement,Nadia Zemmouri,1900 MAD
+31,2021-09-16,Paiement,Hamza Alami,200 MAD
+32,2021-09-17,Retrait,Salma Jaber,250 MAD
+33,2021-09-17,Versement,Malika Najjar,7000 MAD
+34,2021-09-18,Virement,Kamal Berrada,3200 MAD
+35,2021-09-18,Paiement,Raouf Daoudi,180 MAD
+36,2021-09-19,Retrait,Dounia Haddad,500 MAD
+37,2021-09-19,Versement,Abdelkader Marzouki,8500 MAD
+38,2021-09-20,Virement,Marouane Taoufik,1600 MAD
+39,2021-09-20,Paiement,Mounia Chafik,125 MAD
+40,2021-09-21,Retrait,Yassine El Haloui,150 MAD
+41,2021-09-21,Versement,Chaima Nouri,4000 MAD

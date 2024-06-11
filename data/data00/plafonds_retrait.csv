@@ -1,0 +1,48 @@
+type_carte,plafond_journalier,plafond_hebdomadaire
+Carte Jeune,3 000 MAD,10 000 MAD
+Carte Classic,5 000 MAD,15 000 MAD
+Carte Gold,10 000 MAD,30 000 MAD
+Carte Platinum,20 000 MAD,50 000 MAD
+Carte VIP,50 000 MAD,100 000 MAD
+Carte Business,30 000 MAD,70 000 MAD
+Carte Prépayée,1 000 MAD,5 000 MAD
+Carte Nomade,2 000 MAD,8 000 MAD
+Carte Étudiant,2 000 MAD,6 000 MAD
+Carte Scolaire,500 MAD,2 000 MAD
+Carte Familiale,10 000 MAD,40 000 MAD
+Carte Spécial Jeune,4 000 MAD,12 000 MAD
+Carte Senior,5 000 MAD,20 000 MAD
+Carte Voyage,8 000 MAD,25 000 MAD
+Carte Premium,15 000 MAD,35 000 MAD
+Carte Affaires,20 000 MAD,60 000 MAD
+Carte Épargne,5 000 MAD,15 000 MAD
+Carte Entreprise,30 000 MAD,80 000 MAD
+Carte Pro,25 000 MAD,70 000 MAD
+Carte Junior,2 500 MAD,6 000 MAD
+Carte Élite,12 000 MAD,40 000 MAD
+Carte Partenariat,7 000 MAD,20 000 MAD
+Carte Excellence,30 000 MAD,90 000 MAD
+Carte Liberté,8 000 MAD,25 000 MAD
+Carte Économique,3 000 MAD,10 000 MAD
+Carte Premium Plus,18 000 MAD,50 000 MAD
+Carte Relation,15 000 MAD,40 000 MAD
+Carte Prestige,25 000 MAD,70 000 MAD
+Carte Particulier,5 000 MAD,15 000 MAD
+Carte Avantages,7 000 MAD,20 000 MAD
+Carte Excellence Plus,35 000 MAD,100 000 MAD
+Carte Partenaires,20 000 MAD,50 000 MAD
+Carte Sélection,10 000 MAD,30 000 MAD
+Carte Signature,20 000 MAD,60 000 MAD
+Carte Privilège,30 000 MAD,80 000 MAD
+Carte Avant-garde,25 000 MAD,70 000 MAD
+Carte Excellence Pro,40 000 MAD,120 000 MAD
+Carte Premium Pro,45 000 MAD,130 000 MAD
+Carte Vision,60 000 MAD,150 000 MAD
+Carte Prestige Pro,50 000 MAD,140 000 MAD
+Carte Avantages Pro,35 000 MAD,100 000 MAD
+Carte Épargne Pro,30 000 MAD,80 000 MAD
+Carte Privilège Pro,40 000 MAD,110 000 MAD
+Carte Internationale,20 000 MAD,50 000 MAD
+Carte Standard,5 000 MAD,15 000 MAD
+Carte Personnalisée,15 000 MAD,45 000 MAD
+Carte Bonus,10 000 MAD,25 000 MAD

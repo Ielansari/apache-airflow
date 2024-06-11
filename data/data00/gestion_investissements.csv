@@ -1,0 +1,51 @@
+id,client,ville,montant_investi,type_investissement,date_investissement
+1,Marouane El Abassi,Casablanca,25000,Actions,2020-06-12
+2,Sara Ben Omar,Rabat,30000,Obligations,2020-07-03
+3,Ahmed Mounir,Tanger,15000,Fonds communs,2020-08-21
+4,Ines Zeroual,Agadir,40000,Immobilier,2020-09-14
+5,Younes El Amrani,Marrakech,35000,Actions,2020-10-02
+6,Najia Fassi,Fès,20000,Obligations,2020-11-19
+7,Karim Berrada,Casa,28000,Fonds communs,2020-12-07
+8,Amal El Hamdi,Rabat,32000,Immobilier,2021-01-25
+9,Hassan Meziani,Tanger,18000,Actions,2021-02-13
+10,Nora Lahmer,Agadir,42000,Obligations,2021-03-02
+11,Mohamed Amrani,Marrakech,33000,Fonds communs,2021-04-18
+12,Fatima Bahir,Fès,21000,Immobilier,2021-05-06
+13,Omar Hafidi,Casablanca,26000,Actions,2021-06-23
+14,Sanaa Touil,Rabat,31000,Obligations,2021-07-11
+15,Ahmed Benjelloun,Tanger,16000,Fonds communs,2021-08-29
+16,Amina Elmoussaoui,Agadir,41000,Immobilier,2021-09-16
+17,Youssef Jilani,Marrakech,34000,Actions,2021-10-04
+18,Leila Bensaid,Fès,22000,Obligations,2021-11-21
+19,Mehdi El Alami,Casa,29000,Fonds communs,2021-12-09
+20,Nora Ichou,Rabat,33000,Immobilier,2022-01-27
+21,Rachid Afiri,Tanger,19000,Actions,2022-02-15
+22,Fadwa El Fouz,Agadir,43000,Obligations,2022-03-04
+23,Khalid Berrada,Marrakech,36000,Fonds communs,2022-04-20
+24,Ibtissam Rami,Fès,23000,Immobilier,2022-05-08
+25,Yassine El Maati,Casablanca,27000,Actions,2022-06-25
+26,Nawal Alami,Rabat,32000,Obligations,2022-07-13
+27,Brahim El Jadidi,Tanger,17000,Fonds communs,2022-08-31
+28,Nadia Khadiri,Agadir,42000,Immobilier,2022-09-18
+29,Karima Bouzid,Marrakech,35000,Actions,2022-10-06
+30,Yassin El Fassi,Casa,31000,Obligations,2022-11-23
+31,Imane Meziani,Rabat,28000,Fonds communs,2022-12-11
+32,Hicham Boutaleb,Tanger,19000,Immobilier,2023-01-28
+33,Salma Medarhri,Agadir,43000,Actions,2023-02-16
+34,El Mehdi Fakih,Marrakech,36000,Obligations,2023-03-05
+35,Asmaa Haddadi,Fès,23000,Fonds communs,2023-04-21
+36,Samira Bennis,Casablanca,28000,Immobilier,2023-05-09
+37,Ayoub Lahlou,Rabat,32000,Actions,2023-06-26
+38,Nisrine Salmi,Tanger,24000,Obligations,2023-07-14
+39,Ali El Filali,Agadir,39000,Fonds communs,2023-08-01
+40,Hiba Laaroussi,Marrakech,34000,Immobilier,2023-09-19
+41,Amine Nafai,Fès,20000,Actions,2023-10-07
+42,Yasmine Dahbi,Casa,30000,Obligations,2023-11-24
+43,Anas Kandil,Rabat,27000,Fonds communs,2023-12-12
+44,Houda Harouach,Tanger,22000,Immobilier,2024-01-29
+45,Mehdi El Ghaoui,Agadir,40000,Actions,2024-02-17
+46,Amira Ben Chekroun,Marrakech,35000,Obligations,2024-03-06
+47,Nabil El Azzouzi,Fès,23000,Fonds communs,2024-04-22
+48,Safaa Chami,Casablanca,29000,Immobilier,2024-05-10
+49,Khalid Abouarabi,Rabat,31000,Actions,2024-06-27
+50,Salma Berrada,Tanger,24000,Obligations,2024-07-15

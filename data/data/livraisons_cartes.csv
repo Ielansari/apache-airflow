@@ -1,0 +1,51 @@
+,id,numero_carte,date_livraison,adresse_livraison,destinataire
+0,1,1234 5678 9101 1121,2022-01-15,"15 Avenue Hassan II, Casablanca",Leila Benjelloun
+1,2,2345 6789 1101 1213,2022-01-16,"10 Rue Moulay Ali, Rabat",Karim Amrani
+2,3,3456 7891 0121 2134,2022-01-17,"28 Avenue Mohammed V, Marrakech",Fatima El Mansouri
+3,4,4567 8910 1213 2435,2022-01-18,"5 Rue Ibn Rochd, Agadir",Mehdi El Kaddouri
+4,5,5678 9101 2132 4356,2022-01-20,"22 Boulevard Zerktouni, Casablanca",Nora Bouchikhi
+5,6,6789 1011 3234 5467,2022-01-21,"3 Rue Taha Hussain, Tetouan",Youssef Nasri
+6,7,7891 0121 3456 5678,2022-01-22,"17 Rue de la Gare, Fes",Lina Chafai
+7,8,8910 1213 4567 6789,2022-01-24,"9 Avenue Mohammed VI, Rabat",Omar Hajji
+8,9,9101 2132 5678 7890,2022-01-25,"12 Boulevard Hassan I, Casablanca",Sara El Ouardi
+9,10,1011 3234 6789 8901,2022-01-26,"6 Rue Massira, Tangier",Ahmed Moussaoui
+10,11,1112 3456 7890 1012,2022-01-27,"4 Avenue de Paris, Casablanca",Houda El Mokhtar
+11,12,1213 4567 8901 1123,2022-01-28,"20 Rue Mohamed Diouri, Marrakech",Amine Chakir
+12,13,1314 5678 9011 1234,2022-01-29,"11 Boulevard Al Massira, Agadir",Soukaina Ouenzar
+13,14,1415 6789 0112 2345,2022-01-30,"7 Avenue des FAR, Rabat",Yassin Bennis
+14,15,1516 7890 1123 3456,2022-01-31,"14 Boulevard Bir Anzarane, Casablanca",Samira El Harrak
+15,16,1617 8901 1234 5678,2022-02-01,"8 Rue Ahmed Baida, Tetouan",Issam Benjelloun
+16,17,1718 9012 2345 6789,2022-02-02,"19 Avenue Brahim Roudani, Fes",Nora Chabani
+17,18,1819 0123 3456 7890,2022-02-03,"13 Boulevard Mohammed V, Rabat",Mehdi Kassimi
+18,19,1920 1234 4567 8901,2022-02-04,"25 Rue Abou Bakr Essedik, Casablanca",Amina Lahlou
+19,20,2021 2345 5678 9012,2022-02-05,"18 Avenue Sidi Mohamed Ben Abdellah, Tangier",Khalid Bouhaddi
+20,21,2122 3456 6789 0123,2022-02-06,"2 Rue de lIndependance, Casablanca",Latifa Moutawakil
+21,22,2223 4567 8901 2345,2022-02-07,"16 Avenue Allal Ben Abdellah, Marrakech",Chakib Berrada
+22,23,2324 5678 9012 3456,2022-02-08,"22 Boulevard Ziraoui, Agadir",Aicha Ezzahraoui
+23,24,2425 6789 0123 4567,2022-02-09,"31 Avenue des Nations Unies, Rabat",Abdelkader Habibi
+24,25,2526 7890 1234 5678,2022-02-10,"10 Rue Al Fourat, Casablanca",Fatiha Lemrini
+25,26,2627 8901 2345 6789,2022-02-11,"4 Avenue des Oudayas, Rabat",Hassan Bakali
+26,27,2728 9012 3456 7890,2022-02-12,"7 Rue Ibn Batouta, Tangier",Imane Sahel
+27,28,2829 0123 4567 8901,2022-02-14,"3 Boulevard Hassan II, Casablanca",Said El Fassi
+28,29,2930 1234 5678 9012,2022-02-15,"5 Rue Oum Errabie, Tetouan",Yasmine Chakir
+29,30,3031 2345 6789 0123,2022-02-16,"19 Avenue Sidi Mohamed Ben Abdellah, Fes",Hamza Jaouhari
+30,31,3132 3456 7890 1234,2022-02-17,"1 Avenue des Nations Unies, Rabat",Nawal Alaoui
+31,32,3233 4567 8901 2345,2022-02-18,"14 Boulevard Mohammed VI, Marrakech",Yassine Boulahya
+32,33,3334 5678 9012 3456,2022-02-20,"8 Rue Abdelkrim El Khattabi, Agadir",Nadia Chaoui
+33,34,3435 6789 0123 4567,2022-02-21,"11 Avenue Hassan II, Casablanca",Rachid Dahmani
+34,35,3536 7890 1234 5678,2022-02-22,"6 Rue Ahmed Balafrej, Rabat",Loubna Zerrouki
+35,36,3637 8901 2345 6789,2022-02-23,"27 Avenue Yacoub El Mansour, Tangier",Karima Ait Benhaddou
+36,37,3738 9012 3456 7890,2022-02-24,"3 Boulevard Mohammed V, Casablanca",Mohammed Benali
+37,38,3839 0123 4567 8901,2022-02-25,"27 Rue de la Liberte, Tetouan",Yassir Sahnoun
+38,39,3940 1234 5678 9012,2022-02-26,"5 Avenue Al Mouahidine, Fes",Nora El Haddouchi
+39,40,4041 2345 6789 0123,2022-02-27,"10 Rue Moulay Youssef, Rabat",Ahmed Zerouali
+40,41,4142 3456 7890 1234,2022-02-28,"17 Avenue Bir Anzarane, Casablanca",Samia Bouayad
+41,42,4243 4567 8901 2345,2022-03-01,"6 Rue Yahya El Fassi, Marrakech",Nabil El Azzouzi
+42,43,4344 5678 9012 3456,2022-03-02,"11 Boulevard Mohamed V, Agadir",Khadija Kabbaj
+43,44,4445 6789 0123 4567,2022-03-03,"8 Rue Al Kifah, Rabat",Amine Chakir
+44,45,4546 7890 1234 5678,2022-03-04,"22 Avenue des FAR, Casablanca",Nadia Berrada
+45,46,4647 8901 2345 6789,2022-03-05,"4 Rue Ahmed Balafrej, Tangier",Said Hammoumi
+46,47,4748 9012 3456 7890,2022-03-07,"9 Avenue Lalla Yacout, Tetouan",Yasmina El Idrissi
+47,48,4849 0123 4567 8901,2022-03-08,"12 Rue Abdelkrim El Khattabi, Fes",Abdelali Benjelloun
+48,49,4950 1234 5678 9012,2022-03-09,"3 Boulevard Amir Abdelkader, Casablanca",Imane El Jazouli
+49,50,5051 2345 6789 0123,2022-03-10,"28 Avenue Abou Dhar El Ghifari, Marrakech",Rachida El Mokhtar

@@ -1,0 +1,51 @@
+id,nom_societe,secteur_activite,adresse,telephone
+1,Groupe OCP,Agriculture,"Chemin de l'Office, Casablanca",0522-77-45-67
+2,BMCE Bank,Banque,"Avenue Hassan II, Rabat",0537-84-23-90
+3,Société Générale Maroc,Banque,"Angle Avenue Hassan II et Rue Abderrahman Kaouakeb, Casablanca",0522-45-12-34
+4,Afriquia,Energie,"Avenue Al Fadila, Agadir",0528-76-89-10
+5,Centrale Danone,Alimentaire,"Route de Rabat, Bouskoura",0522-23-78-99
+6,Maroc Telecom,Télécommunications,"Avenue Annakhil, Rabat",0537-33-40-10
+7,Attijariwafa Bank,Banque,"Avenue Mohamed V, Casablanca",0522-88-76-51
+8,Managem,Mines,"Lotissement La Colline, Témara",0537-98-12-76
+9,SONASID,Sidérurgie,"Zone Industrielle, Nador",0536-55-76-12
+10,Wafa Assurance,Assurance,"Avenue Hassan II, Tanger",0539-22-56-34
+11,Holmarcom,Diversifié,"Route de la Corniche, Agadir",0528-33-67-99
+12,CIH Bank,Banque,"Angle Avenue Hassan II et Rue Kadi Iass, Casablanca",0522-32-10-99
+13,Inwi,Télécommunications,"Avenue des FAR, Rabat",0537-65-89-45
+14,Douja Promotion Groupe Addoha,Immobilier,"Route de Targa, Marrakech",0524-34-78-89
+15,Sofitel Marrakech,Tourisme,"Rue Haroun Errachid, Marrakech",0524-44-56-12
+16,Société des Brasseries du Maroc (SBM),Boissons,Casablanca,0522-17-99-33
+17,Saham Assurance,Assurance,"Avenue Hassan II, Casablanca",0522-96-11-87
+18,Banque Populaire,Banque,"Avenue Hassan II, Meknes",0535-34-56-10
+19,Aksal Group,Distribution,"Avenue Prince Moulay Abdellah, Rabat",0537-76-23-11
+20,Fenie Brossette,Distribution,"Avenue Mohamed V, Casablanca",0522-14-98-75
+21,Dari Couspate,Agroalimentaire,"Zone Industrielle, Berrechid",0522-65-76-22
+22,Sogecom,Communication,"Angle Avenue Hassan II et Rue Oued Zem, Casablanca",0522-39-88-34
+23,HPS,Technologies,"Rue Ibnou Sina, Casablanca",0522-63-54-77
+24,Plastima,Plasturgie,"Zone Industrielle, Mohammedia",0523-49-67-55
+25,Jet Contractors,BTP,"Avenue Hassan II, Agadir",0528-37-65-34
+26,Lafarge Maroc,Matériaux de construction,"Route de Mâarif, Casablanca",0522-33-78-99
+27,Bin Ajlan Group,Distribution,"Avenue des FAR, Tanger",0539-87-23-45
+28,COPAG,Agroalimentaire,El Jadida,0523-77-44-67
+29,RAM - Royal Air Maroc,Transport aérien,"Aéroport Mohammed V, Nouaceur",0522-53-99-10
+30,Vinci Energies Maroc,Energie,"Rue Oulad Ziane, Casablanca",0522-54-78-90
+31,Aigle Azur Maroc,Transport aérien,"Angle Avenue Zerktouni et Boulevard d'Anfa, Casablanca",0522-11-67-89
+32,Ynnova,Ingénierie et conseil,"Avenue Hassan II, Agadir",0528-45-76-22
+33,Coca-Cola Maroc,Boissons,"Rue El Fouah, Casablanca",0522-44-34-56
+34,Involys,Immobilier,"Rue Ibn Battouta, Rabat",0537-57-34-65
+35,Vivendi Maroc,Médias,"Avenue Hassan II, Casablanca",0522-23-76-89
+36,Amendis,Eau et assainissement,"Avenue Abdelkarim El Khattabi, Tanger",0539-32-87-76
+37,Dell Maroc,Technologies,"Avenue Hassan II, Casablanca",0522-78-45-67
+38,Jumia Maroc,E-commerce,"Boulevard Al Massira Al Khadra, Casablanca",0522-11-76-45
+39,Colas Maroc,BTP,"Parc Industriel Sidi Bernoussi, Casablanca",0522-32-67-12
+40,Capgemini Maroc,Conseil et services informatiques,"Rue Al Ahdath Al Maghribiya, Casablanca",0522-76-45-89
+41,Sita Oxi Maroc,Environnement,"Rue Mly Ismail, Casablanca",0522-56-89-21
+42,DHL Express Maroc,Transport et logistique,"Aéroport Mohammed V, Nouaceur",0522-32-98-76
+43,MASEN - Agence marocaine pour l'énergie durable,Energie renouvelable,"Boulevard de Marrakech, Rabat",0537-11-22-88
+44,Marjane Holding,Grande distribution,"Avenue Mohammed VI, Casablanca",0522-45-67-89
+45,Transports Pichon,Transport routier,"Avenue Mohammed V, Casablanca",0522-11-45-77
+46,Al Omrane,Aménagement urbain,"Angle Avenue Hassan II et Boulevard Mohammed V, Casablanca",0522-65-98-32
+47,Groupe Figeac Aéro,Aéronautique,"Zone Industrielle, Casablanca",0522-32-54-87
+48,ONCF - Office national des chemins de fer,Transport ferroviaire,"Avenue Hassan II, Rabat",0537-12-67-45
+49,Lesieur Cristal,Agro-industrie,"Avenue Hassan II, Casablanca",0522-98-56-23
+50,CTM - Compagnie de Transports au Maroc,Transport routier,"Avenue Hassan II, Casablanca",0522-88-45-76

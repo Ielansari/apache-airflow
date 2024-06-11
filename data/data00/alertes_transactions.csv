@@ -1,0 +1,51 @@
+id,type_alerte,date_creation,statut,priorite
+1,Transaction suspecte,2022-10-05,En cours,2
+2,Dépassement de seuil,2022-09-28,Nouveau,1
+3,Transaction inhabituelle,2022-10-01,En cours,3
+4,Retrait important,2022-10-02,Résolu,1
+5,Transaction internationale,2022-09-30,En attente,2
+6,Dépassement de plafond,2022-09-29,Nouveau,1
+7,Transaction douteuse,2022-10-04,En cours,2
+8,Opération bloquée,2022-10-03,En attente,3
+9,Transaction frauduleuse,2022-09-27,Résolu,2
+10,Retrait anormal,2022-10-06,Nouveau,1
+11,Transaction suspecte,2022-09-26,En cours,2
+12,Dépassement de seuil,2022-09-25,Nouveau,1
+13,Transaction inhabituelle,2022-09-24,En cours,3
+14,Retrait important,2022-09-23,Résolu,1
+15,Transaction internationale,2022-09-22,En attente,2
+16,Dépassement de plafond,2022-09-21,Nouveau,1
+17,Transaction douteuse,2022-09-20,En cours,2
+18,Opération bloquée,2022-09-19,En attente,3
+19,Transaction frauduleuse,2022-09-18,Résolu,2
+20,Retrait anormal,2022-09-17,Nouveau,1
+21,Transaction suspecte,2022-09-16,En cours,2
+22,Dépassement de seuil,2022-09-15,Nouveau,1
+23,Transaction inhabituelle,2022-09-14,En cours,3
+24,Retrait important,2022-09-13,Résolu,1
+25,Transaction internationale,2022-09-12,En attente,2
+26,Dépassement de plafond,2022-09-11,Nouveau,1
+27,Transaction douteuse,2022-09-10,En cours,2
+28,Opération bloquée,2022-09-09,En attente,3
+29,Transaction frauduleuse,2022-09-08,Résolu,2
+30,Retrait anormal,2022-09-07,Nouveau,1
+31,Transaction suspecte,2022-09-06,En cours,2
+32,Dépassement de seuil,2022-09-05,Nouveau,1
+33,Transaction inhabituelle,2022-09-04,En cours,3
+34,Retrait important,2022-09-03,Résolu,1
+35,Transaction internationale,2022-09-02,En attente,2
+36,Dépassement de plafond,2022-09-01,Nouveau,1
+37,Transaction douteuse,2022-08-31,En cours,2
+38,Opération bloquée,2022-08-30,En attente,3
+39,Transaction frauduleuse,2022-08-29,Résolu,2
+40,Retrait anormal,2022-08-28,Nouveau,1
+41,Transaction suspecte,2022-08-27,En cours,2
+42,Dépassement de seuil,2022-08-26,Nouveau,1
+43,Transaction inhabituelle,2022-08-25,En cours,3
+44,Retrait important,2022-08-24,Résolu,1
+45,Transaction internationale,2022-08-23,En attente,2
+46,Dépassement de plafond,2022-08-22,Nouveau,1
+47,Transaction douteuse,2022-08-21,En cours,2
+48,Opération bloquée,2022-08-20,En attente,3
+49,Transaction frauduleuse,2022-08-19,Résolu,2
+50,Retrait anormal,2022-08-18,Nouveau,1

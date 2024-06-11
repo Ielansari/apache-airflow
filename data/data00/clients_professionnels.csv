@@ -1,0 +1,51 @@
+id,entreprise,secteur_activite,adresse,telephone
+1,Société de Construction Al Mada,BTP,"15 Rue Hassan II, Casablanca",0522 91 23 45
+2,Société d'Import-Export Sahara,Import-Export,"10 Avenue Moulay Ismail, Agadir",0528 74 65 32
+3,Pharmacie Al Ihsan,Pharmaceutique,"20 Rue Abou Bakr Essedik, Rabat",0537 32 98 76
+4,Société de Transport Logistique Express,Logistique,"8 Boulevard Mohamed V, Fes",0555 49 87 23
+5,Cabinet d'Avocats Benjelloun & Associés,Services juridiques,"30 Avenue Mohammed VI, Marrakech",0524 63 21 78
+6,Agence de Communication Havas Maroc,Communication,"12 Rue Oued Sebou, Tanger",0539 88 74 65
+7,Clinique des Oliviers,Santé,"5 Rue Ibn Toumert, Meknes",0535 27 12 49
+8,Société Informatique Netex,Informatique,"16 Rue Abou Bakr Essedik, Agadir",(212) 647-986-785
+9,Cabinet d'Architectes Medina Design,Architecture,"9 Boulevard Al Massira, Casablanca",0522 46 23 11
+10,Société Agricole Atlas,Agriculture,"4 Avenue Al Farabi, Fes",0555 89 74 62
+11,Agence de Voyages Atlas Sahara,Tourisme,"22 Rue des Farah, Marrakech",0524 33 75 19
+12,Société de Vente de Matériel Médical Zenith,Médical,"33 Rue Ibn Sina, Rabat",0537 54 32 96
+13,Boulangerie-Pâtisserie Le Pain Doré,Alimentation,"7 Avenue Ibn Khaldoun, Tanger",0539 12 56 87
+14,Cabinet Comptable Dar Al Moukawil,Comptabilité,"11 Avenue Al Massira, Agadir",0528 22 67 33
+15,Société de Télécommunications Telecom Maghreb,Télécommunications,"88 Boulevard Hassan II, Tiznit",0528 94 31 17
+16,Centre de Formation Pro-X,Formation,"18 Rue Mohammed V, Oujda",0536 46 22 88
+17,Hôtel Prestige Palmeraie,Hôtellerie,"1 Avenue des Palmeraies, Marrakech",0524 66 33 98
+18,Société de Publicité Maghreb Pub,Publicité,"25 Rue Abdellah Ben Yassine, Rabat",0537 86 54 29
+19,Laboratoire d'Analyses Médicales Medilab,Santé,"13 Rue des Médecins, Agadir",0528 41 92 75
+20,Agence Immobilière Atlas Foncier,Immobilier,"6 Rue Tarik Ibn Ziad, Casablanca",0522 82 43 77
+21,Société de Location de Voitures FastRent,Automobile,"41 Boulevard Mohammed VI, Tanger",0539 38 44 51
+22,Cabinet d'Audit & Conseil Dar Al Amana,Conseil,"14 Rue Ahmed Ben Zayed, Fes",0555 37 64 92
+23,Société de Fabrication de Meubles Artisanat du Bois,Menuiserie,"27 Avenue des Artisans, Marrakech",0524 27 89 14
+24,Crèche Les Petits Anges,Services pour Enfants,"3 Rue des Anges, Meknes",0535 56 22 77
+25,Société de Formation Linguistique Poliglot,Formation,"17 Rue Ibn Khaldoun, Agadir",0528 69 13 75
+26,Gymnase Fitness Pro,Sport,"32 Boulevard Abdelkarim El Khattabi, Casablanca",0522 34 78 56
+27,Société de Nettoyage Clean-Maroc,Nettoyage,"65 Avenue Mohammed V, Tanger",0539 97 45 28
+28,Laboratoire de Recherche Scientifique InnovLab,Recherche,"78 Boulevard Al Massira, Fes",0555 18 92 33
+29,Agence Événementielle Prestige Events,Événementiel,"29 Rue des Événements, Marrakech",0524 73 24 81
+30,Société de Restauration La Saveur du Monde,Restauration,"2 Rue des Saveurs, Rabat",0537 37 66 46
+31,Agence de Recrutement JobMakers,Ressources Humaines,"9 Avenue des Recruteurs, Agadir",0528 56 98 11
+32,Cabinet de Décoration Intérieure Art & Design,Décoration,"21 Rue des Artistes, Casablanca",0522 71 29 38
+33,Institut de Beauté Belle & Zen,Bien-être,"45 Boulevard Al Wahda, Tanger",0539 62 33 87
+34,Entreprise de Peinture Coloris Express,Peinture,"51 Avenue Méchouar, Meknes",0535 41 88 42
+35,Agence de Modèles Maghreb Models,Mannequinat,"37 Rue des Mannequins, Fes",0555 62 14 28
+36,Société de Sécurité Atlas Protection,Sécurité,"19 Boulevard de la Sécurité, Marrakech",0524 82 67 14
+37,Galerie d'Art Lumière du Maghreb,Art,"24 Rue des Artistes, Rabat",0537 23 89 47
+38,Société de Trading Maroc Trade,Trading,"77 Avenue Al Farah, Agadir",0528 38 47 55
+39,Agence de Communication Sociale Impact,Communication,"31 Avenue des Réseaux, Casablanca",0522 47 84 65
+40,Studio de Photographie Photo Pro,Photographie,"26 Rue des Photographes, Tanger",0539 28 99 17
+41,Société de Menuiserie Al Ferdaous,Menuiserie,"99 Boulevard des Artisans, Fes",0555 52 57 33
+42,Société de Transport Al Bahja,Transport,"12 Avenue des Transports, Marrakech",0524 48 68 92
+43,Cabinet Médical Al Imane,Médecine,"8 Rue des Médecins, Rabat",0537 42 18 97
+44,Boucherie Charcuterie La Medina,Alimentation,"6 Avenue Ibn Hazm, Agadir",0528 37 65 23
+45,Agence de Voyages Al Quds,Tourisme,"15 Rue des Voyageurs, Tanger",0539 64 31 19
+46,Société de Construction Al Aman,BTP,"7 Rue des Bâtisseurs, Fes",0555 69 22 24
+47,Société de Recyclage Green Planet,Recyclage,"23 Boulevard de l'Environnement, Marrakech",0524 39 88 15
+48,Crèche Les Petits Génies,Services pour Enfants,"11 Rue des Étoiles, Meknes",0535 24 76 38
+49,Société de Security Systems Atlas Secur,Sécurité,"34 Avenue de la Sureté, Casablanca",0522 92 18 53
+50,Salon de Coiffure Star Look,Coiffure,"5 Avenue des Coiffeurs, Agadir",0528 53 27 41

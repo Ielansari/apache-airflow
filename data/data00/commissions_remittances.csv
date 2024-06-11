@@ -1,0 +1,51 @@
+id,type_operation,montant_min,montant_max,commission
+1,Virement international,50,2000,15
+2,Virement interbancaire,100,5000,10
+3,Virement vers Etranger,20,3000,12
+4,Virement salaire,50,5000,8
+5,Virement pension,30,2000,5
+6,Virement familial,10,1500,3
+7,Virement express,100,3000,20
+8,Virement professionnel,200,8000,30
+9,Virement personnel,50,2500,7
+10,Virement pour achat,20,1000,5
+11,Virement pour loyer,100,2000,10
+12,Virement pour l'éducation,30,3000,5
+13,Virement pour santé,50,3500,10
+14,Virement familial urgent,20,2000,8
+15,Virement pour mariage,100,5000,15
+16,Virement pour voyage,50,2500,13
+17,Virement pour investissement,200,10000,25
+18,Virement de secours,50,1500,5
+19,Virement humanitaire,10,500,2
+20,Virement pour association,50,2000,8
+21,Virement de donation,30,1000,5
+22,Virement pour financement de projet,100,3000,10
+23,Virement caritatif,50,2500,7
+24,Virement d'aide sociale,20,2000,6
+25,Virement pour développement rural,100,5000,12
+26,Virement d'urgence,30,1500,9
+27,Virement pour technologie,50,1000,5
+28,Virement pour activité sportive,10,500,3
+29,Virement pour art et culture,20,2000,8
+30,Virement pour événement spécial,30,3000,10
+31,Virement pour énergie renouvelable,50,2500,12
+32,Virement caritatif urgent,100,2000,15
+33,Virement pour soutien scolaire,50,3000,13
+34,Virement pour garde d'enfants,200,10000,20
+35,Virement pour logement social,50,1500,7
+36,Virement de solidarité,10,500,5
+37,Virement pour éducation artistique,50,2000,8
+38,Virement pour préservation environnement,30,1000,5
+39,Virement pour innovation,100,3000,10
+40,Virement pour femmes entrepreneures,50,2500,7
+41,Virement pour jeunes créateurs,20,1000,5
+42,Virement pour handicapés,100,2000,8
+43,Virement pour personnes âgées,30,3000,10
+44,Virement pour sans-abris,50,3500,12
+45,Virement d'urgence médicale,20,2000,8
+46,Virement pour déplacement professionnel,100,5000,15
+47,Virement pour télétravail,50,2500,13
+48,Virement pour équipement informatique,200,10000,25
+49,Virement pour formation en ligne,50,1500,5
+50,Virement pour accès à internet,10,500,3

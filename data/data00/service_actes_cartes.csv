@@ -1,0 +1,44 @@
+numero_client,type_carte,date_demande,etat_demande
+12457896,Carte Visa,2022-01-05,En attente
+36521487,Carte MasterCard,2021-12-18,En cours de traitement
+98563214,Carte Gold,2022-01-10,Refusée
+74125896,Carte Classic,2021-12-30,Validée
+63258741,Carte Electron,2022-01-02,En cours de traitement
+32548796,Carte Platinum,2022-01-15,En attente
+87412563,Carte Virtuelle,2022-01-08,Validée
+45789658,Carte Prépayée,2022-01-20,Refusée
+65231487,Carte Platinum,2022-01-25,En cours de traitement
+32587496,Carte Electron,2022-01-13,En attente
+12356987,Carte Visa,2022-01-28,En cours de traitement
+78963214,Carte Prepaid,2022-02-02,En attente
+98563247,Carte Classic,2022-02-05,Validée
+63214789,Carte Gold,2022-02-08,Refusée
+12357896,Carte Visa,2022-02-15,En cours de traitement
+36521489,Carte MasterCard,2022-02-18,Validée
+98563218,Carte Gold,2022-02-23,Refusée
+74125890,Carte Classic,2022-02-28,En attente
+63258743,Carte Electron,2022-03-03,Validée
+32548798,Carte Platinum,2022-03-08,En cours de traitement
+87412561,Carte Virtuelle,2022-03-12,En attente
+45789650,Carte Prépayée,2022-03-18,Validée
+65231481,Carte Platinum,2022-03-21,Refusée
+32587490,Carte Electron,2022-04-05,En attente
+12356981,Carte Visa,2022-04-08,En cours de traitement
+78963210,Carte Prepaid,2022-04-12,Validée
+98563240,Carte Classic,2022-04-18,Refusée
+63214780,Carte Gold,2022-04-22,En attente
+12357892,Carte Visa,2022-04-25,Validée
+36521480,Carte MasterCard,2022-04-30,En attente
+98563210,Carte Gold,2022-05-05,En cours de traitement
+74125892,Carte Classic,2022-05-08,Refusée
+63258740,Carte Electron,2022-05-15,Validée
+32548792,Carte Platinum,2022-05-20,Refusée
+87412562,Carte Virtuelle,2022-05-28,En attente
+45789652,Carte Prépayée,2022-06-02,En cours de traitement
+65231482,Carte Platinum,2022-06-05,Validée
+32587492,Carte Electron,2022-06-08,Refusée
+12356982,Carte Visa,2022-06-15,En attente
+78963212,Carte Prepaid,2022-06-18,En cours de traitement
+98563242,Carte Classic,2022-06-22,Validée
+63214782,Carte Gold,2022-06-25,Refusée
+12357894,Carte Visa,2022-06-30,En attente

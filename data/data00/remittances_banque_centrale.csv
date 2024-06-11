@@ -1,0 +1,51 @@
+ref_transfert,date_transfert,montant,emetteur,beneficiaire,motif
+RT20210001,2021-07-15,2500,Abdelilah El Bakkali,Fatima Zahra Ziani,Support familial
+RT20210002,2021-07-16,1800,Fatiha Benjelloun,Karim El Alaoui,Aide financière
+RT20210003,2021-07-17,3500,Mehdi Amrani,Nawal Tazi,Achat immobilier
+RT20210004,2021-07-18,4200,Amina El Kandri,Youssef Boudraa,Investissement entreprise
+RT20210005,2021-07-19,3000,Salma Fassi,Omar Haddad,Achat véhicule
+RT20210006,2021-07-20,5000,Yassin Chraibi,Lamia El Moussaoui,Frais universitaires
+RT20210007,2021-07-21,2700,Samir Bouras,Sara El Khattab,Projet personnel
+RT20210008,2021-07-22,1500,Nada Laaroussi,Adnane Cherkaoui,Fêtes traditionnelles
+RT20210009,2021-07-23,6000,Imane Abouzeid,Marouane El Mestari,Remboursement prêt
+RT20210010,2021-07-24,4800,Hakim Rami,Wafa Hafidi,Soutien financier
+RT20210011,2021-07-25,3200,Nadia Bouzidi,Ahmed El Ouardi,Achat matériel informatique
+RT20210012,2021-07-26,2100,Othmane Alaoui,Loubna Ait Mhamed,Dépenses médicales
+RT20210013,2021-07-27,3700,Rachid Zouahir,Hafsa El Hamidi,Projet entrepreneurial
+RT20210014,2021-07-28,5300,Youssef Kadiri,Hanane Bouhaddi,Achat mobilier
+RT20210015,2021-07-29,2900,Sara Berrada,Omar Benjelloun,Cadeau d'anniversaire
+RT20210016,2021-07-30,3800,Hassan El Ghazali,Ibtissam Akram,Projet artistique
+RT20210017,2021-07-31,4400,Nisrine Bouzidi,Mehdi El Allam,Achalandage magasin
+RT20210018,2021-08-01,2600,Imad Charif,Asmaa Ait El Cadi,Formation professionnelle
+RT20210019,2021-08-02,3200,Fadwa El Ktibi,Yassine Berrada,Frais mariage
+RT20210020,2021-08-03,3700,Karima Chraibi,Othmane El Amrani,Projet solidaire
+RT20210021,2021-08-04,4600,Zakaria Bouzidi,Aicha El Fassi,Investissement immobilier
+RT20210022,2021-08-05,2100,Nadia El Idrissi,Anas Zayani,Dépenses éducatives
+RT20210023,2021-08-06,4100,Lina Bouzbir,Walid El Mekkaoui,Achat matériel dentaire
+RT20210024,2021-08-07,2900,Khalid Taoufik,Noura Bouloud,Cadeau de mariage
+RT20210025,2021-08-08,2800,Sofia El Khatib,Amir El Guerrouj,Soutien caritatif
+RT20210026,2021-08-09,3300,Anwar Bakkali,Laila Abouzeid,Aide humanitaire
+RT20210027,2021-08-10,3500,Marouane El Kadiri,Sara Lahmadi,Projet associatif
+RT20210028,2021-08-11,2900,Hakima Fassi,Othmane Benjelloun,Achat matériel électroménager
+RT20210029,2021-08-12,2600,Samia Chraibi,Ahmed El Haouzi,Scolarité enfants
+RT20210030,2021-08-13,4700,Nabil Belhouss,Yasmine El Guennouni,Renovation maison
+RT20210031,2021-08-14,3000,Karima El Kholi,Rachid El Merini,Voyage familial
+RT20210032,2021-08-15,3200,Lamia El Kaddouri,Younes Berrada,Frais santé
+RT20210033,2021-08-16,4100,Salim Berrada,Fatima Zohra Kassimi,Projet environnemental
+RT20210034,2021-08-17,3800,Amal Ouarzazi,Mohammed El Kabbaj,Soutien éducatif
+RT20210035,2021-08-18,3400,Khalid El Bakkali,Rim El Ayadi,Projet social
+RT20210036,2021-08-19,3900,Hiba Chraibi,Said El Fassi,Achat matériel sportif
+RT20210037,2021-08-20,4200,Omar El Haddadi,Zineb Chafik,Projet humanitaire
+RT20210038,2021-08-21,2900,Soukaina El Adnani,Amine Bouzar,Don association
+RT20210039,2021-08-22,2500,Mohamed Chakroun,Yasmine El Mardi,Achat équipement informatique
+RT20210040,2021-08-23,3600,Nawal Fekkak,Walid El Moudnib,Spectacle artistique
+RT20210041,2021-08-24,2800,Driss El Khaldi,Kenza Boukhris,Frais médicaux
+RT20210042,2021-08-25,4300,Laila Benkhaldoun,Issam El Idrissi,Soutien scolaire
+RT20210043,2021-08-26,3100,Amal El Ghazouani,Ismail El Kouraichi,Achat décoration maison
+RT20210044,2021-08-27,4000,Younes El Alami,Hanaa El Mansouri,Projet communautaire
+RT20210045,2021-08-28,2200,Saliha El Hajoui,Amine Barakat,Frais formation
+RT20210046,2021-08-29,3800,Rachida Laaroussi,Mehdi El Fassi,Soutien startup
+RT20210047,2021-08-30,4300,Nasser El Faris,Leila Benjelloun,Investissement projet
+RT20210048,2021-08-31,2600,Mouna Berrada,Tarek El Amrani,Frais formation professionnelle
+RT20210049,2021-09-01,3700,Imran El Marzouki,Nada Tazi,Projet humanitaire
+RT20210050,2021-09-02,3200,Sanae Abid,Hicham El Kharroubi,Fêtes familiales

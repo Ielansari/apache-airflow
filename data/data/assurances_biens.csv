@@ -1,0 +1,51 @@
+,id,type_bien,valeur_assuree,prime_annuelle
+0,1,Appartement,1500000,3000
+1,2,Villa,4000000,8000
+2,3,Maison,800000,1600
+3,4,Bureau,2000000,4000
+4,5,Local Commercial,600000,1200
+5,6,Entrepot,1000000,2000
+6,7,Terrain,3000000,6000
+7,8,Garage,500000,1000
+8,9,Chateau,7000000,14000
+9,10,Riad,2500000,5000
+10,11,Ferme Agricole,3500000,7000
+11,12,Piscine,100000,200
+12,13,Ecurie,500000,1000
+13,14,Bungalow,1200000,2400
+14,15,Hotel,6000000,12000
+15,16,Usine,10000000,20000
+16,17,Hangar,3000000,6000
+17,18,Atelier,800000,1600
+18,19,Palais,9000000,18000
+19,20,Moulin,2000000,4000
+20,21,Cabinet Medical,400000,800
+21,22,Ecole,1500000,3000
+22,23,Cinema,3500000,7000
+23,24,Creche,600000,1200
+24,25,Co-working Space,1000000,2000
+25,26,Cafe,500000,1000
+26,27,Salon de Beaute,200000,400
+27,28,SPA,80000,160
+28,29,Boulangerie,120000,240
+29,30,Galerie dArt,150000,300
+30,31,Librairie,300000,600
+31,32,Boutique de Vetements,400000,800
+32,33,Salon de The,80000,160
+33,34,Supermarche,600000,1200
+34,35,Animalerie,100000,200
+35,36,Parc dAttractions,5000000,10000
+36,37,Salle de Sport,800000,1600
+37,38,Auberge,3000000,6000
+38,39,Pension,600000,1200
+39,40,Camping,200000,400
+40,41,Salle de Reception,1500000,3000
+41,42,Salon de Coiffure,400000,800
+42,43,Cabinet dAvocat,500000,1000
+43,44,Studio dEnregistrement,80000,160
+44,45,Cabinet Comptable,100000,200
+45,46,Cabinet de Recrutement,200000,400
+46,47,Agence Immobiliere,500000,1000
+47,48,Societe de Nettoyage,300000,600
+48,49,Epicerie,80000,160
+49,50,Magasin de Sport,400000,800

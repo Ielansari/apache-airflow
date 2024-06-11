@@ -1,0 +1,46 @@
+date,heure,montant,beneficiaire,type,categorie,etat
+2021-06-01,08:45:23,569.75,Magasin Bab Doukkala,Achat en ligne,Commerce,Acceptée
+2021-06-02,10:15:37,1250.0,Société d'électricité de Casablanca,Paiement de facture,Services publics,Acceptée
+2021-06-03,14:30:12,3000.0,Salim El Amrani,Virement interne,Finance,Acceptée
+2021-06-04,17:48:59,480.0,Restaurant Le Ryad,Paiement par carte,Restauration,Acceptée
+2021-06-05,09:20:45,800.0,SAH Laayoune,Paiement de facture,Services publics,Acceptée
+2021-06-06,11:10:30,650.0,Amal Rahmouni,Virement interne,Finance,Acceptée
+2021-06-07,13:55:17,630.25,Station Essence Shell,Paiement par carte,Carburant,Acceptée
+2021-06-08,16:40:21,1450.3,Amine El Hadi,Virement interne,Finance,Acceptée
+2021-06-09,10:25:38,990.0,Internet Haut Debit,Paiement de facture,Abonnement,Acceptée
+2021-06-10,09:15:16,700.0,Magasin Eden,Paiement par carte,Shopping,Acceptée
+2021-06-11,15:20:33,1200.0,Société des Eaux de Rabat,Paiement de facture,Services publics,Acceptée
+2021-06-12,10:45:51,760.0,Lina Benjelloun,Virement interne,Finance,Acceptée
+2021-06-13,16:35:40,345.8,Pizzeria Di Napoli,Paiement par carte,Restauration,Acceptée
+2021-06-14,14:10:29,329.0,Adil Haddouchi,Virement interne,Finance,Acceptée
+2021-06-15,12:30:55,2400.0,Blue Taxi,Paiement de facture,Services publics,Acceptée
+2021-06-16,09:55:42,480.5,Café Le Sphinx,Paiement par carte,Restauration,Acceptée
+2021-06-17,11:40:37,1850.0,Mohamed Amine Ait Ali,Virement interne,Finance,Acceptée
+2021-06-18,15:20:20,670.0,Station Essence Afriquia,Paiement par carte,Carburant,Acceptée
+2021-06-19,10:15:12,890.0,Eau Minérale Duran,Achat en ligne,Alimentation,Acceptée
+2021-06-20,08:50:29,870.0,Cinema Megarama,Paiement par carte,Loisirs,Acceptée
+2021-06-21,14:35:17,420.75,Dounia Najib,Virement interne,Finance,Acceptée
+2021-06-22,16:30:05,765.0,Restaurant du Port,Paiement par carte,Restauration,Acceptée
+2021-06-23,12:25:43,950.0,Optique Vision Plus,Achat en ligne,Santé,Acceptée
+2021-06-24,10:20:39,2730.0,École française de Casablanca,Paiement de frais de scolarité,Éducation,Acceptée
+2021-06-25,15:40:27,250.0,Omar Zerouali,Virement interne,Finance,Acceptée
+2021-06-26,11:15:35,135.2,Café La Finca,Paiement par carte,Restauration,Acceptée
+2021-06-27,14:30:19,880.0,Hakim Mechri,Virement interne,Finance,Acceptée
+2021-06-28,17:20:42,620.0,Maison de la Presse,Achat en ligne,Librairie,Acceptée
+2021-06-29,09:25:07,1500.0,CNSS Maroc,Paiement de cotisations,Sécurité sociale,Acceptée
+2021-06-30,13:10:50,430.0,Clinique Al Afia,Paiement en ligne,Santé,Acceptée
+2021-07-01,08:50:20,720.0,Toufik Berrada,Virement interne,Finance,Acceptée
+2021-07-02,10:35:15,380.0,Station Essence Total,Paiement par carte,Carburant,Acceptée
+2021-07-03,15:20:31,1490.0,Institut de beauté Zahra,Paiement de services,Beauté,Acceptée
+2021-07-04,12:10:48,770.0,Marouane Adnani,Virement interne,Finance,Acceptée
+2021-07-05,16:30:25,560.75,Pharmacie AlHouda,Paiement en ligne,Santé,Acceptée
+2021-07-06,14:45:37,990.0,Noury Salimi,Virement interne,Finance,Acceptée
+2021-07-07,11:05:30,380.0,Restaurant Chez Ali,Paiement par carte,Restauration,Acceptée
+2021-07-08,10:30:15,680.0,Magasin Le Comptoir,Achat en ligne,Commerce,Acceptée
+2021-07-09,09:20:27,930.0,Stade Mohammed V,Paiement en ligne,Sport,Acceptée
+2021-07-10,17:15:42,270.0,Khalid Hajji,Virement interne,Finance,Acceptée
+2021-07-11,13:40:30,1450.25,Centre Commercial Morroccan Mall,Paiement par carte,Shopping,Acceptée
+2021-07-12,16:10:59,470.0,Meryem El Harraq,Virement interne,Finance,Acceptée
+2021-07-13,11:20:47,690.5,Boulangerie Pâtisserie Amal,Paiement par carte,Alimentation,Acceptée
+2021-07-14,10:15:35,1290.0,Société de Télécommunications Maroc Télécom,Paiement de facture,Services publics,Acceptée
+2021-07-15,15:30:09,630.75,Salon de Coiffure La Créativité,Paiement en ligne,Beauté,Acceptée

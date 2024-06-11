@@ -1,0 +1,42 @@
+,num_client,nom_client,profession,montant_credit,duree_remboursement_mois,taux_interet
+0,EL1001,Ahmed El Hadi,Enseignant,150000,60,3.5
+1,BK2045,Nadia Benali,Medecin,350000,120,4.2
+2,TG3067,Karim Toumi,Entrepreneur,250000,84,3.9
+3,MM4098,Amina Messoudi,Ingenieur,180000,72,3.7
+4,FO5123,Youssef Fassi,Avocat,420000,96,4.0
+5,LH6067,Leila Hadj,Architecte,310000,108,4.1
+6,KH7123,Samir Khaled,Cadre financier,270000,90,3.8
+7,YB8089,Nora Yaakoubi,Comptable,190000,78,3.6
+8,TA9012,Faycal Telmouni,Pompiste,140000,54,3.4
+9,AM1056,Nabil Amrani,Conseiller juridique,380000,102,4.3
+10,SB2035,Meryem Sabri,Artiste,260000,86,3.9
+11,CA3087,Khalid Cherif,Consultant,200000,74,3.7
+12,LJ4012,Amira Lahlou,Styliste,430000,98,4.1
+13,EM5023,Adil El Mansour,Infirmier,320000,100,4.0
+14,RA6034,Hanae Rahmouni,Pharmacien,230000,82,3.8
+15,MS7012,Omar Msefer,Agriculteur,150000,66,3.6
+16,TH8002,Salma Tarik,Professeur,270000,92,3.8
+17,AZ9024,Hicham Azrak,Ingenieur civil,180000,76,3.5
+18,BA1054,Lina Bouazza,Journaliste,290000,106,4.0
+19,RD2032,Sofia Rida,Traducteur,250000,88,3.7
+20,XM3001,Rachid El Mekki,Developpeur informatique,340000,94,4.1
+21,IM4011,Sara Idrissi,Gestionnaire,360000,104,4.2
+22,GM5022,Riad Goumri,Electricien,210000,80,3.6
+23,CD6098,Oumaima Chakir,Ressources humaines,310000,108,4.2
+24,FP7002,Taha Fassi,Entraineur sportif,180000,70,3.5
+25,SZ8012,Zineb Sabri,Psychologue,430000,102,4.3
+26,YA9011,Hassan Yamani,Conseiller financier,320000,96,4.1
+27,WK1023,Imane Wahbi,Agent immobilier,250000,84,3.8
+28,LK3089,Mehdi Lamrani,Etudiant,130000,58,3.3
+29,IK4001,Houda Idrissi,Coiffeuse,400000,100,4.0
+30,ZS5012,Ali Zouhairi,Aviateur,290000,98,4.1
+31,SO6013,Fatima Oubelkas,Dentiste,220000,80,3.7
+32,EA7012,Yassin El Aroui,Entrepreneur,380000,106,4.2
+33,TO8022,Mouna Touil,Architecte dinterieur,260000,90,3.9
+34,CI9023,Nawal Choukri,Journaliste,310000,108,4.2
+35,LD1098,Walid Lemchach,Pharmacien,170000,72,3.6
+36,RH2087,Zahra Hassani,Cadre financier,360000,104,4.1
+37,BK3011,Karim Benkiran,Realisateur,430000,98,4.3
+38,NM4022,Imane Nouri,Psychologue,200000,86,3.8
+39,JO5078,Simohamed Joudar,Coach personnel,330000,94,4.0
+40,EL6012,Yasmine El Khattabi,Ingenieure agronome,280000,92,3.9

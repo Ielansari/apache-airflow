@@ -1,0 +1,41 @@
+,num_certificat,nom_client,date_ouverture,montant,type_garantie
+0,1001,Said Ait Baha,2022-01-05,75000,Immobilier
+1,1002,Nadia El Majidi,2022-02-10,50000,Voiture
+2,1003,Ali Benjelloun,2022-03-15,120000,Entreprise
+3,1004,Fatima Zahra Fassi,2022-04-20,90000,Materiel Agricole
+4,1005,Youssef El Haddad,2022-06-25,60000,Stock de Marchandises
+5,1006,Amina Boukhobza,2022-07-30,100000,Immobilier
+6,1007,Khalid El Fassi,2022-09-05,80000,Voiture
+7,1008,Salma Ait Bahmad,2022-10-10,70000,Materiel Informatique
+8,1009,Omar Ben Slimane,2022-11-15,110000,Entreprise
+9,1010,Loubna El Kabbaj,2022-12-20,95000,Materiel Medical
+10,1011,Yassin Lahjouji,2023-01-25,70000,Immobilier
+11,1012,Nawal El Baraka,2023-02-01,45000,Voiture
+12,1013,Mehdi Riffi,2023-03-10,115000,Entreprise
+13,1014,Houda Boujemaa,2023-04-15,85000,Materiel Electrique
+14,1015,Karim Fikri,2023-05-20,60000,Stock de Produits
+15,1016,Samira Alami,2023-06-25,105000,Immobilier
+16,1017,Jaouad El Moussaoui,2023-07-30,75000,Voiture
+17,1018,Latifa Bouchra,2023-09-05,50000,Materiel Industriel
+18,1019,Mohammed Benkhaldoun,2023-10-10,95000,Entreprise
+19,1020,Hafsa El Khiati,2023-11-15,80000,Materiel Medical
+20,1021,Hamza Hanaoui,2023-12-20,70000,Immobilier
+21,1022,Asmaa El Hamdi,2024-01-25,48000,Voiture
+22,1023,Youssef Amrani,2024-02-29,120000,Entreprise
+23,1024,Rania Bennis,2024-03-05,90000,Materiel de Construction
+24,1025,Ahmed Mansouri,2024-04-10,65000,Stock de Marchandises
+25,1026,Sara El Gharbaoui,2024-05-15,110000,Immobilier
+26,1027,Kamal El Alami,2024-06-20,75000,Voiture
+27,1028,Aicha Chahid,2024-07-25,55000,Materiel Electrique
+28,1029,Nabil Bouderbala,2024-08-30,94000,Materiel Informatique
+29,1030,Fatiha El Khayati,2024-09-05,62000,Materiel Medical
+30,1031,Jamal Chaoui,2024-10-10,76000,Immobilier
+31,1032,Nora El Omari,2024-11-15,49000,Voiture
+32,1033,Hicham El Khattabi,2024-12-20,98000,Entreprise
+33,1034,Safia Haoud,2025-01-25,60000,Materiel de Boulangerie
+34,1035,Karima El Mansouri,2025-02-28,115000,Stock de Produits
+35,1036,Abdellah Essafi,2025-03-05,79000,Immobilier
+36,1037,Rim El Filali,2025-04-09,55000,Voiture
+37,1038,Othmane El Azzouzi,2025-05-15,92000,Entreprise
+38,1039,Selma Boughaba,2025-06-19,63000,Materiel de Restauration
+39,1040,Ayoub El Mountassir,2025-07-25,72000,Materiel Informatique

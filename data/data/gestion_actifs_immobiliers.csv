@@ -1,0 +1,42 @@
+,nom_client,type_bien,ville,valeur_estimee,loyer_mensuel
+0,Hassan Benali,Appartement,Casablanca,1500000,8000
+1,Fatima Alami,Villa,Marrakech,3500000,15000
+2,Karim Bensouda,Terrain,Rabat,800000,0
+3,Sara Elkhattabi,Bureau,Fes,1200000,6000
+4,Youssef Jabiri,Immeuble,Tanger,5000000,30000
+5,Nadia Mansouri,Commerce,Agadir,2500000,12000
+6,Ahmed Bekkali,Residence,Oujda,1800000,10000
+7,Nawal AitBenhaddou,Magasin,Kenitra,700000,5000
+8,Mounir Haddad,Hangar,Meknes,3000000,20000
+9,Loubna Sabir,Local professionnel,Tetouan,1000000,8000
+10,Tarik Najib,Maison dhote,Essaouira,3200000,18000
+11,Malika Elbaz,Entrepot,El Jadida,2000000,15000
+12,Hicham Lahlou,Terrain constructible,Taza,900000,0
+13,Khadija Derham,Boutique,Beni Mellal,600000,4000
+14,Karima Chafik,Bureau de poste,Tiznit,1100000,7000
+15,Rachid Boujemaa,Hotel,Taroudant,4000000,25000
+16,Latifa El Fassi,Riad,Errachidia,2700000,12000
+17,Hakim Ibghi,Usine,Nador,7000000,35000
+18,Samiya Berrada,Centre commercial,Safi,3800000,20000
+19,Yasmine Azzouzi,Cafe,Ouarzazate,1500000,10000
+20,Adnane El Marouani,Cinema,Dakhla,2000000,15000
+21,Naima Benjelloun,Creche,El Aioun,1200000,7000
+22,Anas El Haq,Palais,Azrou,5000000,30000
+23,Safaa Hilali,Studio,Berkane,700000,5000
+24,Tarik Bouchra,Maison dhotes,Guercif,1800000,10000
+25,Fatiha Sebbar,Garage,Oued Zem,500000,3000
+26,Rabiaa Benaddi,Clinique,Sidi Kacem,2500000,12000
+27,Youssef El Otmani,Parking,Guelmim,800000,5000
+28,Nawal Rami,Habitation collective,Khemisset,4000000,25000
+29,Mustapha Choukri,Espace evenementiel,Temara,2200000,15000
+30,Salma Hajji,Chateau,Larache,3200000,18000
+31,Jamal El hakimi,Galerie commerciale,Berkane,1800000,10000
+32,Nadia Bennis,Atelier,Berrechid,700000,5000
+33,Karima Boussif,Hopital,Taza,3000000,20000
+34,Omar Chaoui,Bureau de change,Taroudant,1700000,12000
+35,Fadwa El Moutawakil,Showroom,Figuig,2400000,15000
+36,Achraf Tazi,Cabaret,Safi,2600000,18000
+37,Kenza Lahlou,Terrain agricole,Beni Mellal,1800000,0
+38,Yassine Idrissi,Galerie dart,El Jadida,1300000,7000
+39,Amal El Morabit,Theatre,Sidi Kacem,3500000,20000
+40,Khalid Fakir,Boulangerie,Khouribga,800000,5000

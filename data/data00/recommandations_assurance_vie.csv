@@ -1,0 +1,51 @@
+client_id,nom_client,age,profession,solde_compte,recommandation,prime_mensuelle
+1001,Rachid El Amrani,45,Ingénieur,50000,Assurance vie Allianz Vie Sérénité,1500
+1002,Fatima Benjelloun,35,Cadre Financier,80000,Assurance vie Wafa Assurance Excellence,2000
+1003,Nadia Berrada,40,Enseignante,60000,Assurance vie AXA Assurévie,1800
+1004,Khalid Lahbabi,50,Médecin,75000,Assurance vie CNIA SAADA Avenir,2200
+1005,Houda El Kabbaj,30,Avocate,70000,Assurance vie RMA Vie ProActive,1900
+1006,Younes El Kadiri,55,Architecte,100000,Assurance vie Sanad Vie Privilège,2500
+1007,Karima Benkhadra,42,Responsable Marketing,85000,Assurance vie Atlanta Prime Vie,2100
+1008,Mehdi Agoumi,38,Entrepreneur,90000,Assurance vie Swiss Life Stratégic Premium,2300
+1009,Amina Fassi Fihri,33,Consultant,78000,Assurance vie Saham Vie Excellence,1950
+1010,Yassine Benjelloun,47,Banquier,72000,Assurance vie CFG Life Capitalisation,1850
+1011,Sanae El Filali,41,Pharmacienne,76000,Assurance vie La Marocaine Vie Multivie,2000
+1012,Fahd Cherkaoui,44,Chef d'entreprise,88000,Assurance vie Mamda Vie Excellence,2150
+1013,Zineb El Alaoui,39,Avocat,95000,Assurance vie Allianz Capital Variable,2400
+1014,Ahmed Benjelloun,49,Notaire,82000,Assurance vie Wafa Assurance Privilège,2050
+1015,Salma Bouhadi,36,Spécialiste RH,69000,Assurance vie AXA Solution Patrimoine,1950
+1016,Anas El Mounir,51,Consultant IT,73000,Assurance vie CNIA SAADA Value,1900
+1017,Hafsa Bouayad,31,Designer,77000,Assurance vie RMA Vie Croissance,2000
+1018,Adnane El Hamidi,46,Trader,80000,Assurance vie Sanad Vie Résolutive,2200
+1019,Naima Bensalah,37,Chercheur,92000,Assurance vie Atlanta Solution Vie,2250
+1020,Omar El Kandri,43,Cadre Commercial,74000,Assurance vie Swiss Life Flexi,2000
+1021,Sara Benmlih,34,Gestionnaire,81000,Assurance vie Saham Vie Evolution,2150
+1022,Yassin El Gharbaoui,52,Conseiller financier,87000,Assurance vie CFG Vie Dynamique,2200
+1023,Saida Chakiri,48,Inspectrice,86000,Assurance vie La Marocaine Vie Performa,2150
+1024,Samir Benrhouma,32,Développeur,79000,Assurance vie Mamda Vie Privilège,2100
+1025,Dounia Kharbouch,56,Journaliste,96000,Assurance vie Allianz Patrimoine,2400
+1026,Riad El Mouti,39,Infirmier,68000,Assurance vie Wafa Assurance Stratégic,2000
+1027,Hiba Anzid,57,Artiste,105000,Assurance vie AXA Héritage,2500
+1028,Imane El Mernissi,44,Psychologue,89000,Assurance vie CNIA SAADA Optima,2300
+1029,Zakaria El Qadiri,29,Archéologue,75000,Assurance vie RMA Vie Flexi,1950
+1030,Kawtar Bensouda,61,Économiste,98000,Assurance vie Sanad Vie Doré,2600
+1031,Hicham Boudraa,40,DG,78000,Assurance vie Atlanta Vie Epargne,2100
+1032,Nora El Bassir,42,Urbaniste,74000,Assurance vie Swiss Life Privilège,2000
+1033,Mouad El Kettani,37,Avocat d'Affaires,82000,Assurance vie Saham Vie Capitalisation,2100
+1034,Wiam Benjebbour,53,Pharmacien,92000,Assurance vie CFG Life Evolution,2250
+1035,Oussama El Mansour,33,Gestionnaire de Projet,84000,Assurance vie La Marocaine Vie Patrimoniale,2150
+1036,Laila Chami,45,Consultante RH,75000,Assurance vie Mamda Vie Revenu Garanti,1950
+1037,Mourad El Mahjoub,31,Ingénieur Informatique,76000,Assurance vie Allianz Vie Héritage,2000
+1038,Asmaa Benmoussa,50,Directrice Créative,83000,Assurance vie Wafa Assurance Rente Éducation,2050
+1039,Khalil El Azzouzi,38,Consultant en Marketing,69000,Assurance vie AXA Epargne et Retraite,1900
+1040,Siham El Abbadi,55,Styliste,95000,Assurance vie CNIA SAADA Flexi,2400
+1041,Issam Benkettani,43,Réalisateur,73000,Assurance vie RMA Vie Evolution,2000
+1042,Nisrine El Filali,41,Consultant en Finance,86000,Assurance vie Sanad Vie Horizon,2100
+1043,Othmane El M'rabet,47,Coach en Développement Personnel,72000,Assurance vie Atlanta Vie Sécurité,1950
+1044,Nadia Sijilmassi,36,Gérante de Boutique,78000,Assurance vie Swiss Life Prévoyance,1900
+1045,Anass El Majdoub,51,Cinéaste,79000,Assurance vie Saham Vie Sérénité,2000
+1046,Yasmine El Mahjoubi,37,Biologiste,84000,Assurance vie CFG Vie Allure,2150
+1047,Mohamed Benamour,49,Journaliste TV,83000,Assurance vie La Marocaine Vie Sérénité,2050
+1048,Lina El Fassi,34,Consultante en Stratégie,93000,Assurance vie Mamda Vie Patrimoine,2250
+1049,Tarik El Kadmiri,54,Professeur de Musique,85000,Assurance vie Allianz Vie Croissance,2200
+1050,Hanae El Abed,30,Consultant en Communication,77000,Assurance vie Wafa Assurance Assurance Emprunteur,1900

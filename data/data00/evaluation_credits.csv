@@ -1,0 +1,31 @@
+client_id,nom_client,montant_demande,salaire_mensuel,etat_civil,anciennete_emploi,score_credit
+101,Abdelkader El Mehdi,15000,10000,Marié,3,Bon
+102,Fatima Zohra Benali,20000,12000,Célibataire,5,Excellent
+103,Mehdi Amrani,30000,18000,Marié,7,Très bon
+104,Yasmine El Qadiri,25000,15000,Divorcé,4,Bon
+105,Karim Bouaziz,18000,11000,Marié,6,Très bon
+106,Ines Mezouar,22000,13000,Célibataire,2,Mauvais
+107,Ahmed El Kaddouri,21000,14000,Marié,3,Bon
+108,Leila Tazi,28000,16000,Veuf(ve),8,Très bon
+109,Sami Bouchara,32000,20000,Célibataire,4,Excellent
+110,Lamia El Fassi,23000,14000,Marié,5,Très bon
+111,Nabil Chakir,25000,18000,Célibataire,6,Bon
+112,Nadia Karam,26000,17000,Marié,7,Bon
+113,Khalid Benkirane,30000,20000,Marié,9,Très bon
+114,Salma Ziani,22000,14000,Divorcé,5,Bon
+115,Imad El Harrak,32000,19000,Veuf(ve),8,Excellent
+116,Karima Boulahia,28000,16000,Marié,6,Très bon
+117,Adil Faridi,24000,15000,Célibataire,4,Bon
+118,Houda Mernissi,22000,13000,Marié,3,Médiocre
+119,Rachid Bouchaib,28000,17000,Célibataire,5,Très bon
+120,Aicha Lamjad,26000,15000,Marié,4,Bon
+121,Younes El Fahmi,29000,18000,Veuf(ve),7,Excellent
+122,Samira El Malki,21000,12000,Marié,3,Bon
+123,Yassir Benmoussa,23000,14000,Célibataire,4,Bon
+124,Nadia Chafik,27000,16000,Divorcé,6,Bon
+125,Mohamed Zeroual,25000,15000,Marié,5,Très bon
+126,Fatima Amzil,30000,18000,Veuf(ve),8,Excellent
+127,Ali Bouhari,22000,13000,Célibataire,3,Très bon
+128,Latifa Hamidi,24000,14000,Marié,4,Bon
+129,Hassan Dakhil,26000,15000,Célibataire,5,Très bon
+130,Mona El Ouazzani,28000,16000,Marié,6,Bon

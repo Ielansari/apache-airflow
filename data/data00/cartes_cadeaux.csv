@@ -1,0 +1,45 @@
+numero_carte,valeur,date_expiration,beneficiaire,statut
+CC12345678,500,2023-08-15,Karim Idrissi,utilisée
+CC23456789,200,2022-12-30,Leila Amrani,non utilisée
+CC34567890,1000,2024-05-10,Ali Benslimane,utilisée
+CC45678901,300,2023-03-25,Nadia Oulad,non utilisée
+CC56789012,700,2025-09-18,Mehdi El Kassir,utilisée
+CC67890123,400,2022-07-31,Sara Bennani,non utilisée
+CC78901234,600,2024-11-22,Youssef Haddad,utilisée
+CC89012345,350,2023-12-05,Lina El Manjra,non utilisée
+CC90123456,450,2025-04-19,Ahmed Sefrioui,utilisée
+CC01234567,800,2022-10-14,Amira El Bakkali,non utilisée
+CC12345679,750,2026-01-30,Hassan Rida,utilisée
+CC23456780,550,2022-06-07,Sofia Mernissi,non utilisée
+CC34567891,650,2024-09-25,Khalid Tazi,utilisée
+CC45678902,950,2023-08-12,Leila Berrada,non utilisée
+CC56789013,400,2025-10-29,Fatima Zahra Outaleb,utilisée
+CC67890124,350,2022-04-03,Mohammed El Ouazzani,non utilisée
+CC78901235,500,2024-10-18,Nora Elouazzani,utilisée
+CC89012346,600,2023-03-09,Abdelali Salmi,non utilisée
+CC90123457,700,2025-11-23,Jamal Benjelloun,utilisée
+CC01234568,450,2022-09-07,Rania Bouhaddi,non utilisée
+CC12345670,850,2026-02-15,Omar Benjelloun,utilisée
+CC23456781,650,2022-05-11,Hiba Harrouchi,non utilisée
+CC34567892,750,2024-07-28,Amine Cherradi,utilisée
+CC45678903,850,2023-06-22,Hind Marzouki,non utilisée
+CC56789014,450,2025-08-11,Kamal Lahlou,utilisée
+CC67890125,500,2022-02-19,Ibtissam Chafik,non utilisée
+CC78901236,400,2024-03-12,Aliya Bennouna,utilisée
+CC89012347,950,2023-11-07,Reda El Morabit,non utilisée
+CC90123458,600,2025-07-03,Salma Rais,utilisée
+CC01234569,350,2022-08-30,Yassin Idrissi,non utilisée
+CC12345671,700,2026-03-28,Fatima Soudani,utilisée
+CC23456782,550,2022-04-20,Wassim Abidi,non utilisée
+CC34567893,800,2024-10-15,Rim Akkaoui,utilisée
+CC45678904,700,2023-09-18,Lina Bellamine,non utilisée
+CC56789015,600,2025-11-29,Amine Djelloul,utilisée
+CC67890126,450,2022-03-26,Chaima Lahbabi,non utilisée
+CC78901237,350,2024-12-18,Sofia Chami,utilisée
+CC89012348,750,2023-07-09,Yassine Tazi,non utilisée
+CC90123459,900,2025-06-23,Kawtar Mechtrass,utilisée
+CC01234570,500,2022-09-25,Mehdi El Khattabi,non utilisée
+CC12345672,950,2026-04-14,Sanaa Boukili,utilisée
+CC23456783,750,2022-03-10,Amal El Graoui,non utilisée
+CC34567894,850,2024-06-28,Younes El Gharbi,utilisée
+CC45678905,300,2023-10-22,Hajar Boubker,non utilisée

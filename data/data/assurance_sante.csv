@@ -1,0 +1,36 @@
+,nom,age,sexe,profession,assureur,prime,date_effet,duree_contrat
+0,Ali Fassi,35,Homme,Ingenieur,Assurances Maroc,1500,2022-01-15,12
+1,Leila Touzani,42,Femme,Medecin,Allianz Assurance,2100,2022-02-05,24
+2,Rachid Benjelloun,48,Homme,Avocat,Wafa Assurance,1800,2022-03-20,12
+3,Nawal Haddad,55,Femme,Professeur,Axa Assurance,2500,2022-04-10,36
+4,Karim Bousfiha,30,Homme,Architecte,Assurance Saham,1900,2022-05-18,24
+5,Fatima Zouhir,38,Femme,Pharmacienne,MCMA Assurance,2200,2022-06-30,12
+6,Omar Mansouri,45,Homme,Entrepreneur,Sanad Assurance,2400,2022-07-13,36
+7,Sara Essaidi,37,Femme,Journaliste,MCMA Assurance,2300,2022-08-25,24
+8,Nabil Khadiri,40,Homme,Manager,CNIA Assurance,2000,2022-09-05,12
+9,Yasmine Cherkaoui,33,Femme,Consultante,Assurances Maroc,2100,2022-10-17,24
+10,Mehdi Taoufik,46,Homme,Banquier,Allianz Assurance,2600,2022-11-29,36
+11,Houda El Alaoui,41,Femme,Ingenieure,Wafa Assurance,2300,2023-01-08,12
+12,Riad Marzouki,36,Homme,Avocat,Axa Assurance,2000,2023-02-20,24
+13,Ines Bouaziz,50,Femme,Professeure,Assurance Saham,2400,2023-03-10,36
+14,Khalid Ben Youssef,31,Homme,Architecte,MCMA Assurance,1900,2023-04-19,24
+15,Lamia Berrada,39,Femme,Pharmacienne,Sanad Assurance,2200,2023-05-05,12
+16,Yassine Alaoui,44,Homme,Entrepreneur,Assurances Maroc,2500,2023-06-15,36
+17,Yara Hachimi,34,Femme,Journaliste,Allianz Assurance,2000,2023-07-27,24
+18,Adam El Amrani,42,Homme,Manager,Wafa Assurance,2100,2023-08-30,12
+19,Nora El Amiri,35,Femme,Consultante,Axa Assurance,2200,2023-09-10,24
+20,Ahmed Nassiri,47,Homme,Banquier,Assurance Saham,2600,2023-10-25,36
+21,Selma Saidi,40,Femme,Ingenieur,MCMA Assurance,2300,2023-11-05,12
+22,Anas Hariri,38,Homme,Medecin,Sanad Assurance,2400,2023-12-15,24
+23,Samira Ben Nasr,43,Femme,Avocate,Assurances Maroc,2500,2024-01-27,36
+24,Kamal Karimi,37,Homme,Professeur,Allianz Assurance,2000,2024-02-10,24
+25,Leila Benjelloun,39,Femme,Architecte,Wafa Assurance,2200,2024-03-20,12
+26,Oussama Boutaleb,46,Homme,Pharmacien,Axa Assurance,2400,2024-04-30,36
+27,Imane Lahlou,32,Femme,Entrepreneure,Assurance Saham,2100,2024-05-19,24
+28,Youssef Rami,41,Homme,Journaliste,MCMA Assurance,2300,2024-06-25,12
+29,Aya Saidi,36,Femme,Manager,Sanad Assurance,2200,2024-07-10,24
+30,Nabil Bousfiha,48,Homme,Consultant,Assurances Maroc,2500,2024-08-28,36
+31,Sara Berrada,33,Femme,Ingenieure,Allianz Assurance,1900,2024-09-14,12
+32,Yassin Houry,35,Homme,Medecin,Wafa Assurance,2300,2024-10-26,24
+33,Latifa Zerouali,45,Femme,Avocate,Axa Assurance,2500,2024-11-07,36
+34,Amine Mezian,30,Homme,Professeur,Assurance Saham,2000,2024-12-20,24

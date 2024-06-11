@@ -1,0 +1,42 @@
+,date,agence,type_operation,montant,beneficiaire,statut,commentaire
+0,2021-07-01,Agence Casablanca Anfa,Retrait,1500,Farid El Amrani,Effectue,Client regulier - Aucun probleme
+1,2021-07-02,Agence Rabat Agdal,Virement,2000,Amina Benmoussa,Effectue,Virement regulier mensuel
+2,2021-07-03,Agence Marrakech Gueliz,Depot,3000,Khalid Haddouch,Effectue,Client a demande le recu
+3,2021-07-04,Agence Tanger Ville,Retrait,500,Yasmine Bensalah,Effectue,Client sest plaint de la longue file dattente
+4,2021-07-05,Agence Agadir Taddart,Paiement,800,Mustapha Oulad,Effectue,Transaction rapide et sans probleme
+5,2021-07-06,Agence Fes Centre,Depot,2500,Nadia El Khatib,Effectue,Client a demande un bilan de compte
+6,2021-07-07,Agence Oujda Medina,Virement,1000,Adam Boudraa,Effectue,"Favorable, client satisfait"
+7,2021-07-08,Agence Mohammedia,Retrait,1200,Loubna Essafi,Effectue,Client a perdu sa carte bancaire
+8,2021-07-09,Agence Sale Tabriquet,Paiement,700,Ismail Chikhi,Effectue,Client a demande un service durgence
+9,2021-07-10,Agence Casablanca Anfa,Depot,3500,Amal Lahlou,Refuse,"Montant depasse, necessite approbation"
+10,2021-07-11,Agence Rabat Agdal,Retrait,600,Karim Bouhaddi,Effectue,Client a demande des billets de 100 DH
+11,2021-07-12,Agence Marrakech Gueliz,Virement,1800,Sanae Ouhadi,Effectue,"Virement international, verification requise"
+12,2021-07-13,Agence Tanger Ville,Paiement,900,Zakaria Lahbabi,Effectue,Client a demande recu detaille
+13,2021-07-14,Agence Agadir Taddart,Depot,2900,Hajar Sefrioui,Effectue,Client a jour dans ses transactions
+14,2021-07-15,Agence Fes Centre,Retrait,1000,Yassine Rami,Effectue,Client a demande son solde
+15,2021-07-16,Agence Oujda Medina,Virement,1200,Safa Bennani,Refuse,Destinataire non trouve
+16,2021-07-17,Agence Mohammedia,Paiement,1500,Mehdi El Ouartassi,Effectue,Transaction sest bien passee
+17,2021-07-18,Agence Sale Tabriquet,Depot,4000,Nawal Belarbi,Effectue,Client regulier avec gros depots
+18,2021-07-19,Agence Casablanca Anfa,Virement,2500,Jamal El Hamdani,Effectue,Lintervention du manager etait necessaire
+19,2021-07-20,Agence Rabat Agdal,Retrait,700,Nora Khaldi,Effectue,Client veut changer ses 200 DH
+20,2021-07-21,Agence Marrakech Gueliz,Paiement,1200,Adil Chahbouni,Effectue,Client a demande une autorisation de decouvert
+21,2021-07-22,Agence Tanger Ville,Depot,3000,Wiam Lamrani,Refuse,"Compte bloque, verification necessaire"
+22,2021-07-23,Agence Agadir Taddart,Virement,1500,Youssef Ettaoui,Effectue,"Client satisfait, rapide et facile"
+23,2021-07-24,Agence Fes Centre,Retrait,1600,Siham El Mansouri,Effectue,Fonds retires pour projet dinvestissement
+24,2021-07-25,Agence Oujda Medina,Paiement,800,Achraf Boussaid,Effectue,Client a demande un recu
+25,2021-07-26,Agence Mohammedia,Depot,4200,Nadia Benjelloun,Effectue,Depot exceptionnel apres vente immobiliere
+26,2021-07-27,Agence Sale Tabriquet,Virement,1900,Sara El Fassi,Effectue,Client fidele avec virements reguliers
+27,2021-07-28,Agence Casablanca Anfa,Retrait,1100,Mounir El Idrissi,Effectue,Client satisfait du service de guichet
+28,2021-07-29,Agence Rabat Agdal,Paiement,600,Hind El Mernissi,Effectue,"Paiement en especes, client regulier"
+29,2021-07-30,Agence Marrakech Gueliz,Depot,3500,Youssef El Mansour,Effectue,Client a demande des conseils en investissement
+30,2021-07-31,Agence Tanger Ville,Virement,2200,Mariam Serghini,Effectue,"Virement durgence, client satisfait"
+31,2021-08-01,Agence Casablanca Anfa,Retrait,900,Ayoub El Khaoui,Effectue,Client a perdu sa carte bancaire
+32,2021-08-02,Agence Rabat Agdal,Virement,2500,Fatima Zahra Benmlih,Effectue,"Virement mensuel, client regulier"
+33,2021-08-03,Agence Marrakech Gueliz,Depot,1800,Abdelilah Abbassi,Effectue,Client a demande confirmation par SMS
+34,2021-08-04,Agence Tanger Ville,Paiement,1200,Amina Lahrech,Effectue,Client veut modifier le beneficiaire
+35,2021-08-05,Agence Agadir Taddart,Retrait,850,Oussama Bennis,Effectue,Client a demande un duplicata de recu
+36,2021-08-06,Agence Fes Centre,Virement,1300,Rim El Fellah,Effectue,"Virement vers letranger, verification requise"
+37,2021-08-07,Agence Oujda Medina,Paiement,700,Ali Blioui,Effectue,Client a demande un recu detaille
+38,2021-08-08,Agence Mohammedia,Depot,4000,Nisrine El Allam,Effectue,Client a demande des billets de 200 et 100 DH
+39,2021-08-09,Agence Sale Tabriquet,Virement,1600,Anas Beqqali,Effectue,Client a demande un suivi de compte
+40,2021-08-10,Agence Casablanca Anfa,Retrait,2100,Nadia El Kebir,Effectue,Client habitue a retirer des grosses sommes

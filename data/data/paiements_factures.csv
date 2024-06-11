@@ -1,0 +1,21 @@
+,id,facture_numero,client_nom,montant,date_paiement,mode_paiement,statut
+0,1,FAC-001,Ahmed Benali,2500,2021-06-03,Virement,Regle
+1,2,FAC-002,Fatima Zeroual,1800,2021-06-10,Cheque,En attente de validation
+2,3,FAC-003,Karim Mahjoub,3200,2021-07-01,Carte bancaire,Regle
+3,4,FAC-004,Nawal El Makki,4200,2021-06-25,Especes,En cours de traitement
+4,5,FAC-005,Mouad Oussama,1500,2021-07-05,Virement,Regle
+5,6,FAC-006,Rania El Fassi,3700,2021-06-20,Cheque,Regle
+6,7,FAC-007,Yassine Berrada,2800,2021-07-15,Carte bancaire,En attente de validation
+7,8,FAC-008,Lina Mernissi,1950,2021-06-30,Especes,Regle
+8,9,FAC-009,Hicham Najib,4100,2021-07-02,Virement,En cours de traitement
+9,10,FAC-010,Salma Belarbi,3300,2021-07-09,Cheque,Regle
+10,11,FAC-011,Reda Bouskoura,2750,2021-06-12,Carte bancaire,En attente de validation
+11,12,FAC-012,Amal Rhioui,2400,2021-06-18,Especes,Regle
+12,13,FAC-013,Omar Chraibi,3800,2021-07-03,Virement,Regle
+13,14,FAC-014,Asmaa Toufik,1950,2021-06-28,Cheque,En cours de traitement
+14,15,FAC-015,Hassan Lamrani,4300,2021-07-07,Carte bancaire,Regle
+15,16,FAC-016,Fatim Zahra Chaouki,1600,2021-06-22,Especes,En attente de validation
+16,17,FAC-017,Youssef Boujlil,3700,2021-07-12,Virement,Regle
+17,18,FAC-018,Selma Bennis,3300,2021-07-20,Cheque,En cours de traitement
+18,19,FAC-019,Imane Ziani,2800,2021-07-29,Carte bancaire,Regle
+19,20,FAC-020,Mehdi Boukhriss,2500,2021-07-30,Especes,Regle

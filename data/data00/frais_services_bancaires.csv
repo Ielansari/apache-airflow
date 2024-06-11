@@ -1,0 +1,45 @@
+service,montant,description
+Retrait DAB autre banque,10.0,Paiement pour retrait à un distributeur automatique d'une autre banque
+Frais de tenue de compte,20.0,Frais associés à la gestion et la tenue en compte bancaire
+Virement national,5.0,Frais pour réaliser un virement national au sein d'une banque
+Carte bancaire internationale,30.0,Frais de gestion pour une carte bancaire internationale
+Chèque de banque,15.0,Frais pour l'édition d'un chèque de banque certifié
+Prélèvement SEPA,3.0,Frais pour un prélèvement SEPA ponctuel ou permanent
+Assurance sur compte,25.0,Frais pour souscrire à une assurance complémentaire sur le compte
+Emission de chèque de banque,10.0,Frais pour l'émission d'un chèque de banque garantie
+Dépassement découvert,12.0,Frais en cas de dépassement du découvert autorisé
+Relevé de compte papier,2.0,Frais pour l'envoi d'un relevé de compte papier par courrier postal
+Changement de domiciliation bancaire,8.0,Frais pour effectuer un changement de domiciliation bancaire
+Création de RIB,5.0,Frais pour la création d'un relevé d'identité bancaire supplémentaire
+Paiement hors zone euro,20.0,Frais pour les paiements effectués en dehors de la zone euro
+Frais de gestion de prêt,35.0,Frais associés à la gestion d'un prêt ou crédit bancaire
+Opposition sur chèque,6.0,Frais pour une opposition sur un chèque déclaré perdu ou volé
+Notification SMS,1.5,Frais pour la réception de notifications par SMS
+Changement de carte bancaire,15.0,Frais pour le changement ou renouvellement de la carte bancaire
+Consultation DAB étranger,5.0,Frais pour la consultation du solde à un distributeur automatique à l'étranger
+Frais de dossier,10.0,Frais administratifs pour la constitution du dossier client
+Frais de TIP,3.5,Frais de traitement d'un titre interbancaire de paiement
+Renouvellement de chéquier,7.0,Frais pour le renouvellement d'un carnet de chèques
+Frais de commission d'intervention,8.0,Frais en cas d'intervention de la banque pour une opération non autorisée
+Paiement différé carte bancaire,4.0,Frais pour l'option de paiement différé à chaque utilisation de la carte
+Recherche documentaire,5.0,Frais pour la recherche et envoi de documents bancaires archivés
+Rejet de prélèvement,10.0,Frais en cas de rejet d'un prélèvement automatique
+Frais par avis à tiers détenteur,12.0,Frais pour la mise en place d'un avis à un tiers détenteur
+Frais de rappel pour agios,5.0,Frais de rappel pour agios dus en cas de découvert
+Frais de tenue de compte professionnel,30.0,Frais associés à la gestion d'un compte professionnel
+Lettrage de compte inactif,4.0,Frais pour la gestion d'un compte resté inactif pendant une période de temps définie
+Duplicata de relevé de compte,3.0,Frais pour l'édition d'un duplicata de relevé de compte
+Mise en place de prélèvement automatique,6.0,Frais pour la mise en place d'un prélèvement automatique
+Frais de modification de plafond de carte,8.0,Frais pour la modification des plafonds de la carte bancaire
+Activation de service bancaire en ligne,5.0,Frais pour l'activation de services en ligne liés au compte bancaire
+Frais de transfert de compte professionnel,20.0,Frais pour le transfert d'un compte professionnel d'une agence à une autre
+Rejet de chèque,10.0,Frais en cas de rejet d'un chèque pour défaut de provision
+Frais de notification par email,1.5,Frais pour la réception de notifications par email
+Changement de statut du compte,20.0,Frais pour le changement de statut du compte bancaire (par exemple : standard à premium)
+Emission de lettre de change,15.0,Frais pour l'émission d'une lettre de change
+Frais de traitement de chèque étranger,12.0,Frais pour l'encaissement ou l'émission d'un chèque étranger
+Carte de paiement prépayée,10.0,Frais de gestion pour une carte de paiement prépayée
+Frais de tenue de compte en devise,25.0,Frais pour la gestion d'un compte en devise étrangère
+Changement de titulaire de compte,30.0,Frais pour changer le titulaire du compte bancaire
+Frais pour opposition sur prélèvement,8.0,Frais pour l'opposition sur un prélèvement automatique
+Régularisation montants impayés,5.0,Frais pour la régularisation des montants impayés sur le compte

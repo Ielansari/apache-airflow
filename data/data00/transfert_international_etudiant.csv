@@ -1,0 +1,51 @@
+id,nom_etudiant,pays_origine,ville_origine,montant,motif_transfert
+1,Ahmed Benali,France,Paris,3000,Frais de scolarité
+2,Fatima Zahir,Espagne,Barcelone,2500,Logement
+3,Mounir Tazi,Canada,Montréal,4000,Frais de vie
+4,Lina El Amrani,Italie,Milan,2800,Achats scolaires
+5,Rachid Agourram,Sénégal,Dakar,3200,Frais universitaires
+6,Amina Bensouda,Tunisie,Tunis,2900,Matériel pédagogique
+7,Omar El Yacoubi,États-Unis,New York,3500,Remboursement prêt étudiant
+8,Yasmine Cherkaoui,Royaume-Uni,Londres,2700,Frais de stage
+9,Khalid Ben Salah,Allemagne,Berlin,3800,Logement étudiant
+10,Salma Abidi,Pays-Bas,Amsterdam,2600,Frais de subsistance
+11,Karim Echchilali,Belgique,Bruxelles,3000,Livres universitaires
+12,Nadia Rimi,Suède,Stockholm,3100,Frais sportifs
+13,Imad El Fassi,Maroc,Casablanca,2900,Forfaits téléphoniques
+14,Leila Kabbaj,Portugal,Lisbonne,2800,Équipement informatique
+15,Samir Oulrich,Suisse,Genève,3500,Frais de transports
+16,Meryem Haddi,Égypte,Le Caire,3200,Assurance maladie
+17,Ayoub Zerouali,Turquie,Istanbul,3300,Frais culturels
+18,Sara Kassimi,Irlande,Dublin,2700,Matériel artistique
+19,Othmane Joundi,Australie,Sydney,3700,Frais de santé
+20,Hiba Bennis,Inde,New Delhi,3000,Matériel artistique
+21,Yassine Bouali,Japon,Tokyo,3200,Frais de logement
+22,Nawal Khairi,Russie,Moscou,2900,billets d'avion
+23,Zakaria Benzakour,Brésil,São Paulo,3500,Frais de bibliothèque
+24,Noura Jaouhari,Corée du Sud,Séoul,2800,Logement étudiant
+25,Hamza Harrak,Chine,Pékin,3300,Achats alimentaires
+26,Rita Boussaid,Argentine,Buenos Aires,3100,Matériel de laboratoire
+27,Mehdi El Khouiss,Nigeria,Lagos,3400,Frais de laboratoire
+28,Asmaa Ibn Mansour,Afrique du Sud,Le Cap,2600,Fournitures scolaires
+29,Abdelali El Madi,Émirats arabes unis,Dubaï,3600,Equipement sportif
+30,Siham Nour,Israël,Tel-Aviv,2900,Frais d'équipement
+31,Ali Rahmouni,Malaisie,Kuala Lumpur,3100,Achats électroniques
+32,Amal El Fakir,Thaïlande,Bangkok,3000,Frais de stage
+33,Said Moudden,Norvège,Oslo,3200,Frais de recherche
+34,Rim Douiri,Finlande,Helsinki,2800,Frais de soutien scolaire
+35,Hicham El Maddah,Indonésie,Jakarta,3400,Frais d'inscription
+36,Nadia Dahan,Colombie,Bogotá,2700,Assurance étudiante
+37,Younes Riffi,Hongrie,Budapest,3500,Balade culturelle
+38,Sara Ouhadi,Indonésie,Bandung,2900,Matériel de cuisine
+39,Mouad Aouidati,Qatar,Doha,3000,Frais d'installation
+40,Houda Benchekroun,Autriche,Vienne,3200,Fournitures de bureau
+41,Amine Lemsaghri,Irak,Bagdad,2800,Frais administration
+42,Nawal Sebbar,Liban,Beyrouth,3300,Projets scolaires
+43,Mounia Labib,Chili,Santiago,2700,Frais de laboratoire
+44,Amine Oubella,Algérie,Alger,3400,Frais de restauration
+45,Kaoutar Benjelloun,Éthiopie,Addis-Abeba,2900,Achats de livres
+46,Lotfi Driouich,Iran,Téhéran,3000,Frais culturels
+47,Mouad Idrissi,Pakistan,Islamabad,3200,Frais de formation
+48,Sofia Ait Haddou,Ukraine,Kiev,2800,Frais de communication
+49,Fouad Lahlou,Vietnam,Hanoï,3300,Frais de recherche
+50,Hajar Benali,Malte,La Valette,2700,Frais de laboratoire

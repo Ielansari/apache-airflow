@@ -1,0 +1,38 @@
+date,compte,debit,credit,solde,operation
+2022-01-01,Compte courant,10000,8000,2000,Virement
+2022-01-03,Compte d'épargne,5000,7000,7000,Retrait
+2022-01-05,Compte courant,4000,6000,2000,Paiement par carte
+2022-01-08,Compte d'épargne,2000,3000,8000,Virement
+2022-01-11,Compte courant,3000,4500,3500,Retrait
+2022-01-14,Compte d'épargne,6000,7000,9000,Paiement par carte
+2022-01-17,Compte courant,2000,3500,500,Virement
+2022-01-20,Compte d'épargne,1000,1500,9500,Retrait
+2022-01-23,Compte courant,5000,6000,3500,Paiement par carte
+2022-01-26,Compte d'épargne,3000,3500,10000,Virement
+2022-01-29,Compte courant,4000,4500,3000,Retrait
+2022-02-01,Compte d'épargne,6000,7000,13000,Paiement par carte
+2022-02-04,Compte courant,2000,3000,1000,Virement
+2022-02-07,Compte d'épargne,1000,1500,11500,Retrait
+2022-02-10,Compte courant,5000,6000,5000,Paiement par carte
+2022-02-13,Compte d'épargne,3000,3500,15000,Virement
+2022-02-16,Compte courant,4000,4500,6000,Retrait
+2022-02-19,Compte d'épargne,2000,2500,17000,Paiement par carte
+2022-02-22,Compte courant,1000,1500,5500,Virement
+2022-02-25,Compte d'épargne,5000,6000,21000,Retrait
+2022-02-28,Compte courant,3000,3500,3000,Paiement par carte
+2022-03-03,Compte d'épargne,2000,2500,18500,Virement
+2022-03-06,Compte courant,1000,1500,2500,Retrait
+2022-03-09,Compte d'épargne,4000,5000,19500,Paiement par carte
+2022-03-12,Compte courant,3000,3500,3000,Virement
+2022-03-15,Compte d'épargne,1000,1500,19000,Retrait
+2022-03-18,Compte courant,4000,4500,3500,Paiement par carte
+2022-03-21,Compte d'épargne,5000,6000,23000,Virement
+2022-03-24,Compte courant,2000,2500,3000,Retrait
+2022-03-27,Compte d'épargne,3000,3500,19500,Paiement par carte
+2022-03-30,Compte courant,1000,1500,2500,Virement
+2022-04-02,Compte d'épargne,5000,6000,23500,Retrait
+2022-04-05,Compte courant,2000,2500,2000,Paiement par carte
+2022-04-08,Compte d'épargne,1000,1500,22000,Virement
+2022-04-11,Compte courant,4000,4500,5500,Retrait
+2022-04-14,Compte d'épargne,2000,2500,24500,Paiement par carte
+2022-04-17,Compte courant,1000,1500,5000,Virement

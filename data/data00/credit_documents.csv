@@ -1,0 +1,42 @@
+num_client,nom_client,profession,montant_credit,duree_remboursement_mois,taux_interet
+EL1001,Ahmed El Hadi,Enseignant,150000,60,3.5
+BK2045,Nadia Benali,Médecin,350000,120,4.2
+TG3067,Karim Toumi,Entrepreneur,250000,84,3.9
+MM4098,Amina Messoudi,Ingénieur,180000,72,3.7
+FO5123,Youssef Fassi,Avocat,420000,96,4.0
+LH6067,Leila Hadj,Architecte,310000,108,4.1
+KH7123,Samir Khaled,Cadre financier,270000,90,3.8
+YB8089,Nora Yaakoubi,Comptable,190000,78,3.6
+TA9012,Fayçal Telmouni,Pompiste,140000,54,3.4
+AM1056,Nabil Amrani,Conseiller juridique,380000,102,4.3
+SB2035,Meryem Sabri,Artiste,260000,86,3.9
+CA3087,Khalid Cherif,Consultant,200000,74,3.7
+LJ4012,Amira Lahlou,Styliste,430000,98,4.1
+EM5023,Adil El Mansour,Infirmier,320000,100,4.0
+RA6034,Hanae Rahmouni,Pharmacien,230000,82,3.8
+MS7012,Omar Msefer,Agriculteur,150000,66,3.6
+TH8002,Salma Tarik,Professeur,270000,92,3.8
+AZ9024,Hicham Azrak,Ingénieur civil,180000,76,3.5
+BA1054,Lina Bouazza,Journaliste,290000,106,4.0
+RD2032,Sofia Rida,Traducteur,250000,88,3.7
+XM3001,Rachid El Mekki,Développeur informatique,340000,94,4.1
+IM4011,Sara Idrissi,Gestionnaire,360000,104,4.2
+GM5022,Riad Goumri,Électricien,210000,80,3.6
+CD6098,Oumaima Chakir,Ressources humaines,310000,108,4.2
+FP7002,Taha Fassi,Entraîneur sportif,180000,70,3.5
+SZ8012,Zineb Sabri,Psychologue,430000,102,4.3
+YA9011,Hassan Yamani,Conseiller financier,320000,96,4.1
+WK1023,Imane Wahbi,Agent immobilier,250000,84,3.8
+LK3089,Mehdi Lamrani,Étudiant,130000,58,3.3
+IK4001,Houda Idrissi,Coiffeuse,400000,100,4.0
+ZS5012,Ali Zouhairi,Aviateur,290000,98,4.1
+SO6013,Fatima Oubelkas,Dentiste,220000,80,3.7
+EA7012,Yassin El Aroui,Entrepreneur,380000,106,4.2
+TO8022,Mouna Touil,Architecte d'intérieur,260000,90,3.9
+CI9023,Nawal Choukri,Journaliste,310000,108,4.2
+LD1098,Walid Lemchach,Pharmacien,170000,72,3.6
+RH2087,Zahra Hassani,Cadre financier,360000,104,4.1
+BK3011,Karim Benkiran,Réalisateur,430000,98,4.3
+NM4022,Imane Nouri,Psychologue,200000,86,3.8
+JO5078,Simohamed Joudar,Coach personnel,330000,94,4.0
+EL6012,Yasmine El Khattabi,Ingénieure agronome,280000,92,3.9

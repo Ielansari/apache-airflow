@@ -1,0 +1,44 @@
+,num_contrat,type_garantie,valeur_estimee,date_debut,date_fin,etat
+0,CC20345,Hypotheque,5500000 DH,2019-05-14,2024-05-14,Actif
+1,EP50987,Cession de creances,350000 DH,2020-02-28,2025-02-28,Actif
+2,CS10230,Nantissement de compte,78000 DH,2018-08-10,2023-08-10,Actif
+3,LP76432,Caution bancaire,1500000 DH,2017-11-22,2022-11-22,Expiree
+4,CS20564,Nantissement de titres,250000 DH,2019-04-05,2024-04-05,Actif
+5,LP87546,Gage mobilier,10000 DH,2017-07-30,2022-07-30,En attente
+6,LI30322,Financement des salaires,460000 DH,2020-06-18,2025-06-18,Actif
+7,LP11223,Caution de restitution,80000 DH,2018-12-04,2023-12-04,Actif
+8,LI40876,Financement des marchandises,620000 DH,2019-01-17,2024-01-17,Actif
+9,LO87543,Caution de soumission,270000 DH,2020-03-30,2025-03-30,Actif
+10,EP35781,Cession de fonds de commerce,900000 DH,2018-02-15,2023-02-15,Actif
+11,LF64563,Caution locative,120000 DH,2019-10-29,2024-10-29,Actif
+12,CS70127,Nantissement de materiel professionnel,320000 DH,2020-01-06,2025-01-06,Actif
+13,LC83901,Privilege de preteur de deniers,1500000 DH,2017-05-25,2022-05-25,Actif
+14,ES50125,Financement dequipements,430000 DH,2019-08-12,2024-08-12,Actif
+15,CS48566,Nantissement de stocks,180000 DH,2020-07-07,2025-07-07,Actif
+16,GB30971,Nantissement de creance professionnelle,25000 DH,2018-11-08,2023-11-08,Actif
+17,LC15476,Privilege de preteur de deniers,820000 DH,2018-06-30,2023-06-30,Actif
+18,RG70346,Caution de restitution,70000 DH,2019-06-02,2024-06-02,Actif
+19,CS23984,Nantissement de marchandises,56000 DH,2020-04-21,2025-04-21,Actif
+20,LF65724,Caution locative,110000 DH,2019-01-14,2024-01-14,Actif
+21,LP62108,Gage mobilier,25000 DH,2017-08-19,2022-08-19,Expiree
+22,LI14569,Financement des salaires,370000 DH,2020-09-27,2025-09-27,Actif
+23,CS50678,Nantissement de vehicule,205000 DH,2018-05-06,2023-05-06,Actif
+24,LP50932,Caution de restitution,75000 DH,2018-12-03,2023-12-03,Actif
+25,EP26421,Cession de parts sociales,800000 DH,2019-10-15,2024-10-15,Actif
+26,LP87652,Gage mobilier,30000 DH,2017-12-28,2022-12-28,Actif
+27,LC75436,Privilege de preteur de deniers,1300000 DH,2017-04-16,2022-04-16,Actif
+28,ES90877,Financement dequipements,520000 DH,2019-07-25,2024-07-25,Actif
+29,CS40876,Nantissement de materiel professionnel,210000 DH,2020-02-16,2025-02-16,Actif
+30,LC22233,Privilege de preteur de deniers,1750000 DH,2018-09-20,2023-09-20,Actif
+31,CS41983,Nantissement de stocks,155000 DH,2020-08-08,2025-08-08,Actif
+32,GB74901,Nantissement de creance professionnelle,28000 DH,2019-01-05,2024-01-05,Actif
+33,LC89674,Privilege de preteur de deniers,900000 DH,2019-02-08,2024-02-08,Actif
+34,ES98761,Financement dequipements,370000 DH,2018-04-15,2023-04-15,Actif
+35,CS51132,Nantissement de marchandises,90000 DH,2020-06-21,2025-06-21,Actif
+36,LF21987,Caution locative,143000 DH,2019-04-10,2024-04-10,Actif
+37,LP09873,Gage mobilier,50000 DH,2017-11-13,2022-11-13,Expiree
+38,LI22009,Financement des salaires,260000 DH,2020-12-07,2025-12-07,Actif
+39,CS44565,Nantissement de vehicule,125000 DH,2018-10-23,2023-10-23,Actif
+40,LP76593,Caution de restitution,65000 DH,2019-07-19,2024-07-19,Actif
+41,EP34123,Cession de parts sociales,700000 DH,2019-11-30,2024-11-30,Actif
+42,LP64512,Gage mobilier,35000 DH,2017-09-27,2022-09-27,Actif

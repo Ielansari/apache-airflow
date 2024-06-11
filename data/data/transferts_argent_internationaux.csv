@@ -1,0 +1,47 @@
+,date,heure,montant,destinataire,pays_destination,motif
+0,2022-01-05,2024-04-23,2500,Karim Benzema,France,Soutien familial
+1,2022-01-10,2024-04-23,1800,Ana Maria,Espagne,Achat immobilier
+2,2022-01-14,2024-04-23,3500,Monica Patel,Inde,Frais medicaux
+3,2022-01-20,2024-04-23,4200,Jorge Silva,Portugal,Investissement
+4,2022-01-25,2024-04-23,2900,Marta Gonzalez,Espagne,Vacances en famille
+5,2022-02-02,2024-04-23,5000,Li Wei,Chine,Aide humanitaire
+6,2022-02-10,2024-04-23,3200,Hussein Al-Khalifa,Koweit,Investissement immobilier
+7,2022-02-15,2024-04-23,2700,Sophia Rossi,Italie,Frais universitaires
+8,2022-02-21,2024-04-23,4300,Malik Khan,Pakistan,Aide financiere
+9,2022-02-28,2024-04-23,3700,Emil Zivkov,Bulgarie,Achat de materiel professionnel
+10,2022-03-07,2024-04-23,4800,Marina Vasiljevic,Serbie,Soutien familial
+11,2022-03-14,2024-04-23,3900,Ahmed Abbasi,Maroc,Achat de voiture
+12,2022-03-21,2024-04-23,4100,Elena Petrescu,Roumanie,Frais detudes
+13,2022-03-27,2024-04-23,3500,Rosa Fernandez,Espagne,Achat de mobilier
+14,2022-04-03,2024-04-23,2900,Tariq Aziz,Pakistan,Frais medicaux
+15,2022-04-10,2024-04-23,3400,Elina Sokolova,Russie,Investissement immobilier
+16,2022-04-16,2024-04-23,2600,Alexandre Ferreira,Portugal,Frais universitaires
+17,2022-04-22,2024-04-23,3900,Nadia Saleh,Egypte,Soutien familial
+18,2022-04-29,2024-04-23,4200,Marco Rossi,Italie,Achat de materiel informatique
+19,2022-05-05,2024-04-23,3100,Isabel Guerrero,Espagne,Frais dentaires
+20,2022-05-12,2024-04-23,4500,Samiyah Abdullah,Qatar,Achat de bijoux
+21,2022-05-18,2024-04-23,3700,Gabriel Andrade,Bresil,Support financier
+22,2022-05-25,2024-04-23,2800,Simona Tanase,Roumanie,Aide financiere
+23,2022-06-02,2024-04-23,4800,Yassir El-Hassani,Maroc,Achat de vehicule
+24,2022-06-09,2024-04-23,4200,Maria Silva,Portugal,Frais dhospitalisation
+25,2022-06-15,2024-04-23,3600,Ahmed Salah,Egypte,Support familial
+26,2022-06-22,2024-04-23,2900,Leila Benali,Tunisie,Frais de voyage
+27,2022-06-28,2024-04-23,3300,Alaa Mansour,Egypte,Achat de materiel electronique
+28,2022-07-05,2024-04-23,2600,Mariana Costa,Bresil,Soutien financier
+29,2022-07-12,2024-04-23,3200,Aliya Khattab,Emirats Arabes Unis,Investissement immobilier
+30,2022-07-18,2024-04-23,3400,Giorgio Bianchi,Italie,Frais de mariage
+31,2022-07-25,2024-04-23,3800,Nadia El-Mansour,Maroc,Achat de mobilier
+32,2022-08-02,2024-04-23,4400,Thorsten Muller,Allemagne,Remboursement de pret
+33,2022-08-09,2024-04-23,2700,Sofia Costa,Portugal,Frais medicaux
+34,2022-08-15,2024-04-23,3100,Elif Yildirim,Turquie,Achat de materiel informatique
+35,2022-08-21,2024-04-23,2900,Hassan Rahal,Jordanie,Frais universitaires
+36,2022-08-28,2024-04-23,3800,Layla Abadi,Maroc,Soutien familial
+37,2022-09-04,2024-04-23,4200,Rajan Patel,Inde,Frais detudes
+38,2022-09-10,2024-04-23,3500,Alina Popa,Roumanie,Investissement immobilier
+39,2022-09-17,2024-04-23,4900,Hussein Al-Saud,Arabie Saoudite,Achat de vehicule
+40,2022-09-24,2024-04-23,3200,Giulia Marino,Italie,Soutien financier
+41,2022-10-01,2024-04-23,3900,Omar Sharif,Egypte,Aide humanitaire
+42,2022-10-08,2024-04-23,4400,Joana Santos,Portugal,Frais dhospitalisation
+43,2022-10-15,2024-04-23,3700,Youssef Ali,Maroc,Achat de bijoux
+44,2022-10-22,2024-04-23,3000,Miriam Garcia,Espagne,Support familial
+45,2022-10-29,2024-04-23,3600,Antonio Moreira,Portugal,Achat de mobilier

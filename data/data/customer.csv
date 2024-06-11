@@ -1,0 +1,51 @@
+,id_client,nom,prenom,genre,date_de_naissance,adresse,telephone,cin,flag_mre,flag_contencieux,id_compte,id_agence
+0,f99cf846-7256-4e99-a658-fbec3fa23111,Ayoub,Iyad,M,1943-10-23,"15, Fes, Badr, Maroc",212632528485,W264023,N,O,1d54d2de-e701-496f-916a-deefb2fb81e0,7106be6c-d543-48c0-b39a-4115a3f0da4e
+1,4999e52f-7a5e-4ca1-9cb7-190722f71e12,Houssam,Omar,F,1939-07-27,"84, Marrakech, Qamra, Maroc",212691050335,V380033,N,N,f1b0e76a-5438-426f-aee6-296de16a2d61,8b97d05d-4e51-4764-ab60-c9eccdf70419
+2,78fa2929-00b6-4f62-b529-0c661775e994,Haroun,Tazim ,M,2000-02-10,"70, Meknes, Bab El Khemis , Maroc",212607876406,P969460,O,N,f48d998b-832b-438b-abd4-9748c3eab6de,22847285-c3c9-4acb-b151-68676dd13547
+3,ec6a0e8b-84a5-4941-a87d-8c2c00b40097,Mouad,Tazim ,M,1929-05-10,"85, Fes, Sidi Ghanem , Maroc",212602869733,X967368,N,N,b38c802b-a3e8-46ec-8af8-96becbb414aa,6fb0880b-261d-4334-aa52-9cb986daa693
+4,c76aa29a-7357-4552-a4c9-b6550ded5f9e,Houssam,Attiq,F,1938-10-25,"38, Meknes, Belvedere , Maroc",212635660437,B737298,N,O,5e0e810f-ec71-4420-8440-d9d90e3e25af,b71a40bf-a176-4d3a-99a6-b3eebc2f300e
+5,ab3ca3df-ce57-4f57-8d2f-cd14fc882965,El Mahi ,Mojiz,F,2010-07-07,"11, Casablanca, Lala Soukaina, Maroc",212620925642,Q47433,N,N,4b520310-8043-44f6-a772-4ab1bd6f7bab,999d72da-e008-4aac-8899-bfd5b5deeb17
+6,59f432f3-0e51-4a88-a6f3-ad988b872f8d,Amir,Achraf,F,1930-10-15,"92, Fes, Tamansourt, Maroc",212622842670,Y296354,N,O,03335e3f-2afb-4c80-a8ef-877cb84d7552,464c1ef5-95cf-4043-9474-aede911d0cf8
+7,7de6ef3d-bb98-4e57-b64d-d24a0c1b752b,Qassim,Yassine,F,1992-01-13,"82, Casablanca, Mhamid , Maroc",212611880614,J524589,N,O,58051949-7909-4fca-a7f9-9e0229b8d11a,2315f6a3-f6f9-474d-96f5-a49b129aed86
+8,28bdebf6-0d35-479d-8db9-e326e32456bb,Hamza,Ibrahim,M,2011-02-28,"45, Meknes, Qamra, Maroc",212609599861,V999561,O,O,d63c4840-bcfa-464a-b4cf-81c962cc658b,68180115-67ad-4070-820e-9ed3bf851cc4
+9,7d37ad26-10cb-4714-a304-817634985a55,Achraf,Ismail,M,1951-11-26,"30, Rabat, Al azhar, Maroc",212691059259,L887261,N,N,7f63cec1-ed6c-4582-939f-9bfa5f63968a,4d0586db-9fc2-48bd-afc0-4d2e453d7732
+10,920ca382-b256-468a-be0c-bdd36a8e0c1c,Tazim ,Hayat,M,1966-05-28,"66, Marrakech, El Azzouzia , Maroc",212698513129,L626844,N,N,88a7da3e-4957-4486-b0b7-ac8b8ec8f811,b3187e3f-a038-4199-b162-aa4f67148505
+11,3d0fe59d-c693-4a05-a3f1-bca66d7285b9,Sofian ,Ismail,M,1962-07-10,"52, Casablanca, Californie , Maroc",212632554945,M39436,N,O,869fc3c9-20c2-44a5-a332-4e240cf616cd,6e179654-14aa-47ee-a2b0-9328ce3f0d84
+12,b6a514b2-b28c-4102-9f67-bf7fcd9cd368,Mohammed,Younes,M,1911-01-12,"50, Meknes, Ancienne Medina, Maroc",212662640762,F918556,O,O,81eb584d-9fdc-422a-98d3-cabda81ed4d4,d4c0cbd2-cfc1-401a-8a23-295c03f5799c
+13,3492517c-356e-4452-856f-3316d67c309c,Attiq,El Mahi ,F,1959-01-03,"83, Fes, Qamra, Maroc",212641216068,O65976,O,N,8ecd8501-bd70-406e-b7b3-0537f956605b,47520d3a-e6c7-4e15-b5b8-c0baa408ee17
+14,15a8cec8-e867-4eed-bc1a-bc1736a5f562,Ahmed,Ahmed,M,1921-12-07,"30, Fes, Qamra, Maroc",212614142953,J623287,N,O,cef7f113-9118-4ee5-925a-97d83eb57e5e,ab602a49-9563-4c0d-9c68-0c1d23509722
+15,87e2df7b-83f3-457f-acf1-154ca8ac07b8,Attiq,Mouad,M,1912-12-04,"7, Meknes, Bab El Khemis , Maroc",212647632090,L988504,O,O,35833be7-d99d-4e3b-b73d-949bf075e4b2,1ed8cf5c-a880-44b5-b2cf-9e3eee8a3a7c
+16,29bca5b0-442c-45a8-b665-cda8dcf38efc,Mohammed,Hamza,M,1975-10-10,"83, Rabat, Belle Vue 3, Maroc",212696489935,M741827,N,N,fddd720a-5f2f-476c-8407-16b6bda4a2fc,2fa176d2-1ab4-4e8a-82b7-d137f8705999
+17,35ddfe3c-a79f-48e2-bda1-c3927f8525ec,Amir,Mehdi,F,1948-02-11,"24, Marrakech, Sidi Ghanem , Maroc",212649277441,G288615,N,O,b2251897-6aea-4cb5-ada6-5c19d303c040,d24871c0-af33-4482-a795-ec71b711d1ac
+18,ba31e2e9-aea5-499a-a7b7-1e509eefdad8,Omar,Sofian ,M,2008-08-13,"5, Fes, Socoma, Maroc",212630943957,Z887602,N,N,d67dd82a-dcfc-4ec6-aeaa-3fe8a55e26ee,6f1d768b-8317-4e10-b1fb-7c537f3a2ea1
+19,d6eb9585-3dc3-4b27-9d0b-0a63276ee284,Khadija,Khadija,F,1935-01-06,"84, Fes, Hay Salama, Maroc",212698095534,W897899,N,N,db5a1038-197c-4f56-8f89-9e71e9d77108,2dd0718a-69a1-42c7-b9a6-f55d04395f05
+20,e758f9c2-e25c-43cb-891a-6f548b39b452,Mohamed,Yassine,M,1957-07-09,"40, Meknes, Oulfa, Maroc",212664736619,H520134,O,N,07c8a81e-5642-4406-ae97-c66756b34a3b,56a21160-6f93-406f-9187-cb110f8e9ac2
+21,241d559b-affe-4bcf-8326-266b259bd083,Qassim,Haroun,F,1938-12-15,"82, Meknes, Qamra, Maroc",212663168131,V943706,N,O,25161435-c2df-4315-93de-a72e0bdc56c0,23799758-4a4b-4320-8f60-e2f779778ab7
+22,e17af025-2b5f-4279-9bb8-fdb9a4b82bce,Hamza,Nassim,M,1966-06-29,"42, Casablanca, Mhamid , Maroc",212674126093,W75461,O,O,bf8c21e2-3ae9-4a3e-a15d-64e1dc6e598f,be9faa2d-6fcc-47f5-abda-b54728b6316b
+23,1e41d7d4-0014-4756-b85b-2b941b486b1a,Farizah,Houssam,F,1949-11-04,"77, Fes, Al azhar, Maroc",212632099144,X240024,O,N,f3d96229-4cab-4983-9728-60daa44258e2,4b617251-06f7-40b6-96ff-51558e8120fc
+24,296bd0c2-67ef-4332-9282-355926c13561,Omar,Ahmed,F,2020-03-12,"61, Fes, Lala Soukaina, Maroc",212639900972,P379565,O,O,58d16294-1117-4562-8c25-ba13cca643f2,6a363bde-c2d2-4fe8-8bb0-d6332f6fb7ed
+25,f24037a5-55b9-42e0-aef5-f369fc5d8aa3,Zhour,Tazim ,M,1935-01-14,"62, Rabat, Ennakhil, Maroc",212644573570,V441907,N,O,ff7447f0-1e46-40b8-a4d0-35073111e228,c373c55a-b9cd-4102-b794-4097df3ee43b
+26,6e216fe5-ca0a-4a9f-bce6-45bd70fe32a5,Wassim,Anas,M,1955-11-26,"63, Fes, Lala Soukaina, Maroc",212605789975,E65141,N,N,d34fb7f8-313c-4519-abca-946e67c589be,53986833-688e-43cf-a149-64c82a2d6c7b
+27,2404d4d5-3426-400a-8d54-90cd8f21f217,Nassim,Nesma,F,1914-11-15,"19, Marrakech, Massira , Maroc",212660834408,X338394,O,O,f72f9f9a-1e16-4ab0-9267-c961e3e00c7b,0c440184-a3ae-4c86-afd3-87335c8d10d8
+28,f4198658-337d-45f8-aeca-c43a240300cf,Zakaria,Ayoub,F,1932-05-19,"23, Marrakech, Ancienne Medina, Maroc",212647231681,C631724,N,O,44c61e38-3d2e-4341-883e-30ea59210c52,73f18e50-bec2-49c8-8042-26d4655c7079
+29,c4cf5839-6db0-4ae1-aa22-16c0b0a95e76,Zubayr,Mohammed,F,1936-03-08,"55, Marrakech, Derb Ghallef, Maroc",212649393262,F206876,O,N,a71afe4e-492a-466a-9693-4f481403e8d2,82dfdf5a-b65b-44a5-b697-72530fa4e3d8
+30,79ec2846-9728-4ec5-a121-3d5cba516ea5,Ahmed,Moussa,M,1994-12-08,"95, Casablanca, Badr, Maroc",212677404009,C545850,O,O,2ec1fd93-8c83-4cb3-9915-df59e422b1b2,2e63479c-2bd7-4732-8257-0b83ba068ae6
+31,de3e7a2a-bd63-42b2-9816-7e9129eb8efe,Ouahid,Mohamed,F,1957-02-15,"90, Casablanca, Kasbah de Marrakech, Maroc",212670603001,N870022,N,O,8190f637-8d56-4432-b69b-b03ff307970d,5c2e13ac-da12-4295-ac00-0a9e61af8934
+32,b0f8e7bf-4edc-4f43-8ac6-fabfd2d22eb7,Mohammed,Hayat,F,1919-02-22,"62, Rabat, Derb Ghallef, Maroc",212666777098,E824487,O,N,799ab992-eec6-47a5-8566-16ad2725cf66,b43bd1f4-e63c-44ac-97ce-dcede144ae6c
+33,2ee84413-ce0b-4755-bca7-98698c3719e9,Omar,Younes,M,1954-12-03,"56, Meknes, Hay El Hassani, Maroc",212638576309,I496880,O,O,8ea61522-4f0d-45fd-9c2b-3dc6cb3812c4,2ded82cf-cee0-4bde-9406-59538bc63c59
+34,32d9d9d0-e699-4857-962c-6324f34b4992,Achraf,Ahmed,F,2009-11-19,"10, Meknes, Quartiers nord de Marrakech, Maroc",212678715946,V537795,N,N,dbe4d168-caeb-405e-be9c-f5bce8723196,1b7b4586-ba60-43a4-b9ba-4a61be482e0e
+35,c8c60fb4-77f4-4db9-82ef-c652cb894239,Mouad,Youssef,F,1918-07-05,"64, Meknes, Hay Salama, Maroc",212626621563,C820180,O,O,6c37636d-6578-4563-b610-bcb19a451660,bf62c9fd-a0e4-4648-a1a5-cd06d409e69a
+36,c82c1b0f-e07b-42ce-aa5e-f847dae5769f,Wassim,Nesma,M,2001-11-22,"60, Meknes, Inara, Maroc",212673255489,I664794,O,N,148d896c-e60e-44e4-9c98-44f731b9aba7,40d5c2f5-4cd1-435e-9dfb-897a1f623ff8
+37,fba1f41b-da37-4888-beef-9d38a443a128,Achraf,Hamza,F,1963-08-03,"87, Casablanca, Qamra, Maroc",212651883649,A439429,O,O,59b85908-14b4-4af9-b036-811225267720,c8eeb0f6-3f62-46cb-afca-07be680dae2a
+38,90cf9258-abff-4d62-89c2-647d19cddd96,Amir,Mohammed,M,1997-01-25,"18, Meknes, Semlalia , Maroc",212649731971,X198119,O,N,15746774-7cd7-44dc-9c8e-9ef21e26e8ab,72b4019e-c542-43ed-8e7b-1d9bd3be8933
+39,eea12066-05e2-4551-a74d-8787ce368eb1,Ismail,Salah,F,1974-02-04,"57, Meknes, Salmia 1, Maroc",212622990148,S178920,N,O,561ded5a-a7e1-4e12-8d79-878968a33b84,ae275059-13ed-488a-866f-ff8a72ba9444
+40,362d2cc9-3e1b-4289-9387-3e6ff81a6c2a,Ali,Moussa,F,1948-07-17,"55, Meknes, Californie, Maroc",212681729381,W837620,N,O,9555dbc9-5a64-43a4-8be7-06609dad357c,f5bb0912-6286-49f4-9134-758cf8a5f103
+41,258e2228-6fa2-4d58-a1b7-be94b195570a,Imane,Amir,F,1975-09-06,"56, Fes, Lido, Maroc",212673442760,H94278,O,O,90deac58-07e0-4c6e-92eb-24f1fdf41b0f,35bcfe48-1cda-4ff1-acef-4c0d2ff84cd2
+42,47a6a7c1-d0a4-4ac4-be05-f8b8297688c7,Ali,Amir,M,1921-11-29,"92, Rabat, Yacoub El Mansour , Maroc",212691785828,Z721503,N,O,4f168647-95b8-49aa-bfef-9b3dcecae804,bc6dc6b8-e0d5-40a8-ab28-85fa38e6109c
+43,3e5ef8c7-4344-4655-8df6-5ec553b928c2,Nassim,Abdelilah,M,2009-04-22,"50, Rabat, Hay Ryad, Maroc",212641156297,J136471,O,N,19d6f439-a0bd-4d7b-90b8-2869561bc621,7bbdc66e-4674-44d6-9da3-f80da71e393f
+44,77e8966b-5367-451a-bb2a-bf40acd1c18d,Ahmed,Ali,M,1974-06-19,"36, Fes, Lido, Maroc",212632109130,E902731,N,O,bf2f0ef7-34b6-4b1f-82b1-1c76e4ae78de,5ab40dfe-ba66-47f4-a7b1-753c3283ffb4
+45,1bef36f5-873d-43d2-a60e-11a1ae4ead04,Youssef,Ahmed,F,2003-04-06,"11, Casablanca, Yacoub El Mansour , Maroc",212683155930,D656654,O,O,ddac475b-241b-4ab8-bb17-024f78af83ba,1c1ae832-82a8-45a8-84ba-8fa624ee3d9e
+46,8bcec3d0-5990-4403-98bf-bef5ea3b15f5,Ghaydaa,Iyad,M,1934-08-31,"95, Rabat, Hay Ryad, Maroc",212626474819,H58582,N,N,752fb80e-5e03-42c1-8099-a1112e8dd5aa,e953143d-d18a-4995-8090-3e78b87f6655
+47,f82f1f68-50b8-4938-a138-a3cc36d6eef3,Farizah,Mohamed,M,1974-11-03,"46, Rabat, Lala Soukaina, Maroc",212602948638,M220006,O,O,913d1b17-bd4f-4919-b1af-72b6dcac6b6d,6dc54a1e-7fb4-45d6-92e4-d93c1f4456c5
+48,ab45f787-43a0-49f7-aa8a-5e8165a770b6,Mohammed,Haroun,F,1979-03-21,"80, Fes, Yacoub El Mansour , Maroc",212672058663,F928734,O,N,9c976032-2444-4c8e-b07b-37a91a9089ce,ec5ba63f-b892-4d3c-9b03-df6b7135f5b2
+49,fbe87e87-ce84-411f-bf60-e6ff2e6724f5,Amine,Ali,M,1986-02-22,"13, Casablanca, Ennakhil, Maroc",212633131585,R882925,N,N,3827d9fe-fcb5-4935-8dd3-1cc8c07a8e59,b3ccd9c9-a5a9-4c61-adf2-656a5d4b3128

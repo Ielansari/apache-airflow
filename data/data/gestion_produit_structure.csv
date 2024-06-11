@@ -1,0 +1,11 @@
+,id,nom_produit,categorie,taux_interet,montant_min,duree_max_mois
+0,1,Pret Auto,Credit,3.5,5000,60
+1,2,Epargne Enfant,Epargne,1.75,100,216
+2,3,Carte Platinum,Carte Bancaire,0.0,0,0
+3,4,Assurance Habitation,Assurance,0.0,0,0
+4,5,Contrat de Change,Change,2.25,100,12
+5,6,Pret Etudiant,Credit,2.85,2000,120
+6,7,Compte Epargne,Epargne,1.25,50,0
+7,8,Virement International,Virement,0.0,0,0
+8,9,Assurance Auto,Assurance,0.0,0,0
+9,10,Investissement Immobilier,Investissement,4.0,10000,360

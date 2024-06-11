@@ -1,0 +1,46 @@
+,num_carte,date_expiration,type_carte,proprietaire,solde_disponible
+0,1234 5678 9012 3456,12/23,Visa,Ahmed Benali,7500
+1,9876 5432 1098 7654,09/24,Mastercard,Leila Chaoui,3200
+2,6543 2109 8765 4321,06/22,Visa,Mohammed El Amrani,15000
+3,8876 5432 1098 7654,07/23,Mastercard,Nadia Ben Mansour,5500
+4,1122 3344 5566 7788,11/22,Visa,Karim Berrada,10000
+5,4433 2255 6677 8899,02/24,Mastercard,Rania Ghali,4300
+6,7788 9988 6677 2233,04/23,Visa,Ali Meziane,7800
+7,9900 1122 3344 5566,05/24,Mastercard,Fatima Zerouali,6200
+8,6677 4455 8899 2233,08/23,Visa,Said El Kaddouri,9400
+9,1122 9988 7711 3366,03/24,Mastercard,Amina Toufiq,5100
+10,6655 8833 4411 9922,10/22,Visa,Omar Rezki,8200
+11,3344 5577 9966 2211,01/23,Mastercard,Yasmine Mansouri,7200
+12,3344 2211 9988 6655,12/23,Visa,Hassan El Amrani,11300
+13,9988 3322 5544 7766,09/23,Mastercard,Sanaa Bousfiha,4600
+14,9988 5566 3322 7744,11/24,Visa,Khalid El Kandari,6700
+15,5566 2233 9988 7744,03/23,Mastercard,Houda Fassi,5900
+16,1122 3344 5566 7788,02/22,Visa,Ahmed Choukri,8900
+17,2233 5566 8899 7711,01/24,Mastercard,Salma Bensaid,5100
+18,6677 8899 3355 4411,05/23,Visa,Ayoub El Fahmi,6400
+19,9900 7766 4433 2211,04/22,Mastercard,Hakima Elmrabet,8700
+20,4455 6677 2233 8899,06/23,Visa,Youssef Chami,11000
+21,1100 3300 5500 7700,07/22,Mastercard,Khadija Bouchaib,3800
+22,9977 3344 6611 2288,08/24,Visa,Abdelkader Nassiri,9600
+23,1122 4455 7788 9911,09/23,Mastercard,Nawal Jaidi,4400
+24,5544 2211 8877 6633,10/22,Visa,Mehdi Bousfiha,7200
+25,9988 7766 5544 2211,11/23,Mastercard,Naima Kabbaj,5900
+26,2233 3344 4455 5566,12/22,Visa,Oumaima Bouzidi,9600
+27,4455 6677 8899 2211,01/24,Mastercard,Hanane El Ghazi,5100
+28,6677 3377 5511 8899,02/23,Visa,Mohammed Karimi,7200
+29,7777 2222 8888 4444,03/22,Mastercard,Samira Hachadi,4800
+30,8800 9900 6688 7766,04/23,Visa,Yassine Ait Kaddouri,6900
+31,4400 7700 1100 3300,05/22,Mastercard,Meryem Benjelloun,4100
+32,3355 6633 9911 2277,06/24,Visa,Khalid Chafik,7900
+33,7788 1122 6644 2200,07/23,Mastercard,Imane El Messaoudi,5200
+34,9911 7700 4400 8822,08/22,Visa,Hicham Boularouz,9700
+35,3377 8833 5511 6699,09/24,Mastercard,Laila Cherkaoui,4500
+36,5544 7711 8822 3366,10/23,Visa,Amine El Hachimi,7000
+37,1133 7744 8855 9966,11/22,Mastercard,Loubna Fakir,5800
+38,6600 1100 3300 6600,12/23,Visa,Jamal Makfa,9400
+39,2233 9900 4422 6611,01/24,Mastercard,Sara Nejjar,5300
+40,4477 7711 9944 6622,02/23,Visa,Fouad El Amrani,7600
+41,8899 3355 5577 4411,03/22,Mastercard,Nora Benkiran,4700
+42,2200 4400 6600 8800,04/23,Visa,Ahmed Slaoui,7000
+43,9933 7722 5566 8844,05/22,Mastercard,Khadija Choukri,4200
+44,1066 3377 8900 2211,06/24,Visa,Mohamed Ait Hamou,7800

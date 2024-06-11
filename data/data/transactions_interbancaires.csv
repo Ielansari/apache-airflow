@@ -1,0 +1,51 @@
+,id,banque_emetrice,banque_destinatrice,montant,date_transaction
+0,1,Banque Populaire,BMCE Bank,15000.25,2022-03-05
+1,2,Attijariwafa Bank,Credit Agricole,8000.5,2022-02-17
+2,3,Societe Generale,CIH Bank,12000.75,2022-01-20
+3,4,Banque Marocaine du Commerce Exterieur,Al Barid Bank,3500.8,2022-04-30
+4,5,Credit du Maroc,Banque Centrale Populaire,10000.0,2022-03-10
+5,6,Bank of Africa,Attijariwafa Bank,6000.3,2022-05-02
+6,7,Credit Agricole,BMCE Bank,9500.6,2022-02-28
+7,8,CIH Bank,Banque Marocaine du Commerce Exterieur,8700.4,2022-01-15
+8,9,Al Barid Bank,Bank of Africa,4300.2,2022-04-09
+9,10,Banque Centrale Populaire,Societe Generale,7500.7,2022-06-25
+10,11,BMCE Bank,Credit du Maroc,6600.35,2022-02-04
+11,12,Banque Populaire,Attijariwafa Bank,5100.9,2022-07-18
+12,13,Societe Generale,Banque Marocaine du Commerce Exterieur,3000.45,2022-06-10
+13,14,Bank of Africa,Banque Centrale Populaire,4200.75,2022-08-21
+14,15,Al Barid Bank,Credit Agricole,8800.85,2022-07-01
+15,16,Credit Agricole,CIH Bank,9300.4,2022-03-14
+16,17,CIH Bank,BMCE Bank,6400.6,2022-08-05
+17,18,Banque Marocaine du Commerce Exterieur,Credit du Maroc,4500.2,2022-09-11
+18,19,Banque Centrale Populaire,Attijariwafa Bank,7000.3,2022-10-02
+19,20,BMCE Bank,Societe Generale,5900.75,2022-04-19
+20,21,Banque Populaire,Bank of Africa,3800.9,2022-11-14
+21,22,Attijariwafa Bank,Banque Centrale Populaire,4900.45,2022-12-27
+22,23,Societe Generale,Al Barid Bank,2700.55,2022-11-03
+23,24,Banque Marocaine du Commerce Exterieur,Credit Agricole,5200.6,2022-09-29
+24,25,Credit du Maroc,CIH Bank,3000.7,2022-07-22
+25,26,Bank of Africa,BMCE Bank,6700.8,2022-12-15
+26,27,Al Barid Bank,Banque Populaire,8400.95,2022-10-18
+27,28,Credit Agricole,Banque Centrale Populaire,7900.2,2022-06-07
+28,29,CIH Bank,Attijariwafa Bank,5400.3,2022-02-24
+29,30,Banque Marocaine du Commerce Exterieur,Societe Generale,3400.4,2022-01-30
+30,31,Banque Centrale Populaire,Bank of Africa,4700.5,2022-05-05
+31,32,BMCE Bank,Banque Populaire,6300.6,2022-03-12
+32,33,Banque Populaire,Banque Marocaine du Commerce Exterieur,8500.7,2022-08-02
+33,34,Attijariwafa Bank,Credit du Maroc,4700.8,2022-11-25
+34,35,Societe Generale,Bank of Africa,5600.9,2022-09-18
+35,36,Al Barid Bank,Banque Centrale Populaire,3200.2,2022-12-04
+36,37,Credit Agricole,BMCE Bank,7300.35,2022-07-31
+37,38,CIH Bank,Banque Populaire,4100.45,2022-06-24
+38,39,Banque Marocaine du Commerce Exterieur,Attijariwafa Bank,5900.6,2022-04-11
+39,40,Banque Centrale Populaire,Societe Generale,7800.75,2022-01-02
+40,41,BMCE Bank,Al Barid Bank,3600.8,2022-10-27
+41,42,Banque Populaire,Credit Agricole,4500.9,2022-02-13
+42,43,Attijariwafa Bank,CIH Bank,5100.2,2022-05-21
+43,44,Societe Generale,Banque Marocaine du Commerce Exterieur,2700.3,2022-03-08
+44,45,Bank of Africa,Credit du Maroc,3300.4,2022-09-03
+45,46,Al Barid Bank,CIH Bank,4200.5,2022-11-28
+46,47,Credit Agricole,BMCE Bank,6400.6,2022-08-14
+47,48,CIH Bank,Bank of Africa,4700.7,2022-12-09
+48,49,Banque Marocaine du Commerce Exterieur,Banque Centrale Populaire,5100.8,2022-06-16
+49,50,Banque Centrale Populaire,BMCE Bank,4500.9,2022-04-23

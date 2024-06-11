@@ -1,0 +1,40 @@
+,nom_client,num_compte,montant_rachat,date_rachat,type_investissement,objectif_investissement,duree_placement,statut_rachat
+0,Ahmed Zouhair,123456789,5000 MAD,2022-05-10,Fonds dinvestissement,Retraite,5 ans,Valide
+1,Fatima Benjelloun,987654321,10000 MAD,2022-04-15,Actions,Croissance,3 ans,En attente
+2,Hassan El Amrani,456789123,7000 MAD,2022-03-20,Obligations,Revenue fixe,2 ans,Rejete
+3,Sara Bennis,789123456,12000 MAD,2022-02-05,Immobilier,Patrimoine,10 ans,Valide
+4,Youssef Mernissi,654321987,8500 MAD,2022-01-30,Epargne,Urgence,1 an,Valide
+5,Layla El Haddad,321654987,6000 MAD,2022-05-02,Fonds commun de placement,Education des enfants,8 ans,En attente
+6,Karim Ait Mhamed,741852963,9500 MAD,2022-04-17,Secteur Technologique,Croissance,3 ans,Valide
+7,Nadia Bouabid,258369147,4300 MAD,2022-03-25,Metaux precieux,Diversification,4 ans,Valide
+8,Imane Chafik,963258741,7700 MAD,2022-02-12,Investissement durable,Responsable,5 ans,Rejete
+9,Reda Fassi,159487263,5200 MAD,2022-01-05,Startups en croissance,Opportunite,2 ans,En attente
+10,Fadwa Ibn Zohra,845629713,10400 MAD,2022-06-20,Investissement dans lart,Culture,7 ans,En attente
+11,Omar Rahmouni,365214987,6900 MAD,2022-05-12,Produits bancaires islamiques,Complements de revenus,3 ans,Valide
+12,Aicha Daoudi,784512036,8200 MAD,2022-04-04,Biotechnologies,Innovation,5 ans,Rejete
+13,Mehdi El Harchi,987123654,7700 MAD,2022-03-18,Secteur de la sante,Croissance,4 ans,Valide
+14,Khadija Ouazzani,456987123,6200 MAD,2022-02-21,Cryptomonnaies,Speculation,1 an,Valide
+15,Samir Zoubir,741258963,8900 MAD,2022-01-14,Actions,Croissance,2 ans,Rejete
+16,Rim El Kaouti,325698147,5100 MAD,2022-05-05,Fonds dinvestissement,Retraite,8 ans,En attente
+17,Adil Kadiri,936127485,9400 MAD,2022-04-22,Produits bancaires islamiques,Complements de revenus,5 ans,Rejete
+18,Yasmine Ouahbi,471258963,7300 MAD,2022-03-28,Secteur Technologique,Innovation,3 ans,Valide
+19,Abdellah Jannat,896325741,4800 MAD,2022-02-15,Epargne,Prevoyance,2 ans,Valide
+20,Nawal Amrani,236598741,6600 MAD,2022-01-08,Investissement durable,Responsable,3 ans,Valide
+21,Khalid Gharnit,741589263,10200 MAD,2022-06-25,Biotechnologies,Innovation,6 ans,En attente
+22,Amina Laaroussi,582364197,5900 MAD,2022-05-14,Stocks,Diversification,5 ans,Valide
+23,Mohamed Hamdi,365274918,8200 MAD,2022-04-02,Actions,Croissance,4 ans,Rejete
+24,Lamia Belarbi,753624198,7100 MAD,2022-03-20,Metaux precieux,Patrimoine,3 ans,Valide
+25,Said Meziane,284791365,5400 MAD,2022-02-18,Immobilier,Patrimoine,2 ans,Valide
+26,Rita Boukhari,963852741,9700 MAD,2022-01-10,Fonds dinvestissement,Retraite,7 ans,Rejete
+27,Ali Berrada,571639248,6300 MAD,2022-05-15,Epargne,Urgence,2 ans,En attente
+28,Salma Belkhaouda,365197842,8800 MAD,2022-04-18,Fonds commun de placement,Education des enfants,5 ans,Valide
+29,Yassine El Mahrouki,974136852,4400 MAD,2022-03-22,Startups en croissance,Opportunite,4 ans,Valide
+30,Hajar Fikri,325987614,7600 MAD,2022-02-28,Secteur de la sante,Croissance,3 ans,Rejete
+31,Khalid Benkirane,631472985,5200 MAD,2022-01-01,Investissements ethiques,Responsable,1 an,Valide
+32,Fathia Chami,897514236,9300 MAD,2022-06-22,Cryptomonnaies,Speculation,6 ans,En attente
+33,Radia Berrada,478923651,6000 MAD,2022-05-08,Produits bancaires islamiques,Complements de revenus,5 ans,Valide
+34,Brahim El Kettani,963852741,8100 MAD,2022-04-12,Biotechnologies,Innovation,5 ans,Rejete
+35,Lina Najib,251369487,7600 MAD,2022-03-30,Secteur Technologique,Innovation,3 ans,Valide
+36,Hamza El Kadiri,987632145,4900 MAD,2022-02-17,Epargne,Prevoyance,2 ans,Valide
+37,Saadia Kettani,632159874,6500 MAD,2022-01-12,Investissement durable,Responsable,3 ans,Rejete
+38,Kamal Rahmouni,745986231,9900 MAD,2022-06-27,Biotechnologies,Innovation,6 ans,En attente

@@ -1,0 +1,45 @@
+,service,montant,description
+0,Retrait DAB autre banque,10.0,Paiement pour retrait a un distributeur automatique dune autre banque
+1,Frais de tenue de compte,20.0,Frais associes a la gestion et la tenue en compte bancaire
+2,Virement national,5.0,Frais pour realiser un virement national au sein dune banque
+3,Carte bancaire internationale,30.0,Frais de gestion pour une carte bancaire internationale
+4,Cheque de banque,15.0,Frais pour ledition dun cheque de banque certifie
+5,Prelevement SEPA,3.0,Frais pour un prelevement SEPA ponctuel ou permanent
+6,Assurance sur compte,25.0,Frais pour souscrire a une assurance complementaire sur le compte
+7,Emission de cheque de banque,10.0,Frais pour lemission dun cheque de banque garantie
+8,Depassement decouvert,12.0,Frais en cas de depassement du decouvert autorise
+9,Releve de compte papier,2.0,Frais pour lenvoi dun releve de compte papier par courrier postal
+10,Changement de domiciliation bancaire,8.0,Frais pour effectuer un changement de domiciliation bancaire
+11,Creation de RIB,5.0,Frais pour la creation dun releve didentite bancaire supplementaire
+12,Paiement hors zone euro,20.0,Frais pour les paiements effectues en dehors de la zone euro
+13,Frais de gestion de pret,35.0,Frais associes a la gestion dun pret ou credit bancaire
+14,Opposition sur cheque,6.0,Frais pour une opposition sur un cheque declare perdu ou vole
+15,Notification SMS,1.5,Frais pour la reception de notifications par SMS
+16,Changement de carte bancaire,15.0,Frais pour le changement ou renouvellement de la carte bancaire
+17,Consultation DAB etranger,5.0,Frais pour la consultation du solde a un distributeur automatique a letranger
+18,Frais de dossier,10.0,Frais administratifs pour la constitution du dossier client
+19,Frais de TIP,3.5,Frais de traitement dun titre interbancaire de paiement
+20,Renouvellement de chequier,7.0,Frais pour le renouvellement dun carnet de cheques
+21,Frais de commission dintervention,8.0,Frais en cas dintervention de la banque pour une operation non autorisee
+22,Paiement differe carte bancaire,4.0,Frais pour loption de paiement differe a chaque utilisation de la carte
+23,Recherche documentaire,5.0,Frais pour la recherche et envoi de documents bancaires archives
+24,Rejet de prelevement,10.0,Frais en cas de rejet dun prelevement automatique
+25,Frais par avis a tiers detenteur,12.0,Frais pour la mise en place dun avis a un tiers detenteur
+26,Frais de rappel pour agios,5.0,Frais de rappel pour agios dus en cas de decouvert
+27,Frais de tenue de compte professionnel,30.0,Frais associes a la gestion dun compte professionnel
+28,Lettrage de compte inactif,4.0,Frais pour la gestion dun compte reste inactif pendant une periode de temps definie
+29,Duplicata de releve de compte,3.0,Frais pour ledition dun duplicata de releve de compte
+30,Mise en place de prelevement automatique,6.0,Frais pour la mise en place dun prelevement automatique
+31,Frais de modification de plafond de carte,8.0,Frais pour la modification des plafonds de la carte bancaire
+32,Activation de service bancaire en ligne,5.0,Frais pour lactivation de services en ligne lies au compte bancaire
+33,Frais de transfert de compte professionnel,20.0,Frais pour le transfert dun compte professionnel dune agence a une autre
+34,Rejet de cheque,10.0,Frais en cas de rejet dun cheque pour defaut de provision
+35,Frais de notification par email,1.5,Frais pour la reception de notifications par email
+36,Changement de statut du compte,20.0,Frais pour le changement de statut du compte bancaire (par exemple : standard a premium)
+37,Emission de lettre de change,15.0,Frais pour lemission dune lettre de change
+38,Frais de traitement de cheque etranger,12.0,Frais pour lencaissement ou lemission dun cheque etranger
+39,Carte de paiement prepayee,10.0,Frais de gestion pour une carte de paiement prepayee
+40,Frais de tenue de compte en devise,25.0,Frais pour la gestion dun compte en devise etrangere
+41,Changement de titulaire de compte,30.0,Frais pour changer le titulaire du compte bancaire
+42,Frais pour opposition sur prelevement,8.0,Frais pour lopposition sur un prelevement automatique
+43,Regularisation montants impayes,5.0,Frais pour la regularisation des montants impayes sur le compte

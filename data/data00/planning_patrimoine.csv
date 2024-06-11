@@ -1,0 +1,47 @@
+client,type_produit,montant_initial,date_ouverture,duree_contrat,beneficiaire
+Ahmed Benjelloun,Assurance-vie,150000.0,2021-02-15,10.0,Fatima Benjelloun
+Nadia El Amrani,Compte Epargne,50000.0,2020-09-28,,
+Khalid Meziane,Placements financiers,300000.0,2019-06-11,5.0,Houda Meziane
+Samira Othmani,Compte Courant,,2022-01-10,,
+Youssef Bennis,Assurance habitation,20000.0,2020-03-30,1.0,Karima Bennis
+Hassan Chikhaoui,Caisse d'Epargne,100000.0,2018-12-05,8.0,Leila Chikhaoui
+Nawal El Mansouri,Plan Epargne Retraite,120000.0,2017-05-19,15.0,Ahmed El Mansouri
+Maryam Lahbabi,Fonds Communs de Placement,75000.0,2019-11-07,3.0,Amine Lahbabi
+Rachid El Faqir,Prêt Immobilier,350000.0,2020-08-14,20.0,Sanaa El Faqir
+Sara Berrada,Assurance Auto,18000.0,2021-04-25,2.0,Karim Berrada
+Abdellah El Kadi,Investissement en Bourse,250000.0,2019-03-08,6.0,Nora El Kadi
+Fadwa Merroun,Compte Joint,80000.0,2018-10-30,,Tarek Merroun
+Imane El Moutawakil,Assurance Maladie,30000.0,2020-06-16,1.0,Hicham El Moutawakil
+Salma Belhaj,Plan Epargne Logement,90000.0,2018-01-22,10.0,Anas Belhaj
+Tarik Lahlou,Carte Bancaire,,2022-03-05,,
+Latifa El Haddad,Assurance Deces,40000.0,2019-09-10,5.0,Khalil El Haddad
+Omar Benali,Crédit Consommation,25000.0,2020-12-18,3.0,Lamia Benali
+Farid Amrani,Epargne Salariale,70000.0,2017-07-03,6.0,Yasmine Amrani
+Nabil El Mahjoub,Assurance Scolaire,15000.0,2021-07-22,1.0,Sara El Mahjoub
+Loubna Chafik,Placement Immo,180000.0,2018-04-29,8.0,Yassin Chafik
+Ahmed Boukhriss,Assurance Emprunteur,30000.0,2020-05-14,2.0,Meryem Boukhriss
+Hanane Benjelloun,Livret A,60000.0,2019-02-11,,Nizar Benjelloun
+Mohammed El Wardi,OPCVM,400000.0,2016-11-26,10.0,Safae El Wardi
+Houda Idali,PEA,100000.0,2018-09-05,5.0,Saad Idali
+Aliya El Baraka,Assurance Voyage,25000.0,2021-03-19,1.0,Karim El Baraka
+Wissem El Kharraz,Prêt Etudiant,20000.0,2020-11-08,4.0,Inas El Kharraz
+Nassim El Gharbi,Compte à Terme,150000.0,2019-08-17,3.0,Selma El Gharbi
+Yasmine Berrada,Assurance Malus,30000.0,2021-06-28,1.0,Adam Berrada
+Kamal El Mansour,Compte à Vue,,2022-02-08,,
+Nadia Benjelloun,Portefeuille Titres,80000.0,2018-10-01,7.0,Reda Benjelloun
+Said El Yazidi,Assurance Chômage,20000.0,2021-04-05,2.0,Sara El Yazidi
+Khadija El Fassi,PERCO,70000.0,2017-07-20,5.0,Hicham El Fassi
+Mehdi El Fakir,Compte Titres,180000.0,2018-03-15,,Sara El Fakir
+Samira Benmoussa,Assurance Vieillesse,25000.0,2021-01-26,1.0,Rachid Benmoussa
+Yassine El Mansouri,Service Bancaire,,2022-04-30,,
+Hanane Chakir,Assurance Responsabilité Civile,30000.0,2020-06-01,2.0,Karim Chakir
+Ali El Morabit,Prêt Personnel,15000.0,2021-08-14,2.0,Nadia El Morabit
+Sanaa Baraka,Plan Retraite Madelin,45000.0,2019-04-18,7.0,Hicham Baraka
+Amina Labied,Epargne Handicap,20000.0,2021-09-30,1.0,Abderrahim Labied
+Said El Aamrani,Compte Sur Livret,50000.0,2018-11-07,6.0,Nawal El Aamrani
+Imane Essaadi,Compte à Rebours,70000.0,2017-12-03,5.0,Rachid Essaadi
+Mehdi El Khattabi,Assurance Dommages,25000.0,2020-09-14,1.0,Naima El Khattabi
+Oumaima El Ouazzani,Livret d'Epargne,60000.0,2019-01-28,,Faycal El Ouazzani
+Hicham El Amrani,PEI,30000.0,2020-05-25,3.0,Khadija El Amrani
+Sara El Harrak,Compte à Prime,45000.0,2019-02-21,4.0,Yassin El Harrak
+Karim Chaoui,Assurance Professionnelle,20000.0,2021-05-10,2.0,Fatima Chaoui

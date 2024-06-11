@@ -1,0 +1,51 @@
+service_id,service_name,description,fees
+1,Ouverture de compte courant,Ouverture d'un compte courant avec des avantages exclusifs,"Gratuit pour les étudiants, Frais de dossier: 50 DH"
+2,Prêt personnel,Prêt personnel pour financer tous vos projets,Taux d'intérêt compétitif en fonction du montant emprunté
+3,Carte bancaire internationale,Carte Mastercard pour vos paiements internationaux,Frais annuels: 200 DH
+4,Virement international,Effectuez des transferts d'argent à l'international,Frais de virement: Variable en fonction du montant et de la destination
+5,Assurance habitation,Assurez votre domicile avec notre assurance complète,Prime d'assurance mensuelle variable
+6,Epargne programme,Programme d'épargne avec des taux avantageux,"Pas de frais de gestion, Taux d'intérêt attractif"
+7,Crédit immobilier,Financement pour l'acquisition de votre résidence principale,Taux fixe ou variable selon le choix du client
+8,Retrait sans carte,Retirez de l'argent sans votre carte bancaire,Service gratuit pour les clients de la banque
+9,Assistance juridique,Service d'aide juridique pour nos clients,Frais d'assistance à la demande
+10,Investissement en bourse,Conseils et accompagnement pour investir en bourse,Frais de courtage en fonction des opérations
+11,E-banking,Gérez vos comptes en ligne en toute sécurité,"Accès gratuit, frais de transaction standards"
+12,Espèces en devises,Obtenez des espèces dans diverses devises,Frais de change applicables
+13,Assurance voyage,Assurez vos voyages avec notre couverture complète,Prime d'assurance selon la durée et la destination
+14,Alertes SMS,Recevez des alertes sur votre compte par SMS,Service gratuit pour tous les clients
+15,Paiement mobile,Effectuez des paiements en toute simplicité via votre mobile,Aucuns frais pour les petites transactions
+16,Planification financière,Consultations d'experts pour une planification financière optimale,Honoraires de conseil personnalisés
+17,Assurance automobile,Assurez votre véhicule avec une couverture adaptée,Prime d'assurance annuelle variable
+18,Courtage immobilier,Trouvez la propriété idéale avec notre service de courtage,Commission sur la transaction conclue
+19,Financement de projets,Obtenez des fonds pour concrétiser vos projets,Conditions de financement selon le projet
+20,Simulateurs en ligne,Utilisez nos simulateurs pour estimer vos crédits et épargnes,Accès gratuit pour tous les utilisateurs
+21,Assurance santé,Protégez votre santé et celle de votre famille,Cotisation mensuelle en fonction de la formule choisie
+22,Solutions de paiement,Solutions de paiement adaptées aux entreprises,Frais de gestion selon le volume des transactions
+23,Prévoyance retraite,Préparez votre retraite sereinement avec notre plan de prévoyance,Cotisations et avantages fiscaux avantageux
+24,Gestion de trésorerie,Optimisez la gestion de votre trésorerie avec nos services dédiés,Frais de gestion personnalisés
+25,Conseils patrimoniaux,Consultations pour une gestion efficace de votre patrimoine,Honoraires de conseil selon les services demandés
+26,Crédit revolving,Obtenez une réserve d'argent renouvelable selon vos besoins,Taux révisable en fonction des remboursements
+27,Assistance en ligne,Support en ligne pour toutes vos demandes bancaires,Service d'assistance gratuit pour tous les clients
+28,Paiement sécurisé,Transactions en ligne sécurisées avec notre système de paiement,Service de paiement sécurisé inclus dans les transactions
+29,Location de coffre-fort,Louez un coffre-fort pour la protection de vos biens précieux,Tarifs de location selon la taille du coffre et la durée
+30,Solutions e-commerce,Solutions de paiement en ligne pour les commerçants,Frais de transaction selon le volume de ventes
+31,Assurance scolaire,Assurez la scolarité de vos enfants en toute tranquillité,Prime d'assurance annuelle selon le niveau de couverture
+32,Gestion de compte,Service de gestion déléguée de votre compte bancaire,Honoraires de gestion en fonction des services choisis
+33,Assurance décès,Assurance pour protéger vos proches en cas de décès,Cotisation mensuelle en fonction du capital garanti
+34,Financement études,Crédit étudiant pour financer vos études supérieures,Conditions avantageuses pour les étudiants
+35,Service de change,Echangez vos devises étrangères en toute sécurité,Frais de change compétitifs
+36,Assistance dépannage,Assistance en cas de panne automobile ou domestique,Frais d'intervention en fonction du service demandé
+37,Assurance vie,Assurance vie pour protéger votre famille et préparer l'avenir,Cotisation mensuelle selon le montant assuré
+38,Crédit auto,Prêt automobile pour l'achat d'un véhicule neuf ou d'occasion,Taux d'intérêt attractif et options de remboursement flexibles
+39,Conseils fiscaux,Consultations pour une optimisation de votre situation fiscale,Honoraires de conseil adaptés à chaque situation
+40,Service suivi crédit,Suivi personnalisé de vos crédits et conseils pour leur gestion,Service gratuit pour tous les clients de la banque
+41,Epargne retraite,Constituez une épargne pour préparer votre retraite en toute sérénité,Taux d'intérêt avantageux et avantages fiscaux
+42,Assurance juridique,Assistance juridique en cas de litiges ou contentieux,Cotisation mensuelle selon le niveau de couverture choisi
+43,Paiement par NFC,Paiements rapides et sécurisés via la technologie NFC,Gratuit pour les transactions de faible montant
+44,Crédit consommation,Prêt à la consommation pour réaliser tous vos projets personnels,Conditions attractives et réponse de principe rapide
+45,Gestion de titres,Gérez vos titres en toute simplicité avec nos experts en finance,Frais de gestion en fonction du portefeuille
+46,Eco-prêt,Prêt à taux zéro pour financer des travaux de rénovation énergétique,Aucuns intérêts à rembourser sous certaines conditions
+47,Service succession,Accompagnement pour la gestion et le règlement de successions,Frais de service proportionnels à la succession traitée
+48,Assurance entreprise,Assurance multirisque pour protéger votre entreprise,Cotisation annuelle en fonction du chiffre d'affaires
+49,Gestion de patrimoine,Gestion personnalisée de votre patrimoine avec nos experts,Honoraires de gestion adaptés à votre situation
+50,Service clients dédié,Service clientèle disponible pour répondre à toutes vos questions,Service gratuit pour tous les clients de la banque

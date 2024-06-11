@@ -1,0 +1,51 @@
+,id,client_nom,client_cin,montant_loyer,date_paiement,type_paiement
+0,1,Ahmed El Kaoui,AB12345,4000,2022-01-05,Virement
+1,2,Fatima Boutaleb,CD67890,3500,2022-01-10,Prelevement
+2,3,Hassan Berrada,EF12345,2800,2022-01-15,Especes
+3,4,Sara Kabbaj,GH23456,4200,2022-01-20,Cheque
+4,5,Youssef Amrani,IJ78901,3100,2022-01-25,Virement
+5,6,Nadia Mansour,KL34567,3800,2022-01-30,Prelevement
+6,7,Mehdi Ait Benali,MN89012,2900,2022-02-05,Virement
+7,8,Fadwa El Joundi,OP45678,2500,2022-02-10,Cheque
+8,9,Karim Bouzid,QR90123,3400,2022-02-15,Especes
+9,10,Amina Othmani,ST56789,4100,2022-02-20,Virement
+10,11,Khalid Benjelloun,UV23456,3000,2022-02-25,Prelevement
+11,12,Naoual Lahmidi,WX78901,2700,2022-03-01,Cheque
+12,13,Yassine Hasnaoui,YZ34567,3900,2022-03-05,Especes
+13,14,Hanaa Rami,AB89012,2950,2022-03-10,Virement
+14,15,Samir Hajji,CD45678,3450,2022-03-15,Prelevement
+15,16,Salma Benmoussa,EF90123,4080,2022-03-20,Especes
+16,17,Fouad El Majdoub,GH56789,2820,2022-03-25,Cheque
+17,18,Zhor Bensaid,IJ23456,3180,2022-03-30,Virement
+18,19,Anas El Amrani,KL78901,3720,2022-04-05,Prelevement
+19,20,Loubna El Khattabi,MN34567,2920,2022-04-10,Especes
+20,21,Rachid El Moubarki,OP90123,3980,2022-04-15,Cheque
+21,22,Khadija Boucheta,QR56789,2750,2022-04-20,Virement
+22,23,Omar El Khoury,ST23456,4040,2022-04-25,Prelevement
+23,24,Imane Naciri,UV78901,3220,2022-04-30,Especes
+24,25,Mohamed El Guerrouj,WX34567,3650,2022-05-05,Cheque
+25,26,Karima Bouhaddi,YZ90123,3330,2022-05-10,Virement
+26,27,Nabil El Alaoui,AB56789,2880,2022-05-15,Prelevement
+27,28,Rita Boujemaa,CD23456,3810,2022-05-20,Especes
+28,29,Younes El Harrak,EF78901,2740,2022-05-25,Cheque
+29,30,Amina Rhaouti,GH34567,2950,2022-05-30,Virement
+30,31,Kamal El Kadiri,IJ90123,3180,2022-06-05,Prelevement
+31,32,Meryem Bendaoud,KL56789,3400,2022-06-10,Especes
+32,33,Hamza El Adlouni,MN23456,3850,2022-06-15,Cheque
+33,34,Sara Benjelloun,OP78901,3350,2022-06-20,Virement
+34,35,Ilyass El Moudden,QR34567,2950,2022-06-25,Prelevement
+35,36,Latifa Bousfiha,ST90123,4020,2022-06-30,Especes
+36,37,Ahmed El Haddad,UV56789,3900,2022-07-05,Cheque
+37,38,Leila Bennis,WX23456,3450,2022-07-10,Virement
+38,39,Said El Fassih,YZ78901,3700,2022-07-15,Prelevement
+39,40,Nadia Chraibi,AB45678,2850,2022-07-20,Especes
+40,41,Tarik El Moutia,CD12345,4100,2022-07-25,Cheque
+41,42,Aziza El Moumni,EF67890,2980,2022-07-30,Virement
+42,43,Lamia El Yacoubi,GH23456,3280,2022-08-05,Prelevement
+43,44,Anas El Kadiri,IJ78901,3530,2022-08-10,Especes
+44,45,Nawal Ammari,KL34567,3940,2022-08-15,Cheque
+45,46,Yassin El Maghraoui,MN90123,2980,2022-08-20,Virement
+46,47,Zakaria Belghiti,OP56789,3250,2022-08-25,Prelevement
+47,48,Soukaina Hazim,QR23456,3710,2022-08-30,Especes
+48,49,Khalid Benhima,ST78901,4030,2022-09-05,Cheque
+49,50,Hiba El Khatib,UV34567,3100,2022-09-10,Virement

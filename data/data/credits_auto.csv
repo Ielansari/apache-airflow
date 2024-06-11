@@ -1,0 +1,41 @@
+,client,profession,salaire_mensuel,montant_pret,taux_interet,duree_mois
+0,Fatima Zahra Ali,Enseignante,12000,150000,8.0,48
+1,Hicham Moussaoui,Ingenieur,20000,250000,7.5,60
+2,Amina Benjelloun,Medecin,35000,400000,6.0,72
+3,Yassin El Mardi,Avocat,28000,300000,7.0,60
+4,Khadija Amrani,Journaliste,15000,200000,8.5,48
+5,Adnan Chakir,Architecte,18000,220000,7.75,60
+6,Nawal Tazi,Pharmacienne,25000,280000,6.5,72
+7,Omar Sebbar,Pilote,40000,500000,6.0,84
+8,Mariam Oulhaj,Ingenieure Agronome,22000,270000,7.25,60
+9,Ahmed Ridaoui,Dentiste,30000,350000,7.0,72
+10,Sanaa Jabali,Consultante,27000,320000,7.5,72
+11,Khalid Lahlou,Directeur Marketing,40000,450000,6.5,84
+12,Loubna Ait Baamrane,Notaire,32000,380000,6.75,72
+13,Mehdi Agourram,Comptable,18000,210000,8.0,60
+14,Hakima El Amrani,Phytotherapeute,24000,300000,7.25,72
+15,Tarik Jabiri,Infirmier,15000,180000,8.5,48
+16,Hind Slaoui,Avocate,23000,260000,7.75,60
+17,Anas El Khattabi,Graphiste,16000,190000,8.0,48
+18,Rachida Fikri,Gerante de Spa,28000,320000,6.75,72
+19,Wassim Harmach,Ingenieur Civil,25000,290000,7.25,60
+20,Chaimae Benaicha,Consultante RH,30000,350000,7.0,72
+21,Youssef El Kanouni,Pilote de Chasse,45000,500000,6.0,84
+22,Imane Louzani,Archeologue,20000,240000,7.75,60
+23,Saad Benchellal,Nutritionniste,21000,250000,7.5,72
+24,Leila Boulkaid,Traductrice,18000,210000,8.0,60
+25,Abdelkrim Fassi,Chef Cuisinier,30000,350000,6.5,72
+26,Rania El Khaoulani,Styliste,25000,290000,7.25,60
+27,Mouad Raissi,Acteur,35000,400000,6.0,84
+28,Soukaina Ramzi,Psychologue,22000,260000,8.0,60
+29,Karim Bounaim,Web Developpeur,18000,220000,7.75,60
+30,Sara El Hamidi,Cheffe Projet,28000,320000,6.75,72
+31,Khalil Bouabid,CEO,45000,500000,6.0,84
+32,Nadia El Ghaouti,Developpeuse Mobile,25000,290000,7.25,60
+33,Hicham Bouchentouf,Scenariste,21000,250000,7.5,72
+34,Samira El Idrissi,Chef de Projet IT,30000,350000,7.0,72
+35,Hamza Lahlou,Architecte dInterieur,23000,270000,7.25,60
+36,Imane Harb,Designer,20000,240000,7.75,60
+37,Oussama Ben Malek,Consultant Financier,32000,370000,6.5,72
+38,Hiba Berrada,Redactrice en Chef,26000,300000,7.0,72
+39,Brahim El Khamlichi,Directeur Ressources Humaines,38000,440000,6.5,84

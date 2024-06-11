@@ -1,0 +1,51 @@
+,id,type_risque,description,niveau,date_creation
+0,1,Credit,Client avec historique de paiement irregulier,Eleve,2021-10-15
+1,2,Fraude,Transactions suspectes sur le compte,Moyen,2021-11-02
+2,3,Blanchiment dargent,Depots non justifies de fonds importants,Eleve,2021-09-25
+3,4,Cybercriminalite,Tentative dacces non autorise aux donnees des clients,Moyen,2021-12-06
+4,5,Taux de defaut,Augmentation du nombre de prets non rembourses,Eleve,2021-08-19
+5,6,Conformite reglementaire,Non-respect des normes anti-blanchiment,Eleve,2021-07-30
+6,7,Operations douteuses,Transactions mysterieuses entre comptes,Moyen,2021-11-11
+7,8,Insolvabilite,Client en situation financiere difficile,Moyen,2021-10-08
+8,9,Rupture de stock,Manque de fonds disponibles pour les retraits,Faible,2021-12-24
+9,10,Vol didentite,Utilisation frauduleuse des informations dun client,Eleve,2021-09-13
+10,11,Vol de cartes bancaires,Utilisation frauduleuse des cartes volees,Eleve,2021-05-30
+11,12,Contrefacon,Depot de cheques falsifies,Moyen,2021-06-17
+12,13,Litiges clients,Conflits non resolus avec les clients,Moyen,2021-08-03
+13,14,Force majeure,Evenements imprevus affectant les operations,Faible,2021-07-21
+14,15,Pertes financieres,Chute des placements financiers,Eleve,2021-11-19
+15,16,Terrorisme financier,Utilisation illegale des fonds pour des activites terroristes,Eleve,2021-10-01
+16,17,Falsification des documents,Presentation de documents falsifies pour obtenir un credit,Moyen,2021-12-14
+17,18,Exploitation miniere illicite,Financement de projets miniers illegaux,Eleve,2021-09-07
+18,19,Escroquerie en ligne,Fraudes via les plateformes numeriques,Moyen,2021-11-28
+19,20,Defaillance de linfrastructure,Pannes repetees des systemes informatiques,Moyen,2021-06-29
+20,21,Abus de pouvoir,Manque de transparence dans les decisions cles,Moyen,2021-08-11
+21,22,Conflits dinterets,Prises de decision favorisant des parties liees,Moyen,2021-10-27
+22,23,Crise economique,Ralentissement global de lactivite financiere,Eleve,2021-12-02
+23,24,Degradation de limage,Publicite negative affectant la reputation de la banque,Moyen,2021-09-17
+24,25,Non-conformite fiscale,Non-respect des obligations fiscales,Moyen,2021-10-22
+25,26,Non-respect de la vie privee,Violation de la confidentialite des donnees des clients,Eleve,2021-08-05
+26,27,Contournement des regles,Manipulation des controles internes pour eviter les verifications,Moyen,2021-07-26
+27,28,Defaillance des partenaires,Problemes operationnels chez les partenaires externes,Moyen,2021-11-14
+28,29,Crise politique,Instabilite politique impactant leconomie du pays,Eleve,2021-05-10
+29,30,Sabotage interne,Actions intentionnelles pour nuire a la banque,Eleve,2021-04-01
+30,31,Defaillance des systemes,Panique des serveurs entrainant une interruption des services en ligne,Moyen,2021-12-30
+31,32,Corruption,Pratiques illegales pour obtenir des avantages indus,Eleve,2021-09-20
+32,33,Contrebande,Transfert illegal de fonds a letranger,Eleve,2021-11-21
+33,34,Rupture de contrat,Non-respect des engagements contractuels,Moyen,2021-08-15
+34,35,Restructuration interne,Changements importants dans lorganigramme de la banque,Moyen,2021-10-10
+35,36,Desastres naturels,Catastrophes naturelles affectant les operations bancaires,Eleve,2021-06-03
+36,37,Non-respect des reglementations,Infractions aux lois et aux normes en vigueur,Moyen,2021-12-18
+37,38,Pertes operationnelles,Erreurs internes provoquant des pertes financieres,Moyen,2021-09-02
+38,39,Inflation,Augmentation continue des prix impactant leconomie,Eleve,2021-11-25
+39,40,Speculation,Prises de position risquees sur les marches financiers,Moyen,2021-07-12
+40,41,Faillite client,Incapacite dun client a honorer ses engagements financiers,Eleve,2021-10-18
+41,42,Conflits sociaux,Greves et manifestations perturbant les activites bancaires,Eleve,2021-05-28
+42,43,Responsabilite juridique,Engagements legaux non respectes entrainant des poursuites,Moyen,2021-08-22
+43,44,Tentatives dextorsion,Demandes de paiement en menacant de divulguer des informations sensibles,Moyen,2021-10-29
+44,45,Scandales financiers,Revelations compromettantes sur les pratiques bancaires,Eleve,2021-06-14
+45,46,Credibilite des informations,Doutes sur lexactitude des donnees financieres communiquees,Moyen,2021-04-05
+46,47,Gestion des liquidites,Difficultes a couvrir les retraits des clients en especes,Faible,2021-12-22
+47,48,Pression concurrentielle,Concurrence accrue dans le secteur bancaire,Moyen,2021-09-12
+48,49,Manipulation des marches,Pratiques illegales pour influencer les prix des actifs financiers,Eleve,2021-11-16
+49,50,Defaut de gouvernance,Manque de transparence et dethique dans la gestion de la banque,Eleve,2021-07-07

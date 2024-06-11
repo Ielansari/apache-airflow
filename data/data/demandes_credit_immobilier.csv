@@ -1,0 +1,41 @@
+,num_demande,date_demande,client_nom,client_profession,montant_demande,apport_personnel,status
+0,DCI2021050001,2021-05-03,Khalid El Mahi,Ingenieur en Genie Civil,8000000,2000000,En attente
+1,DCI2021050002,2021-05-05,Aicha Benjelloun,Medecin,5000000,1500000,Approuvee
+2,DCI2021050003,2021-05-10,Sami Berrada,Architecte,10000000,3000000,Refusee
+3,DCI2021050004,2021-05-12,Nadia Amrani,Cadre Bancaire,6500000,1800000,En attente
+4,DCI2021050005,2021-05-15,Yassine Fassi,Entrepreneur,12000000,2500000,En cours detude
+5,DCI2021050006,2021-05-18,Sara Maalouf,Avocat,9000000,2200000,Approuvee
+6,DCI2021050007,2021-05-20,Karim El Haddadi,Immobilier,7000000,1500000,Refusee
+7,DCI2021050008,2021-05-22,Nawal Chraibi,Consultante,8500000,2000000,En attente
+8,DCI2021050009,2021-05-25,Adil Ezzar,Chef de Projet,11000000,2800000,En cours detude
+9,DCI2021050010,2021-05-28,Salma Fakir,Professeur,6000000,1700000,Approuvee
+10,DCI2021060011,2021-06-03,Mohamed Akhouad,Entrepreneur,9500000,2400000,En attente
+11,DCI2021060012,2021-06-05,Amina Lahrichi,Infirmiere,7500000,1900000,Refusee
+12,DCI2021060013,2021-06-10,Omar Hafid,Architecte,10500000,2700000,En cours detude
+13,DCI2021060014,2021-06-12,Fatima Zouhair,Freelancer,6800000,1600000,Approuvee
+14,DCI2021060015,2021-06-15,Youssef El Alaoui,Notaire,11500000,2900000,Refusee
+15,DCI2021060016,2021-06-18,Soukaina Marhoum,Cadre Marketing,8200000,2100000,En attente
+16,DCI2021060017,2021-06-20,Amir Boulaghlimat,Commercant,7200000,1600000,En cours detude
+17,DCI2021060018,2021-06-22,Houda Tazi,Enseignante,9200000,2300000,Approuvee
+18,DCI2021060019,2021-06-25,Ismail Chakir,Cadre Financier,12500000,3000000,Refusee
+19,DCI2021060020,2021-06-28,Yasmina Cherkaoui,Architecte,6300000,1800000,Approuvee
+20,DCI2021070021,2021-07-03,Amine Kassimi,Ingenieur Informatique,9700000,2600000,En attente
+21,DCI2021070022,2021-07-05,Kenza El Mansouri,Pilote de Ligne,7800000,2000000,Refusee
+22,DCI2021070023,2021-07-10,Wassim Bennis,Journaliste,10700000,2800000,En cours detude
+23,DCI2021070024,2021-07-12,Dounia Zeroual,Entrepreneuse,7000000,1800000,Approuvee
+24,DCI2021070025,2021-07-15,Ahmed El Mir,Avocat,11800000,3000000,Refusee
+25,DCI2021070026,2021-07-18,Layla El Fassi,Artiste,8300000,2100000,En attente
+26,DCI2021070027,2021-07-20,Ayoub Harrak,Cadre Commercial,7300000,1600000,En cours detude
+27,DCI2021070028,2021-07-22,Khadija Benmoussa,Consultante RH,9300000,2400000,Approuvee
+28,DCI2021070029,2021-07-25,Omar Arji,Entrepreneur,12300000,2900000,Refusee
+29,DCI2021070030,2021-07-28,Soukaina Abouzid,Ingenieure en Telecom,6400000,1900000,Approuvee
+30,DCI2021080031,2021-08-03,Rachid Berrada,Medecin,9600000,2500000,En attente
+31,DCI2021080032,2021-08-05,Houda El Alaoui,Avocate,7900000,2100000,Refusee
+32,DCI2021080033,2021-08-10,Hamza Sbai,Cadre Bancaire,10600000,2700000,En cours detude
+33,DCI2021080034,2021-08-12,Amina Zaoui,Professeure,6900000,1700000,Approuvee
+34,DCI2021080035,2021-08-15,Karim Lahcene,Architecte,12000000,3100000,Refusee
+35,DCI2021080036,2021-08-18,Nadia Ait Kaddour,Pilote,8500000,2200000,En attente
+36,DCI2021080037,2021-08-20,Yassine Berbich,Chef de Projet,7400000,1500000,En cours detude
+37,DCI2021080038,2021-08-22,Rita Haddouch,Journaliste,9600000,2300000,Approuvee
+38,DCI2021080039,2021-08-25,Sofia El Fassi,Designer,1260000,3000000,Refusee
+39,DCI2021080040,2021-08-28,Anas Bouaoud,Architecte,6500000,1800000,Approuvee

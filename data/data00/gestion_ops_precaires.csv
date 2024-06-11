@@ -1,0 +1,44 @@
+client,numero_compte,montant,date_operation,type_operation
+Ahmed Benali,789456123,1500,2021-07-15,Retrait
+Sofia El Mehdi,258741369,3500,2021-07-21,Versement
+Mustapha Touzani,147852369,2000,2021-07-18,Retrait
+Khadija Boudaoud,369852147,1000,2021-07-19,Versement
+Karim Ouali,123654789,500,2021-07-23,Retrait
+Nawal El Aarabi,987456321,3000,2021-07-26,Versement
+Rachid Zitouni,753951846,2500,2021-07-28,Retrait
+Fatima Amrani,654123789,1800,2021-07-22,Versement
+Youssef El Moussaoui,456789123,1200,2021-07-20,Retrait
+Hafsa Benmahjoub,369258147,2800,2021-07-24,Versement
+Ali El Alami,987654321,600,2021-07-25,Retrait
+Lina El Hadaoui,321456987,2200,2021-07-16,Versement
+Omar Laabich,852369741,1500,2021-07-27,Retrait
+Sara Boulahia,695237841,3500,2021-07-31,Versement
+Mohamed Abadi,478596231,1900,2021-07-29,Retrait
+Leila Fassi,123698547,1000,2021-08-03,Versement
+Khalid Khattabi,741852963,500,2021-08-01,Retrait
+Amina El Fassi,369147852,3000,2021-08-05,Versement
+Nadia Baroudi,852369147,2500,2021-08-07,Retrait
+Yassine Oufkir,264831975,1800,2021-08-02,Versement
+Imane Boukhari,963258741,1100,2021-08-04,Retrait
+Abdelaziz Rahmani,157369824,4000,2021-08-09,Versement
+Ines Lahmidi,698741235,700,2021-08-06,Retrait
+Fadwa Benjelloun,258147369,2400,2021-08-10,Versement
+Younes Bennani,987456123,1600,2021-08-13,Retrait
+Khouloud El Moutawakil,654321789,3500,2021-08-11,Versement
+Jamal El Amrani,369258741,2100,2021-08-15,Retrait
+Sanaa Bennis,123698745,1300,2021-08-12,Versement
+Mehdi El Guennouni,321654987,2600,2021-08-16,Retrait
+Nadia Boulahia,741852963,1900,2021-08-19,Versement
+Karima El Kadiri,789654123,1000,2021-08-17,Retrait
+Yassin El Haraki,852369147,3200,2021-08-21,Versement
+Sara Oualha,369874125,1500,2021-08-18,Retrait
+Imad Ennaciri,987456231,2700,2021-08-23,Versement
+Leila Zeroual,123698547,1400,2021-08-20,Retrait
+Kamal Echerradi,147852369,3300,2021-08-25,Versement
+Meryem Laaroussi,321456987,2000,2021-08-22,Retrait
+Rachida Rais,852369741,2800,2021-08-27,Versement
+Sofiane El Moutaouakil,963258741,1200,2021-08-24,Retrait
+Najlae El Alaoui,369852147,3500,2021-08-29,Versement
+Othmane Ziani,456987321,1700,2021-08-26,Retrait
+Yasmine El Fassi,789654123,2400,2021-08-31,Versement
+Youssef El Kassimi,852369147,2000,2021-09-02,Retrait

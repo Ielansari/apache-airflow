@@ -1,0 +1,51 @@
+id,nom_partenaire,domaine_activite,benefices,date_debut
+1,BMCE Bank,Services financiers,croissance des actifs,2020-05-12
+2,Attijariwafa Bank,Services bancaires,augmentation des revenus,2019-11-27
+3,Maroc Telecom,Télécommunications,distribution des services,2018-03-08
+4,ONCF,Transports,accès aux services bancaires,2017-06-14
+5,Office National de l'Électricité et de l'Eau Potable (ONEE),Énergie,paiement des factures en ligne,2016-09-30
+6,Enactus Maroc,Entreprenariat social,accompagnement des jeunes entrepreneurs,2021-02-19
+7,Coca-Cola Maroc,Boissons,programmes de fidélisation,2015-04-22
+8,Hôtel Marrakech,Tourisme,offres exclusives aux clients de la banque,2014-10-11
+9,Carrefour Maroc,Distribution,carte de fidélité commune,2013-12-05
+10,Université Cadi Ayyad,Enseignement supérieur,réductions pour les étudiants,2012-08-18
+11,Association Lalla Salma de lutte contre le cancer,Santé,campagnes de sensibilisation,2011-11-30
+12,Atlas Voyages,Agence de voyages,réservation de billets en ligne,2010-03-17
+13,Renault Maroc,Automobile,financement de voitures,2009-05-21
+14,Lydec,Eau et assainissement,paiement des factures,2008-09-28
+15,McDonald's Maroc,Restauration rapide,offres spéciales pour les clients de la banque,2007-11-14
+16,Yan & One,Parfumerie et cosmétique,remises exclusives,2006-06-02
+17,BestMark,Marketing,études de marché conjointes,2005-04-30
+18,SAP Maroc,Technologie de l'information,solutions de gestion innovantes,2004-12-19
+19,Royal Air Maroc,Transport aérien,réductions sur les billets d'avion,2003-08-08
+20,Aéroport de Marrakech-Menara,Gestion aéroportuaire,service VIP pour les clients de la banque,2002-07-24
+21,Association Bayti,Action sociale,soutien aux enfants défavorisés,2001-06-05
+22,Danone Maroc,Alimentation et nutrition,promotion de l'alimentation saine,2000-05-19
+23,P&G Maroc,Biens de consommation,remises sur les produits,1999-03-14
+24,Association SOS Villages d'Enfants Maroc,Enfance et protection sociale,parrainage d'enfants,1998-01-20
+25,L'Oréal Maroc,Produits de beauté,ateliers de beauté gratuits,1997-12-02
+26,Association TIBU Maroc,Jeunesse et sport,programmes sportifs pour les jeunes,1996-11-08
+27,Lalla Zoubida,Cuisine marocaine,initiation à la cuisine traditionnelle,1995-10-15
+28,Injaz Al-Maghrib,Éducation entrepreneuriale,formation à l'entrepreneuriat,1994-08-27
+29,Maison de la Photographie de Marrakech,Culture et patrimoine,expositions photographiques exclusives,1993-06-10
+30,Association L'Heure Joyeuse Maroc,Culture et éducation des enfants,animations pour enfants,1992-09-18
+31,Association Dar Si Hmad pour l'éducation et la culture,Culture amazighe,promotion de la culture berbère,1991-07-25
+32,Association Amis des musées de Marrakech,Promotion culturelle,visites guidées gratuites,1990-03-01
+33,Festival International du Film de Marrakech,Cinéma,séances VIP pour les clients de la banque,1989-11-11
+34,Maison de la Poésie de Marrakech,Littérature,ateliers de poésie,1988-02-05
+35,Association Racines,Patrimoine culturel,sauvegarde du patrimoine marocain,1987-10-30
+36,Festival Gnaoua et Musiques du Monde,Musique,accès exclusif aux concerts,1986-06-17
+37,Morocco Mall,Centre commercial,carte de fidélité spéciale,1985-08-23
+38,Jardin Majorelle,Art et botanique,tarifs réduits pour les clients de la banque,1984-12-01
+39,Institut Français de Marrakech,Culture française,cours de français gratuits,1983-04-11
+40,Centre Cinématographique Marocain,Cinéma national,avant-premières et projections exclusives,1982-07-19
+41,Association Argania Maroc,Environnement et développement durable,initiatives écologiques,1981-11-30
+42,Musée Yves Saint Laurent Marrakech,Mode et design,expositions privées pour les clients de la banque,1980-09-12
+43,Association Tamount,Développement local,projets communautaires,1979-08-04
+44,Maison de la Terre,Écologie,ateliers de sensibilisation à l'environnement,1978-10-21
+45,Association Essaouira-Mogador,Patrimoine et culture marocaine,préservation du patrimoine d'Essaouira,1977-06-08
+46,Dar Bellarj,Artisanat et culture,promotions sur l'artisanat local,1976-05-29
+47,Amal Association Marrakech,Formation professionnelle des femmes,insertion professionnelle des femmes en difficulté,1975-03-17
+48,Espace Culturel Douiria,Espace culturel,activités culturelles gratuites,1974-08-09
+49,Association Racine des Arts,Arts plastiques,ateliers d'art pour enfants,1973-12-27
+50,Festival des Arts Populaires de Marrakech,Culture populaire,workshops artistiques pour les habitants,1972-11-18

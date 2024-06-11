@@ -1,0 +1,43 @@
+,client,numero_compte,type_action,quantite,prix_unitaire,montant_total
+0,Zineb El Mernissi,ABC1234,Telecom,150,120.5,18075.0
+1,Amir Soussi,DEF5678,Finance,80,350.25,28020.0
+2,Leila Berrada,GHI9101,Technologie,100,180.75,18075.0
+3,Yassine Bennani,JKL1121,Energie,50,250.4,12520.0
+4,Amina Meziane,MNO3141,Immobilier,120,85.3,10236.0
+5,Khalid Harrouchi,PQR5161,Sante,70,195.6,13692.0
+6,Nadia Chaoui,STU7181,Transport,90,150.9,13581.0
+7,Rachid El Hafidi,VWX9201,Agroalimentaire,110,160.2,17622.0
+8,Salma Ferhati,YZA2231,Industrie,60,210.7,12642.0
+9,Kamal Zerouali,BCD4241,Automobile,140,115.35,16149.0
+10,Imane Abbassi,EFG6251,Commerce,75,175.45,13158.75
+11,Hicham Oulad,HIJ8261,Pharmaceutique,85,235.45,20012.25
+12,Sabrina Belkadi,KLM0271,Media,95,145.65,13836.75
+13,Achraf Slimani,NOP2281,Textile,65,195.35,12677.75
+14,Asmaa Maalouf,PQR3291,Construction,125,105.3,13162.5
+15,Omar Benslama,STU4301,Aeronautique,55,290.8,15944.0
+16,Rania Chakir,VWX5311,Cosmetique,115,125.4,14421.0
+17,Mohamed Dahmani,YZA6321,Assurance,145,110.35,16017.75
+18,Meryem El Majidi,BCD7331,Logistique,205,80.6,16513.0
+19,Anas Benjelloun,EFG8341,Tourisme,95,138.2,13129.0
+20,Fatima Zohra El Kharroubi,HIJ0351,Hotel,75,158.7,11902.5
+21,Abdelaziz El Meskini,KLM1361,Environnement,105,145.9,15319.5
+22,Nawal El Alami,NOP2371,Recyclage,65,210.45,13668.25
+23,Tarik Ait Sidi,PQR3381,Renouvelables,85,180.35,15329.75
+24,Laila Akkioui,STU4391,TIC,75,195.6,14670.0
+25,Hassan El Idrissi,VWX5401,Artisanat,95,158.75,15081.25
+26,Nada Mansouri,YZA6411,Art,85,175.6,14926.0
+27,Youssef Hamzaoui,BCD7421,Design,115,120.45,13851.75
+28,Nouha El Haouzi,EFG8531,Photo,75,190.3,14272.5
+29,Hicham Filali,HIJ0541,Cinema,95,145.2,13794.0
+30,Sara Benbella,KLM1651,Musique,65,225.6,14664.0
+31,Adil Bensaid,NOP2761,Danse,105,135.45,14172.75
+32,Mouna Rami,PQR3871,Theatre,95,140.75,13371.25
+33,Rida Oufkir,STU4981,Peinture,75,185.5,13912.5
+34,Lina Bakri,VWX5091,Sculpture,85,165.3,14050.5
+35,Othmane Chakir,YZA6101,Gastronomie,155,130.2,20166.0
+36,Nora Boujemaa,BCD7111,Vin,95,160.35,15233.25
+37,Sofia Hariri,EFG8121,Champagne,75,225.6,16920.0
+38,Hassan Zaz,HIJ9231,Brasserie,85,195.7,16634.5
+39,Malika Oufkir,KLM0341,Luxe,105,170.45,17897.25
+40,Yassin Mokhtar,NOP4271,Cuisine,65,215.3,13994.5
+41,Nadia Benaicha,PQR3281,Patissierie,105,140.25,14726.25

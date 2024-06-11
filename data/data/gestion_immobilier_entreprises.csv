@@ -1,0 +1,41 @@
+,nom_entreprise,adresse,responsable_immobilier,montant_loyer,statut_paiement
+0,Societe Marocaine de Distribution,"Avenue Hassan II, Casablanca",Fatima Zahra El Ouafi,25000,a jour
+1,Pharmacie Najat,"Rue Ibn Toumart, Rabat",Karim El Alami,18000,en retard
+2,Global Co.,"Lotissement El Massira, Tanger",Souad Benali,32000,a jour
+3,Laboratoire Biopharm,"Zone dactivites Yacoub El Mansour, Fes",Adil Berrada,28000,en retard
+4,Agence de Communication Alpha,"Rue des Entrepreneurs, Agadir",Nadia Oujabour,20000,a jour
+5,Industrie Metallurgique du Maroc,"Zone Industrielle Ain Harrouda, Casablanca",Mounir Ezzahi,35000,a jour
+6,Clinique Al Amal,"Avenue Mohammed V, Marrakech",Leila Ait Melloul,30000,en retard
+7,Ecole Des Arts et Metiers,"Km 7, Route dEl Jadida, Casablanca",Samir El Majdouli,22000,a jour
+8,Societe des Eaux du Maroc,"Avenue des FAR, Rabat",Amina El Khattabi,27000,en retard
+9,Boulangerie Patisserie Le Fournil,"Rue Ibn Rochd, Tanger",Yassin Rida,19000,a jour
+10,Centre Commercial Les Arcades,"Avenue Mohamed VI, Agadir",Loubna Ben Youssef,26000,en retard
+11,Societe de Transport Rapide,"Bir Rami Est, Tetouan",Khalid El Bakkali,24000,a jour
+12,Cabinet Dentaire DentistOne,"Rue Oued NFis, Marrakech",Hanane Chafik,32000,a jour
+13,Industrie Textile Mediterranee,"Zone Industrielle Sidi Bernoussi, Casablanca",Reda Ezzouine,28000,en retard
+14,Agence de Voyages Atlas Tours,"Avenue Hassan II, Tanger",Hind Belyamani,18000,en retard
+15,Supermarche SuperTous,"Quartier Palmier, Rabat",Karima Benjelloun,30000,a jour
+16,Bureau dArchitecture et Urbanisme,"Avenue des Nations Unies, Casablanca",Tarek Ouazzani,25000,a jour
+17,Institut de Formation Professionnelle IFP,"Lotissement Hay Riad, Sale",Salma Sebbar,22000,a jour
+18,Cabinet dExperts Comptables Maghrebin,"Rue Oued Sebou, Tanger",Rachid Lahbabi,28000,en retard
+19,Entreprise de Batiment et Travaux Publics,"Km 9, Route dEl Jadida, Casablanca",Mohamed Ait Ouhajjou,32000,a jour
+20,Librairie Papeterie Univers,"Avenue Hassan II, Fes",Sara El Gueddari,19000,en retard
+21,Hotel La Palmeraie,"Avenue Mohamed V, Marrakech",Nabil El Mouradi,35000,a jour
+22,Societe de Maintenance Informatique,"Rue des Orangers, Agadir",Imane Jabrane,24000,a jour
+23,Cabinet Medical Les Palmiers,"Avenue Mohammed VI, Tetouan",Othmane Harraq,26000,en retard
+24,Ecole Superieure dIngenierie et de Management,"Quartier Oasis, Casablanca",Amina Bennani,30000,en retard
+25,Centre de Reeducation Physique et Sportive,"Route dEl Jadida, Marrakech",Rachida El Omari,28000,en retard
+26,Societe de Distribution Alimentaire,"Avenue Hassan II, Fes",Youssef El Harras,23000,a jour
+27,Cabinet dAvocats Al Mouwatin,"Avenue des FAR, Rabat",Nadia Boujida,31000,a jour
+28,Agence de Design Interieur Interiore,"Boulevard Mohamed El Hansali, Tanger",Tarik El Fadli,21000,en retard
+29,Laboratoire dAnalyses Medicales BioMed,"Rue Ibn Rochd, Tetouan",Salima Azzouzi,29000,a jour
+30,Institut de Beaute Symphonie des Sens,"Avenue Mohammed VI, Casablanca",Sofia El Khalfi,27000,en retard
+31,Ecole de Musique Harmonie,"Boulevard Hassan II, Agadir",Omar Ezzine,22000,a jour
+32,Magasin de Chaussures Pieds Heureux,"Avenue Mohammed V, Marrakech",Fatima Sabri,27000,en retard
+33,Societe de Nettoyage et Entretien Propre Atout,"Quartier Palmier, Rabat",Lahcen Bouslam,30000,a jour
+34,Agence de Publicite Publigraph,"Km 7, Route dEl Jadida, Casablanca",Fouad Bouchaib,23000,a jour
+35,Cafe-Restaurant Les Oliviers,"Avenue Mohamed V, Fes",Nora El Kabbaj,26000,en retard
+36,Bureau dEtudes Architecturales MarocConception,"Rue des Orangers, Agadir",Yassine Benjelloun,32000,a jour
+37,Chaine de Television Atlantic TV,"Avenue des Nations Unies, Casablanca",Wissam Berrada,31000,a jour
+38,Laboratoire de Recherche Scientifique AtlasLab,"Km 5, Route de lOcean, Essaouira",Hanaa Zouit,28000,en retard
+39,Societe dImport-Export MedMAG,"Avenue Hassan II, Tanger",Imad Lahbabi,24000,a jour

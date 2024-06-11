@@ -1,0 +1,41 @@
+num_certificat,nom_client,date_ouverture,montant,type_garantie
+1001,Said Ait Baha,2022-01-05,75000,Immobilier
+1002,Nadia El Majidi,2022-02-10,50000,Voiture
+1003,Ali Benjelloun,2022-03-15,120000,Entreprise
+1004,Fatima Zahra Fassi,2022-04-20,90000,Matériel Agricole
+1005,Youssef El Haddad,2022-06-25,60000,Stock de Marchandises
+1006,Amina Boukhobza,2022-07-30,100000,Immobilier
+1007,Khalid El Fassi,2022-09-05,80000,Voiture
+1008,Salma Ait Bahmad,2022-10-10,70000,Matériel Informatique
+1009,Omar Ben Slimane,2022-11-15,110000,Entreprise
+1010,Loubna El Kabbaj,2022-12-20,95000,Matériel Médical
+1011,Yassin Lahjouji,2023-01-25,70000,Immobilier
+1012,Nawal El Baraka,2023-02-01,45000,Voiture
+1013,Mehdi Riffi,2023-03-10,115000,Entreprise
+1014,Houda Boujemaa,2023-04-15,85000,Matériel Électrique
+1015,Karim Fikri,2023-05-20,60000,Stock de Produits
+1016,Samira Alami,2023-06-25,105000,Immobilier
+1017,Jaouad El Moussaoui,2023-07-30,75000,Voiture
+1018,Latifa Bouchra,2023-09-05,50000,Matériel Industriel
+1019,Mohammed Benkhaldoun,2023-10-10,95000,Entreprise
+1020,Hafsa El Khiati,2023-11-15,80000,Matériel Médical
+1021,Hamza Hanaoui,2023-12-20,70000,Immobilier
+1022,Asmaa El Hamdi,2024-01-25,48000,Voiture
+1023,Youssef Amrani,2024-02-29,120000,Entreprise
+1024,Rania Bennis,2024-03-05,90000,Matériel de Construction
+1025,Ahmed Mansouri,2024-04-10,65000,Stock de Marchandises
+1026,Sara El Gharbaoui,2024-05-15,110000,Immobilier
+1027,Kamal El Alami,2024-06-20,75000,Voiture
+1028,Aicha Chahid,2024-07-25,55000,Matériel Électrique
+1029,Nabil Bouderbala,2024-08-30,94000,Matériel Informatique
+1030,Fatiha El Khayati,2024-09-05,62000,Matériel Médical
+1031,Jamal Chaoui,2024-10-10,76000,Immobilier
+1032,Nora El Omari,2024-11-15,49000,Voiture
+1033,Hicham El Khattabi,2024-12-20,98000,Entreprise
+1034,Safia Haoud,2025-01-25,60000,Matériel de Boulangerie
+1035,Karima El Mansouri,2025-02-28,115000,Stock de Produits
+1036,Abdellah Essafi,2025-03-05,79000,Immobilier
+1037,Rim El Filali,2025-04-09,55000,Voiture
+1038,Othmane El Azzouzi,2025-05-15,92000,Entreprise
+1039,Selma Boughaba,2025-06-19,63000,Matériel de Restauration
+1040,Ayoub El Mountassir,2025-07-25,72000,Matériel Informatique

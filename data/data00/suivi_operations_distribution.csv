@@ -1,0 +1,52 @@
+numero_operation,date_operation,type_operation,beneficiaire,montant,statut
+89451230,2022-02-10,Virement,Maroc Telecom,2500,Réussie
+74125896,2022-02-10,Retrait,Client X,500,Réussie
+36987412,2022-02-11,Paiement,ONCF,150,En cours
+78541236,2022-02-11,Virement,Client Y,750,Réussie
+63258741,2022-02-12,Prélèvement,EDF,200,Réussie
+14523698,2022-02-13,Paiement,Société ABC,300,Réussie
+96587412,2022-02-13,Retrait,Client Z,1000,En attente
+78965423,2022-02-14,Virement,Famille A,1200,Réussie
+12369874,2022-02-14,Paiement,Café 123,80,Réussie
+45698712,2022-02-15,Virement,Ami B,950,Réussie
+87459632,2022-02-15,Retrait,Client Y,300,Réussie
+36987452,2022-02-16,Paiement,École X,50,Réussie
+63258741,2022-02-16,Virement,Famille Z,700,En cours
+14523698,2022-02-17,Prélèvement,Lydec,180,Réussie
+96587412,2022-02-17,Virement,Ami C,300,En attente
+78965423,2022-02-18,Paiement,Restaurant XYZ,150,Réussie
+12369874,2022-02-18,Retrait,Client A,120,En attente
+45698712,2022-02-19,Virement,Client B,280,Réussie
+87459632,2022-02-19,Paiement,Pharmacie C,75,Réussie
+36987452,2022-02-20,Prélèvement,OCP,600,En cours
+63258741,2022-02-20,Virement,Famille Y,1500,En attente
+14523698,2022-02-21,Retrait,Client D,2000,Réussie
+96587412,2022-02-21,Virement,Client E,100,En attente
+78965423,2022-02-22,Paiement,Cinéma 123,45,Réussie
+12369874,2022-02-22,Virement,Ami D,60,En attente
+45698712,2022-02-23,Retrait,Client F,90,Réussie
+87459632,2022-02-23,Paiement,Salon de Thé,30,Réussie
+36987452,2022-02-24,Virement,Famille X,800,En cours
+63258741,2022-02-24,Prélèvement,RADEEMA,150,En attente
+14523698,2022-02-25,Paiement,Boulangerie Z,20,Réussie
+96587412,2022-02-25,Virement,Client G,170,En attente
+78965423,2022-02-26,Virement,Ami E,300,Réussie
+12369874,2022-02-26,Retrait,Client H,400,Réussie
+45698712,2022-02-27,Paiement,Docteur X,70,Réussie
+87459632,2022-02-27,Virement,Client I,500,Réussie
+36987452,2022-02-28,Prélèvement,Sonasid,950,En attente
+63258741,2022-02-28,Paiement,Boucherie Y,120,En attente
+14523698,2022-03-01,Retrait,Client J,600,Réussie
+96587412,2022-03-01,Virement,Ami F,250,En attente
+78965423,2022-03-02,Paiement,Salon de Coiffure,40,Réussie
+12369874,2022-03-02,Virement,Client K,300,En attente
+45698712,2022-03-03,Retrait,Client L,90,Réussie
+87459632,2022-03-03,Paiement,Restaurant ABC,30,Réussie
+36987452,2022-03-04,Virement,Famille V,800,En cours
+63258741,2022-03-04,Prélèvement,ONEE,150,En attente
+14523698,2022-03-05,Paiement,Boulangerie X,20,Réussie
+96587412,2022-03-05,Virement,Client M,170,En attente
+78965423,2022-03-06,Virement,Ami G,300,Réussie
+12369874,2022-03-06,Retrait,Client N,400,Réussie
+45698712,2022-03-07,Paiement,Docteur Y,70,Réussie
+87459632,2022-03-07,Virement,Client O,500,Réussie

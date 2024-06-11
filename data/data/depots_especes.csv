@@ -1,0 +1,51 @@
+,numero_transaction,date_depot,montant_depose,agence,nom_client
+0,TRX001,2021-09-15,500,Casablanca Corniche,Youssef Ben Ahmed
+1,TRX002,2021-09-16,800,Rabat Hay Riad,Amina El Mansouri
+2,TRX003,2021-09-17,1200,Marrakech Gueliz,Karim Zidane
+3,TRX004,2021-09-18,600,Fes Ville Nouvelle,Nadia Bouchra
+4,TRX005,2021-09-19,1000,Tanger Ville,Sofia Haddad
+5,TRX006,2021-09-20,700,Agadir Centre,Yassin Lahmad
+6,TRX007,2021-09-21,950,Oujda Medina,Samira Benchikh
+7,TRX008,2021-09-22,850,Dakhla Plage,Younes El Khaled
+8,TRX009,2021-09-23,1100,El Jadida Ancienne,Hind Boudar
+9,TRX010,2021-09-24,750,Tetouan Medina,Jamal Gharib
+10,TRX011,2021-09-25,1050,Essaouira Port,Salma Mernissi
+11,TRX012,2021-09-26,640,Meknes Ville Nouvelle,Anas Fassi
+12,TRX013,2021-09-27,920,Errachidia Oasis,Fadwa Zerouali
+13,TRX014,2021-09-28,870,Kenitra Plage,Nabil Hicham
+14,TRX015,2021-09-29,1300,Safi Corniche,Fatima Rami
+15,TRX016,2021-09-30,680,Tan-Tan Sahara,Khalid Meziane
+16,TRX017,2021-10-01,1150,Casablanca Racine,Laila Abbassi
+17,TRX018,2021-10-02,780,Rabat Hassan,Mehdi El Alami
+18,TRX019,2021-10-03,950,Marrakech Palmeraie,Aicha Drissi
+19,TRX020,2021-10-04,820,Fes Medina,Amal El Ouarzazi
+20,TRX021,2021-10-05,1080,Tanger Medina,Fares Benjelloun
+21,TRX022,2021-10-06,720,Agadir Plage,Ibtissam Alaoui
+22,TRX023,2021-10-07,990,Ouarzazate Oasis,Yassine Cherkaoui
+23,TRX024,2021-10-08,860,Taza Ville,Asmae Amrani
+24,TRX025,2021-10-09,1230,Dakhla Port,Adil Benna
+25,TRX026,2021-10-10,690,El Jadida Nouvelle,Rania Bouzar
+26,TRX027,2021-10-11,940,Tetouan Plage,Reda Choukri
+27,TRX028,2021-10-12,800,Essaouira Medina,Imane Darif
+28,TRX029,2021-10-13,1180,Meknes Medina,Omar Douiri
+29,TRX030,2021-10-14,760,Errachidia Centre,Samia El Fellous
+30,TRX031,2021-10-15,1040,Kenitra Ville,Hicham Fakir
+31,TRX032,2021-10-16,880,Safi Port,Nabila Hafid
+32,TRX033,2021-10-17,1350,Tan-Tan Plage,Mohammed Jaidi
+33,TRX034,2021-10-18,670,Casablanca Maarif,Sara Ait Taleb
+34,TRX035,2021-10-19,1160,Rabat Agdal,Ahmed El Moutawakil
+35,TRX036,2021-10-20,790,Marrakech Centre,Yasmine Gaber
+36,TRX037,2021-10-21,960,Fes Borj,Rachid Jamai
+37,TRX038,2021-10-22,830,Tanger Ville Nouvelle,Loubna El Fassi
+38,TRX039,2021-10-23,1120,Agadir Medina,Youness El Gharbi
+39,TRX040,2021-10-24,730,Oujda Centre,Hanae El Kaddouri
+40,TRX041,2021-10-25,1010,El Jadida Medina,Walid Zerhouni
+41,TRX042,2021-10-26,650,Tetouan Centre,Amina Kandil
+42,TRX043,2021-10-27,930,Essaouira Plage,Yassir Benjelloun
+43,TRX044,2021-10-28,880,Meknes Nouvelle,Ines Alaoui
+44,TRX045,2021-10-29,1280,Errachidia Medina,Brahim El Guerrouj
+45,TRX046,2021-10-30,670,Kenitra Medina,Zineb Haddioui
+46,TRX047,2021-10-31,1230,Safi Medina,Youssef Jabrane
+47,TRX048,2021-11-01,870,Tan-Tan Oasis,Nadia Kettani
+48,TRX049,2021-11-02,1160,Casablanca Centre,Mehdi El Mansour
+49,TRX050,2021-11-03,810,Rabat Souissi,Samira El Marzouki

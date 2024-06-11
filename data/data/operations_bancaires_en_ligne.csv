@@ -1,0 +1,43 @@
+,num_operation,type_operation,beneficiaire,montant,date_operation,statut
+0,1234567890,Virement,Ali Benmohammed,5000,2021-08-15,Effectue
+1,987654321,Recharge Telephone,Maroc Telecom,100,2021-08-16,En attente
+2,2345678901,Paiement Facture,ONEE,750,2021-08-17,Valide
+3,3456789012,Retrait,Client ABC,300,2021-08-18,En attente
+4,4567890123,Paiement en Ligne,E-commerce XYZ,1200,2021-08-19,Effectue
+5,5678901234,Virement,Fatima Zohra,2000,2021-08-20,Effectue
+6,6789012345,Recharge Carte Prepayee,Inwi,50,2021-08-21,Effectue
+7,7890123456,Paiement Loyer,Proprietaire XYZ,1500,2021-08-22,Valide
+8,8901234567,Virement,Mohamed Tazi,700,2021-08-23,En attente
+9,9012345678,Retrait,Client XYZ,200,2021-08-24,Effectue
+10,1098765432,Paiement en Ligne,Services SA,350,2021-08-25,Valide
+11,2109876543,Virement,Samira Lahbabi,950,2021-08-26,Effectue
+12,3210987654,Recharge Telephone,Orange,30,2021-08-27,Effectue
+13,4321098765,Paiement Facture,RADEEM,980,2021-08-28,Valide
+14,5432109876,Retrait,Client DEF,400,2021-08-29,En attente
+15,6543210987,Virement,Khalid Sbai,3000,2021-08-30,Effectue
+16,7654321098,Paiement Loyer,Agence Immobiliere ABC,2000,2021-08-31,Valide
+17,8765432109,Virement,Famille El Haddadi,1200,2021-09-01,Effectue
+18,9876543210,Recharge Carte Prepayee,Maroc Telecom,20,2021-09-02,Effectue
+19,1987654321,Paiement Facture,ONEE,550,2021-09-03,Valide
+20,2198765432,Retrait,Client GHI,600,2021-09-04,En attente
+21,3219876543,Paiement en Ligne,E-commerce ABC,800,2021-09-05,Effectue
+22,4321987654,Virement,Nadia El Alaoui,300,2021-09-06,Effectue
+23,5432198765,Recharge Telephone,Inwi,25,2021-09-07,Valide
+24,6543219876,Paiement Loyer,Proprietaire XYZ,1600,2021-09-08,Valide
+25,7654321987,Virement,Omar Tabba,4500,2021-09-09,En attente
+26,8765432198,Recharge Carte Prepayee,Orange,40,2021-09-10,Effectue
+27,9876543219,Paiement Facture,RADEEM,700,2021-09-11,Valide
+28,1098765432,Retrait,Client JKL,700,2021-09-12,Effectue
+29,2109876543,Virement,Famille Amrani,1200,2021-09-13,En attente
+30,3210987654,Paiement en Ligne,Services SA,250,2021-09-14,Effectue
+31,4321098765,Virement,Sara Bahmad,500,2021-09-15,Effectue
+32,5432109876,Recharge Telephone,Maroc Telecom,50,2021-09-16,Valide
+33,6543210987,Paiement Loyer,Agence Immobiliere Al Wataniya,1800,2021-09-17,Valide
+34,7654321098,Virement,Karim Chabbah,1700,2021-09-18,Effectue
+35,8765432109,Recharge Carte Prepayee,Inwi,30,2021-09-19,Effectue
+36,9876543210,Paiement Facture,ONEE,890,2021-09-20,Valide
+37,1098765432,Retrait,Client MNO,400,2021-09-21,En attente
+38,2109876543,Paiement en Ligne,E-commerce XYZ,600,2021-09-22,Effectue
+39,3210987654,Virement,Marie Lemoine,400,2021-09-23,Effectue
+40,4321098765,Recharge Telephone,Orange,70,2021-09-24,Valide
+41,5432198765,Paiement Loyer,Proprietaire ABC,1500,2021-09-25,Valide

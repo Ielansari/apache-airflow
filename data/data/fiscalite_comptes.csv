@@ -1,0 +1,11 @@
+,id,type_avantage,taux_imposition,date_application,description
+0,1,Exoneration des frais de tenue de compte,0.0,2020-01-01,Les frais de tenue de compte sont exemptes pour les comptes inactifs
+1,2,Reduction des frais de virement,0.0,2019-05-15,Les frais de virement sont reduits pour les virements vers des comptes du meme titulaire
+2,3,Exoneration de TVA sur les interets,0.0,2021-03-10,Les interets generes sur le compte depargne sont exoneres de TVA
+3,4,Reduction des frais de retrait,0.0,2018-11-20,Les frais de retrait aux distributeurs sont reduits pour les clients premium
+4,5,Deduction des interets demprunt,0.0,2017-09-03,Les interets demprunt pour lacquisition de la residence principale sont deductibles dimpot
+5,6,Avantage fidelite,0.0,2019-08-12,Une recompense est offerte aux clients fideles qui domicilient leurs revenus chez la banque
+6,7,Exoneration de frais de decouvert,0.0,2020-06-30,Les frais lies au decouvert autorise sont exoneres pour les comptes avec des revenus reguliers
+7,8,Reduction des frais de tenue de compte,0.0,2018-02-25,Les frais de tenue de compte sont reduits pour les etudiants
+8,9,Exemption des frais de cotisation,0.0,2021-01-15,Les frais de cotisation a la carte bancaire sont exemptes pour les clients premium
+9,10,Taux privilegie sur les prets immobiliers,0.0,2017-07-18,Des conditions speciales sont accordees aux clients de la banque pour les prets immobiliers

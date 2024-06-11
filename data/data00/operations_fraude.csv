@@ -1,0 +1,51 @@
+id_operation,date_operation,montant,description
+1,2021-08-05,7500,Transfert suspect à l'étranger
+2,2021-07-20,12000,Retrait frauduleux au distributeur
+3,2021-06-04,5000,Opération de phishing
+4,2021-09-12,9500,Carte bancaire volée
+5,2021-09-28,22000,Chèque falsifié
+6,2021-08-18,3500,Opération de blanchiment d'argent
+7,2021-07-02,9000,Virement frauduleux interne
+8,2021-10-09,6000,Usage abusif de la carte de crédit
+9,2021-11-15,15000,Escroquerie par hameçonnage
+10,2021-12-01,18000,Faux ordre de virement
+11,2021-06-22,3000,Contrefaçon de carte bancaire
+12,2021-08-30,10500,Transfert vers un compte bloqué
+13,2021-10-16,7500,Fausse déclaration d'identité
+14,2021-11-08,11500,Fraude à l'assurance vie
+15,2021-11-29,12500,Chèque sans provision
+16,2021-09-06,8000,Opération de hacking
+17,2021-07-15,4300,Escroquerie téléphonique
+18,2021-12-07,16500,Faux ordre permanent
+19,2021-06-10,7000,Extorsion de fonds
+20,2021-08-25,9500,Vol de portefeuille
+21,2021-11-18,22000,Virement frauduleux international
+22,2021-09-02,6800,Utilisation de faux documents
+23,2021-10-20,13500,Chèque volé
+24,2021-07-07,5800,Transfert vers un compte fantôme
+25,2021-06-14,9200,Tentative de paiement avec une carte bloquée
+26,2021-08-12,4400,Fraude à la carte de débit
+27,2021-09-24,9900,Chèque falsifié
+28,2021-12-15,11700,Virement vers un compte étranger suspect
+29,2021-11-01,13100,Harcèlement pour obtenir des informations confidentielles
+30,2021-10-09,6950,Détournement d'un paiement en ligne
+31,2021-08-22,8200,Vente fictive sur un site d'annonces
+32,2021-07-17,4500,Escroquerie en manipulant un distributeur automatique
+33,2021-06-26,7400,Aveu de faux revenus pour obtenir un prêt
+34,2021-09-14,9900,Usurpation d'identité pour ouvrir un compte
+35,2021-12-11,12300,Dépôt de faux billets
+36,2021-11-04,11150,Prêt obtenu avec de fausses informations
+37,2021-10-18,7900,Vol de données clients pour une fraude future
+38,2021-08-03,4700,Escroquerie par faux courriel de la banque
+39,2021-12-02,8200,Détournement de fonds d'une association
+40,2021-09-20,6600,Usage de fausse carte d'identité
+41,2021-10-27,9300,Achat avec une carte volée
+42,2021-06-30,5300,Virement d'un compte inactif depuis des années
+43,2021-08-05,9600,Transfert suspect à l'étranger
+44,2021-07-21,14600,Retrait frauduleux au distributeur
+45,2021-06-06,5200,Opération de phishing
+46,2021-09-14,9800,Carte bancaire volée
+47,2021-09-30,22500,Chèque falsifié
+48,2021-08-23,3700,Opération de blanchiment d'argent
+49,2021-07-06,9100,Virement frauduleux interne
+50,2021-10-11,6200,Usage abusif de la carte de crédit

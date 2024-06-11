@@ -1,0 +1,51 @@
+,id,produit_recommande,raison_recommandation,date_recommandation,client_concerne
+0,1,Fonds dinvestissement X,Potentiel de croissance eleve,2021-07-15,1001
+1,2,Compte epargne Y,Taux dinteret competitif,2021-06-25,1005
+2,3,Assurance vie Z,Avantages fiscaux attractifs,2021-08-02,1010
+3,4,Actions de lentreprise A,Bonne sante financiere de lentreprise,2021-09-18,1002
+4,5,Certificat de depot B,Placement a court terme securise,2021-05-30,1008
+5,6,OPCVM C,Diversification des investissements,2021-04-12,1012
+6,7,Plan depargne-logement D,Pret a taux avantageux pour lacquisition dun logement,2021-08-29,1007
+7,8,Or physique E,Protection contre linflation,2021-07-03,1003
+8,9,Titres de creance F,Rendement fixe et regulier,2021-09-07,1006
+9,10,SCI G,Investissement immobilier collectif,2021-06-14,1015
+10,11,Bons du Tresor H,Surete de linvestissement,2021-05-22,1019
+11,12,Compte-titres I,Accessibilite aux marches financiers,2021-08-11,1021
+12,13,PEA J,Reduction dimpots sur les plus-values,2021-07-17,1024
+13,14,SCPI K,Revenus fonciers attractifs,2021-09-30,1023
+14,15,SICAV L,Gestion professionnelle des actifs,2021-04-25,1018
+15,16,Cryptomonnaies M,Potentiel de valorisation rapide,2021-09-12,1022
+16,17,Contrat dassurance N,Protection financiere et familiale,2021-07-01,1025
+17,18,Fonds en euros O,Garantie du capital investi,2021-06-06,1004
+18,19,Crowdfunding P,Investissement participatif dans des projets,2021-08-03,1013
+19,20,Actions Q,Potentiel de plus-values sur le marche boursier,2021-05-21,1017
+20,21,PIER R,Placement immobilier dans lancien renove,2021-09-19,1011
+21,22,Compte courant S,Liquidite pour les besoins du quotidien,2021-07-28,1009
+22,23,Livret depargne T,Faible risque et disponibilite des fonds a tout moment,2021-06-15,1020
+23,24,SCA U,Investissement solidaire dans des entreprises,2021-08-22,1027
+24,25,Emprunts obligataires V,Financement des projets dentreprises,2021-05-09,1026
+25,26,Fonds structures W,Optimisation de la performance par une gestion specialisee,2021-04-08,1028
+26,27,Pension H I,Preparation de la retraite avec des revenus complementaires,2021-09-02,1029
+27,28,Compte sur carnet J,Possibilite de tirer des cheques et de disposer dune carte bancaire,2021-06-11,1030
+28,29,Orpaillage K,Investissement dans lexploitation miniere aurifere,2021-08-17,1031
+29,30,FCP du marche monetaire L,Placement securise et liquide,2021-07-14,1032
+30,31,Crowdlending M,Financement participatif de projets a forte rentabilite,2021-05-31,1033
+31,32,Derivatives N,Protection contre les fluctuations de marche,2021-09-04,1034
+32,33,CO2 Emissions Trading O,Participation a la transition ecologique,2021-08-27,1035
+33,34,Private Equity P,Investissement dans des societes non cotees en Bourse,2021-06-23,1036
+34,35,Art Investment Q,Valorisation patrimoniale et culturelle,2021-09-14,1037
+35,36,Green Bonds R,Financement de projets verts et durables,2021-07-09,1038
+36,37,Islamic Banking S,Conformite aux principes de la finance islamique,2021-06-18,1039
+37,38,Microfinance T,Soutien aux petits entrepreneurs et populations defavorisees,2021-09-21,1040
+38,39,Real Estate Investment U,Diversification du patrimoine par limmobilier,2021-05-28,1041
+39,40,Technology Sector V,Potentiel de croissance dans les entreprises technologiques,2021-08-25,1042
+40,41,Renewable Energy W,Investissement dans les energies renouvelables,2021-07-11,1043
+41,42,Venture Capital X,Financement des start-ups innovantes,2021-06-30,1044
+42,43,Healthcare Industry Y,Croissance soutenue dans le secteur de la sante,2021-09-16,1045
+43,44,Agriculture and Food Sector Z,Opportunites dans lagroalimentaire et les produits agricoles,2021-05-25,1046
+44,45,Telecommunication Stocks AA,Stabilite et rendement dans les actions des telecoms,2021-08-20,1047
+45,46,Fashion and Luxury Industry BB,Valorisation des marques de luxe et de mode,2021-07-06,1048
+46,47,Automotive Sector CC,Potentiel de croissance dans lindustrie automobile,2021-06-22,1049
+47,48,Entertainment and Media DD,Diversification par les entreprises de divertissement et medias,2021-09-23,1050
+48,49,Renovation and Construction Projects EE,Investissement dans la renovation et la construction,2021-05-18,1051
+49,50,International Brands FF,Exposition aux marques internationales dans divers secteurs,2021-08-13,1052

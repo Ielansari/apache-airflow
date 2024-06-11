@@ -1,0 +1,51 @@
+,service_id,service_name,description,fees
+0,1,Ouverture de compte courant,Ouverture dun compte courant avec des avantages exclusifs,"Gratuit pour les etudiants, Frais de dossier: 50 DH"
+1,2,Pret personnel,Pret personnel pour financer tous vos projets,Taux dinteret competitif en fonction du montant emprunte
+2,3,Carte bancaire internationale,Carte Mastercard pour vos paiements internationaux,Frais annuels: 200 DH
+3,4,Virement international,Effectuez des transferts dargent a linternational,Frais de virement: Variable en fonction du montant et de la destination
+4,5,Assurance habitation,Assurez votre domicile avec notre assurance complete,Prime dassurance mensuelle variable
+5,6,Epargne programme,Programme depargne avec des taux avantageux,"Pas de frais de gestion, Taux dinteret attractif"
+6,7,Credit immobilier,Financement pour lacquisition de votre residence principale,Taux fixe ou variable selon le choix du client
+7,8,Retrait sans carte,Retirez de largent sans votre carte bancaire,Service gratuit pour les clients de la banque
+8,9,Assistance juridique,Service daide juridique pour nos clients,Frais dassistance a la demande
+9,10,Investissement en bourse,Conseils et accompagnement pour investir en bourse,Frais de courtage en fonction des operations
+10,11,E-banking,Gerez vos comptes en ligne en toute securite,"Acces gratuit, frais de transaction standards"
+11,12,Especes en devises,Obtenez des especes dans diverses devises,Frais de change applicables
+12,13,Assurance voyage,Assurez vos voyages avec notre couverture complete,Prime dassurance selon la duree et la destination
+13,14,Alertes SMS,Recevez des alertes sur votre compte par SMS,Service gratuit pour tous les clients
+14,15,Paiement mobile,Effectuez des paiements en toute simplicite via votre mobile,Aucuns frais pour les petites transactions
+15,16,Planification financiere,Consultations dexperts pour une planification financiere optimale,Honoraires de conseil personnalises
+16,17,Assurance automobile,Assurez votre vehicule avec une couverture adaptee,Prime dassurance annuelle variable
+17,18,Courtage immobilier,Trouvez la propriete ideale avec notre service de courtage,Commission sur la transaction conclue
+18,19,Financement de projets,Obtenez des fonds pour concretiser vos projets,Conditions de financement selon le projet
+19,20,Simulateurs en ligne,Utilisez nos simulateurs pour estimer vos credits et epargnes,Acces gratuit pour tous les utilisateurs
+20,21,Assurance sante,Protegez votre sante et celle de votre famille,Cotisation mensuelle en fonction de la formule choisie
+21,22,Solutions de paiement,Solutions de paiement adaptees aux entreprises,Frais de gestion selon le volume des transactions
+22,23,Prevoyance retraite,Preparez votre retraite sereinement avec notre plan de prevoyance,Cotisations et avantages fiscaux avantageux
+23,24,Gestion de tresorerie,Optimisez la gestion de votre tresorerie avec nos services dedies,Frais de gestion personnalises
+24,25,Conseils patrimoniaux,Consultations pour une gestion efficace de votre patrimoine,Honoraires de conseil selon les services demandes
+25,26,Credit revolving,Obtenez une reserve dargent renouvelable selon vos besoins,Taux revisable en fonction des remboursements
+26,27,Assistance en ligne,Support en ligne pour toutes vos demandes bancaires,Service dassistance gratuit pour tous les clients
+27,28,Paiement securise,Transactions en ligne securisees avec notre systeme de paiement,Service de paiement securise inclus dans les transactions
+28,29,Location de coffre-fort,Louez un coffre-fort pour la protection de vos biens precieux,Tarifs de location selon la taille du coffre et la duree
+29,30,Solutions e-commerce,Solutions de paiement en ligne pour les commercants,Frais de transaction selon le volume de ventes
+30,31,Assurance scolaire,Assurez la scolarite de vos enfants en toute tranquillite,Prime dassurance annuelle selon le niveau de couverture
+31,32,Gestion de compte,Service de gestion deleguee de votre compte bancaire,Honoraires de gestion en fonction des services choisis
+32,33,Assurance deces,Assurance pour proteger vos proches en cas de deces,Cotisation mensuelle en fonction du capital garanti
+33,34,Financement etudes,Credit etudiant pour financer vos etudes superieures,Conditions avantageuses pour les etudiants
+34,35,Service de change,Echangez vos devises etrangeres en toute securite,Frais de change competitifs
+35,36,Assistance depannage,Assistance en cas de panne automobile ou domestique,Frais dintervention en fonction du service demande
+36,37,Assurance vie,Assurance vie pour proteger votre famille et preparer lavenir,Cotisation mensuelle selon le montant assure
+37,38,Credit auto,Pret automobile pour lachat dun vehicule neuf ou doccasion,Taux dinteret attractif et options de remboursement flexibles
+38,39,Conseils fiscaux,Consultations pour une optimisation de votre situation fiscale,Honoraires de conseil adaptes a chaque situation
+39,40,Service suivi credit,Suivi personnalise de vos credits et conseils pour leur gestion,Service gratuit pour tous les clients de la banque
+40,41,Epargne retraite,Constituez une epargne pour preparer votre retraite en toute serenite,Taux dinteret avantageux et avantages fiscaux
+41,42,Assurance juridique,Assistance juridique en cas de litiges ou contentieux,Cotisation mensuelle selon le niveau de couverture choisi
+42,43,Paiement par NFC,Paiements rapides et securises via la technologie NFC,Gratuit pour les transactions de faible montant
+43,44,Credit consommation,Pret a la consommation pour realiser tous vos projets personnels,Conditions attractives et reponse de principe rapide
+44,45,Gestion de titres,Gerez vos titres en toute simplicite avec nos experts en finance,Frais de gestion en fonction du portefeuille
+45,46,Eco-pret,Pret a taux zero pour financer des travaux de renovation energetique,Aucuns interets a rembourser sous certaines conditions
+46,47,Service succession,Accompagnement pour la gestion et le reglement de successions,Frais de service proportionnels a la succession traitee
+47,48,Assurance entreprise,Assurance multirisque pour proteger votre entreprise,Cotisation annuelle en fonction du chiffre daffaires
+48,49,Gestion de patrimoine,Gestion personnalisee de votre patrimoine avec nos experts,Honoraires de gestion adaptes a votre situation
+49,50,Service clients dedie,Service clientele disponible pour repondre a toutes vos questions,Service gratuit pour tous les clients de la banque

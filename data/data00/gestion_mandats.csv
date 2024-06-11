@@ -1,0 +1,51 @@
+num_mandat,client,montant,date_creation,statut
+M001,Ahmed Benkirane,5000,2022-07-15,Actif
+M002,Fadwa Alaoui,7000,2022-07-10,Annulé
+M003,Karim El Khattabi,3500,2022-07-05,Actif
+M004,Sara Amrani,8000,2022-06-28,En attente
+M005,Rachid Bennani,6200,2022-06-20,Actif
+M006,Laila Mernissi,4300,2022-06-15,Actif
+M007,Amir El Ouazzani,5500,2022-06-12,Actif
+M008,Nawal Mahdawi,6700,2022-06-05,En attente
+M009,Omar El Alami,4800,2022-05-28,Actif
+M010,Loubna Saad,5100,2022-05-20,Actif
+M011,Hamza Bensaid,7300,2022-05-15,Actif
+M012,Fatima Ezzahra Khatibi,5900,2022-05-10,Annulé
+M013,Yassin Cherradi,6700,2022-05-05,En attente
+M014,Kaoutar Chafai,4800,2022-04-28,Actif
+M015,Mehdi Alaoui,6200,2022-04-20,Actif
+M016,Safia Lahlou,5400,2022-04-15,Actif
+M017,Brahim El Fassi,4400,2022-04-12,En attente
+M018,Aya Zerouali,6800,2022-04-05,Actif
+M019,Hicham El Mekki,5100,2022-03-28,Actif
+M020,Nada Benmoussa,6600,2022-03-20,Actif
+M021,Imane Ait Ali,4800,2022-03-15,Annulé
+M022,Othmane El Hajji,5200,2022-03-10,Actif
+M023,Yousra Choukri,7000,2022-03-05,En attente
+M024,Taha Lahlou,5900,2022-02-28,Actif
+M025,Latifa Benjelloun,6300,2022-02-20,Actif
+M026,Rachida Ait Mansour,5500,2022-02-15,Actif
+M027,Abdelali El Khattabi,4500,2022-02-10,En attente
+M028,Salma Berrada,6900,2022-02-05,Actif
+M029,Mehdi Alaoui,5200,2022-01-28,Actif
+M030,Houda El Fassi,6100,2022-01-20,Actif
+M031,Amal Benmoussa,4700,2022-01-15,Annulé
+M032,Tarik Karam,6400,2022-01-10,Actif
+M033,Oumaima El Makki,5300,2022-01-05,En attente
+M034,Nabil El Alami,4900,2021-12-28,Actif
+M035,Hafsa El Mernissi,6000,2021-12-20,Actif
+M036,Amine Bouaziz,5600,2021-12-15,Actif
+M037,Ines Chakir,4600,2021-12-12,En attente
+M038,Mohamed El Hajji,7000,2021-12-05,Actif
+M039,Sara Bennani,5300,2021-11-28,Actif
+M040,Youssef El Fassi,5500,2021-11-20,Actif
+M041,Hanane Bahh,4800,2021-11-15,Annulé
+M042,Nadia Berrada,6700,2021-11-10,Actif
+M043,Yassin Chakir,5200,2021-11-05,En attente
+M044,Karima Khatibi,4900,2021-10-28,Actif
+M045,Khalid Benmoussa,6200,2021-10-20,Actif
+M046,Sara El Alami,5400,2021-10-15,Actif
+M047,Said Lahlou,4500,2021-10-12,En attente
+M048,Kawtar El Fassi,6900,2021-10-05,Actif
+M049,Yassir Benmoussa,5100,2021-09-28,Actif
+M050,Nawal El Mekki,6600,2021-09-20,Actif

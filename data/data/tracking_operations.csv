@@ -1,0 +1,43 @@
+,numero_operation,date_operation,heure_operation,type_operation,montant,beneficiaire,statut
+0,TRK002516,2022-03-02,2024-04-23,Virement,1500,Ali El Hicham,Reussi
+1,TRK045732,2022-03-03,2024-04-23,Recharge Telephone,100,Maroc Telecom,Reussi
+2,TRK011287,2022-03-04,2024-04-23,Paiement Facture,600,ONEE,Reussi
+3,TRK083621,2022-03-06,2024-04-23,Virement,2000,Karim Moussa,Reussi
+4,TRK037905,2022-03-08,2024-04-23,Paiement Facture,450,LYDEC,Reussi
+5,TRK064318,2022-03-10,2024-04-23,Virement,300,Fatima Zahra,Reussi
+6,TRK052109,2022-03-12,2024-04-23,Recharge Telephone,50,Inwi,Reussi
+7,TRK029701,2022-03-14,2024-04-23,Virement,800,Khalid Ouardi,Reussi
+8,TRK076431,2022-03-16,2024-04-23,Paiement Facture,700,RADEEMA,Reussi
+9,TRK099877,2022-03-18,2024-04-23,Virement,1500,Youssef Berrada,Reussi
+10,TRK043266,2022-03-20,2024-04-23,Recharge Telephone,60,Orange,Reussi
+11,TRK081546,2022-03-22,2024-04-23,Paiement Facture,300,GASCO,Reussi
+12,TRK019824,2022-03-24,2024-04-23,Virement,1200,Amal Touil,Reussi
+13,TRK057633,2022-03-26,2024-04-23,Paiement Facture,500,CDG,Reussi
+14,TRK035711,2022-03-28,2024-04-23,Recharge Telephone,70,Bayn,Reussi
+15,TRK078421,2022-03-30,2024-04-23,Virement,1800,Loubna Chakir,Reussi
+16,TRK049213,2022-04-01,2024-04-23,Paiement Facture,400,AMANA,Reussi
+17,TRK068379,2022-04-03,2024-04-23,Virement,2500,Nabil Benjelloun,Reussi
+18,TRK055811,2022-04-05,2024-04-23,Recharge Telephone,80,Virgin Mobile,Reussi
+19,TRK072146,2022-04-07,2024-04-23,Virement,2200,Fouad Essadik,Reussi
+20,TRK032399,2022-04-09,2024-04-23,Paiement Facture,350,OCP,Reussi
+21,TRK084727,2022-04-11,2024-04-23,Virement,1600,Salma Lahrichi,Reussi
+22,TRK041527,2022-04-13,2024-04-23,Recharge Telephone,90,Inwi,Reussi
+23,TRK077654,2022-04-15,2024-04-23,Paiement Facture,800,RAM,Reussi
+24,TRK099323,2022-04-17,2024-04-23,Virement,2000,Khadija Zohra,Reussi
+25,TRK055422,2022-04-19,2024-04-23,Recharge Telephone,100,Orange,Reussi
+26,TRK082134,2022-04-21,2024-04-23,Paiement Facture,500,RADEEMA,Reussi
+27,TRK025911,2022-04-23,2024-04-23,Virement,1300,Hassan Ouardi,Reussi
+28,TRK069312,2022-04-25,2024-04-23,Paiement Facture,650,ONEE,Reussi
+29,TRK046722,2022-04-27,2024-04-23,Recharge Telephone,80,Maroc Telecom,Reussi
+30,TRK038112,2022-04-29,2024-04-23,Virement,1600,Karima Bensaid,Reussi
+31,TRK071123,2022-05-01,2024-04-23,Paiement Facture,700,LYDEC,Reussi
+32,TRK059713,2022-05-03,2024-04-23,Recharge Telephone,60,Inwi,Reussi
+33,TRK079624,2022-05-05,2024-04-23,Virement,1800,Kamal Chakir,Reussi
+34,TRK051876,2022-05-07,2024-04-23,Paiement Facture,500,GASCO,Reussi
+35,TRK021345,2022-05-09,2024-04-23,Virement,2500,Youssef Benjelloun,Reussi
+36,TRK067811,2022-05-11,2024-04-23,Recharge Telephone,70,Bayn,Reussi
+37,TRK098213,2022-05-13,2024-04-23,Paiement Facture,800,CDG,Reussi
+38,TRK056490,2022-05-15,2024-04-23,Virement,2000,Nadia Zohra,Reussi
+39,TRK083718,2022-05-17,2024-04-23,Paiement Facture,600,OCP,Reussi
+40,TRK030124,2022-05-19,2024-04-23,Recharge Telephone,90,Orange,Reussi
+41,TRK075623,2022-05-21,2024-04-23,Virement,1300,Hicham Touimi,Reussi
